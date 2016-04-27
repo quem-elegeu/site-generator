@@ -1,6 +1,4 @@
 'use strict';
-const $pack = require('./package'),
-    prjName = `${$pack.name}-saopaulo`;
 var gulp = require('gulp');
 var handlebars = require('gulp-compile-handlebars');
 var rename = require('gulp-rename');
@@ -104,7 +102,7 @@ gulp.task('gen:index', function () {
         }
         let prom = gulp.src('src/template/index.html')
             .pipe(handlebars(templ, options))
-            .pipe(gulp.dest(`www/${prjName}/${path}`));
+            .pipe(gulp.dest(`www/${path}`));
         promises.push(prom);
     }
 
@@ -131,7 +129,7 @@ gulp.task('gen:persons', function () {
         let prom = gulp.src('src/template/person.html')
             .pipe(handlebars(template, options))
             .pipe(rename(`${template.fileName}.html`))
-            .pipe(gulp.dest(`www/${prjName}/vereador`));
+            .pipe(gulp.dest(`www/vereador`));
         promises.push(prom);
     }
     return Promise.all(promises);
@@ -179,7 +177,7 @@ gulp.task('gen:parties', function () {
     return gulp.src('src/template/parties.html')
         .pipe(handlebars(template, options))
         .pipe(rename(`partidos.html`))
-        .pipe(gulp.dest(`www/${prjName}`));
+        .pipe(gulp.dest(`www`));
 });
 
 gulp.task('gen:helpers', function () {
@@ -199,12 +197,12 @@ gulp.task('gen:helpers', function () {
     let work = gulp.src('src/template/how-work.html')
         .pipe(handlebars(template, options))
         .pipe(rename(`como-funciona.html`))
-        .pipe(gulp.dest(`www/${prjName}`));
+        .pipe(gulp.dest(`www`));
 
     let err = gulp.src('src/template/help.html')
         .pipe(handlebars(template, options))
         .pipe(rename(`achou-erro.html`))
-        .pipe(gulp.dest(`www/${prjName}`));
+        .pipe(gulp.dest(`www`));
 
     return Promise.all([work, err]);
 });
@@ -212,19 +210,19 @@ gulp.task('gen:helpers', function () {
 gulp.task('copy:images', function () {
     return gulp.src('src/images/*')
         // Perform minification tasks, etc here
-        .pipe(gulp.dest(`www/${prjName}/images`));
+        .pipe(gulp.dest(`www/images`));
 });
 
 gulp.task('copy:js', function () {
     return gulp.src('src/js/*')
         // Perform minification tasks, etc here
-        .pipe(gulp.dest(`www/${prjName}/js`));
+        .pipe(gulp.dest(`www/js`));
 });
 
 gulp.task('copy:css', function () {
     return gulp.src('src/css/*')
         // Perform minification tasks, etc here
-        .pipe(gulp.dest(`www/${prjName}/css`));
+        .pipe(gulp.dest(`www/css`));
 });
 
 gulp.task('dev:watch', () => {

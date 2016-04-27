@@ -1,4 +1,4 @@
-# placar-mobilidade
+# site-generator
 
 ## Requerimentos
   * node.js 4+
@@ -12,4 +12,4 @@ npm install
 gulp
 ```
 
-O **gulp** irá gerar os template com os dados de cada vereador na pasta `www/placar-mobilidade/`
+O **gulp** irá gerar os template com os dados de cada vereador na pasta `www/`
