@@ -1,7 +1,7 @@
 'use strict';
+const gulp = require('gulp');
 
 gulp.task('copy:css', function () {
     return gulp.src('src/css/*')
-        // Perform minification tasks, etc here
         .pipe(gulp.dest(`www/css`));
 });

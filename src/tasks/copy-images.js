@@ -1,7 +1,7 @@
 'use strict';
+const gulp = require('gulp');
 
 gulp.task('copy:images', function () {
     return gulp.src('src/images/*')
-        // Perform minification tasks, etc here
         .pipe(gulp.dest(`www/images`));
 });

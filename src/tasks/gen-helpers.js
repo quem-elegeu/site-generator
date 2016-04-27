@@ -1,8 +1,9 @@
 'use strict';
-const gulp = require('require');
+const gulp = require('gulp');
 const plugins = require('gulp-load-plugins')();
 
-const paths = require('./utils/paths');
+const $path = require('path');
+const $paths = require('./utils/paths');
 
 const tplDefaults = require('./utils/template-defaults');
 const optFactory = require('./utils/options-factory');
@@ -19,10 +20,10 @@ gulp.task('gen:helpers', function () {
         let template = templateNames[i],
             tpl = tplDefaults();
 
-        let prom = gulp.src(path.join(paths.template, `${template.tpl}.html`))
+        let prom = gulp.src($path.join($paths.template, `${template.tpl}.html`))
             .pipe(plugins.compileHandlebars(tpl, options))
             .pipe(plugins.rename(`${template.to}.html`))
-            .pipe(gulp.dest(`${paths.www}/${tpl.dir}`));
+            .pipe(gulp.dest(`${$paths.www}/${tpl.dir}`));
 
         promises.push(prom);
     }

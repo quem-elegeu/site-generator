@@ -1,23 +1,23 @@
 'use strict';
+const gulp = require('gulp');
+const plugins = require('gulp-load-plugins')();
+
+const $path = require('path');
+const $paths = require('./utils/paths');
+
+const tplDefaults = require('./utils/template-defaults');
+const optFactory = require('./utils/options-factory');
 
 gulp.task('gen:parties', function () {
-    let options = {
-        ignorePartials: true, //ignores the unknown footer2 partial in the handlebars template, defaults to false
-        partials: {},
-        batch: ['./src/partials'],
-        helpers: {
-            capitals: function(str){
-                return str.toUpperCase();
-            }
-        }
-    };
+    let options = optFactory();
+    let parties = {PT: ''};
     let template = {
             favor: [],
             undecided: [],
             against: []
         },
         keys = Object.keys(parties);
-    setDefaults(template);
+    tplDefaults(template);
 
     for (let i=0, len = keys.length; i<len; i++) {
         let party = keys[i],
@@ -39,8 +39,8 @@ gulp.task('gen:parties', function () {
         }
     }
 
-    return gulp.src('src/template/parties.html')
-        .pipe(handlebars(template, options))
-        .pipe(rename(`partidos.html`))
-        .pipe(gulp.dest(`www`));
+    return gulp.src($path.join($paths.template, 'parties.html'))
+        .pipe(plugins.compileHandlebars(template, options))
+        .pipe(plugins.rename(`partidos.html`))
+        .pipe(gulp.dest(`${$paths.www}`));
 });

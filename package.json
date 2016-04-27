@@ -25,6 +25,7 @@
     "gulp-hogan-precompile": "^0.1.1",
     "gulp-load-plugins": "^1.2.2",
     "gulp-rename": "^1.2.2",
-    "node-xlsx": "^0.6.0"
+    "node-xlsx": "^0.6.0",
+    "require-dir": "^0.3.0"
   }
 }

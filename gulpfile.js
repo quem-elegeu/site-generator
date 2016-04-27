@@ -1,5 +1,11 @@
 'use strict';
-var gulp = require('gulp');
+const gulp = require('gulp');
+
+// load tasks
+require('require-dir')('./src/tasks');
+
+let generators = ['gen:candidates', 'gen:index', 'gen:parties', 'gen:helpers'],
+    defaults = ['copy:js', 'copy:css', 'copy:images'].concat(generators);
 
 gulp.task('dev:watch', () => {
     gulp.watch('src/**/*.html', generators).on('error', e => console.error(e));
@@ -8,8 +14,6 @@ gulp.task('dev:watch', () => {
     gulp.watch('src/images/*', ['copy:images']).on('error', e => console.error(e));
 });
 
-let generators = ['gen:persons', 'gen:index', 'gen:parties', 'gen:helpers'],
-    defaults = ['dev:watch', 'copy:js', 'copy:css', 'copy:images'].concat(generators);
-
-
 gulp.task('default', defaults);
+
+gulp.task('dev', defaults.concat('dev:watch'));
