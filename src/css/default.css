@@ -1,4 +1,25 @@
-body { padding-top: 50px; }
+
+* {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 100;
+    background-color: #ccc;
+    background-image: linear-gradient(transparent 45%, rgba(255, 255, 255, 0.5) 25%);
+    background-size: 4px 4px;
+    padding-top: 50px;
+}
+body ul {
+    list-style: none;
+}
+body ul, body li {
+    margin: 0;
+    padding: 0;
+}
 
 section {display: block;}
 .row {

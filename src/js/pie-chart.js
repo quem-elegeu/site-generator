@@ -1,4 +1,4 @@
-$data && (function (data) {
+(function (data) {
     var DURATION = 1500;
     var DELAY = 500;
     function drawPieChart(elementId, data) {
