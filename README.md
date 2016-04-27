@@ -12,4 +12,4 @@ npm install
 gulp
 ```
 
-O **gulp** irá gerar os template com os dados de cada vereador na pasta `www/`
+O **gulp** irá gerar os template com os dados na pasta `www/`
