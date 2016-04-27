@@ -3,17 +3,16 @@
 <head>
     {{> metatags}}
 
-    <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.mincss" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
     <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.css" />
     <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials-theme-flat.css" />
+
+    <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.min.js"></script>
 
-    <link rel="stylesheet" href="css/default.css">
     <script src="http://d3js.org/d3.v3.min.js"></script>
-    <script src="js/liquidFillGauge.js"></script>
+    <link rel="stylesheet" href="css/default.css{{timeHash}}">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -23,24 +22,7 @@
 </head>
 <body>
 {{> header}}
-<header class="home"></header>
-<div class="container-fluid text-center">
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h3 class="panel-title">Compartilhe</h3>
-        </div>
-        <div class="panel-body">
-            <div id="shares"></div>
-        </div>
-        <script>
-            $("#shares").jsSocials({
-                showLabel: false,
-                showCount: false,
-                shares: ["facebook", "googleplus", "twitter", "whatsapp", "email"]
-            });
-        </script>
-    </div>
-</div>
+{{> share}}
 <div class="container no-select" id="graficos">
     <div class="row">
         <div class="xcol-sm-6 xcol-lg-7">
@@ -76,7 +58,7 @@
                                     <svg id="graficoContra" width="100" height="100"></svg>
                                 </div>
                             </div>
-
+<script src="js/liquidFillGauge.js{{timeHash}}"></script>
 <script>
     var gauge1 = loadLiquidFillGauge("graficoFavor", {{favorPct}});
     var config1 = liquidFillGaugeDefaultSettings();

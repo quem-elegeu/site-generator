@@ -4,7 +4,16 @@
     {{> metatags}}
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-    <link rel="stylesheet" href="../css/default.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.css" />
+    <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials-theme-flat.css" />
+
+    <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+    <link rel="stylesheet" href="../css/candidate.css{{timeHash}}">
+    <link rel="stylesheet" href="../css/default.css{{timeHash}}">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -14,6 +23,50 @@
 </head>
 <body>
 {{> header}}
+{{> share}}
+<div class="container-fluid text-center" id="grafico">
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div id="pieChart">
+                <svg id="pieChartSVG">
+                    <defs>
+                        <filter id='pieChartInsetShadow'>
+                            <feOffset dx='0' dy='0'/>
+                            <feGaussianBlur stdDeviation='3' result='offset-blur' />
+                            <feComposite operator='out' in='SourceGraphic' in2='offset-blur' result='inverse' />
+                            <feFlood flood-color='black' flood-opacity='1' result='color' />
+                            <feComposite operator='in' in='color' in2='inverse' result='shadow' />
+                            <feComposite operator='over' in='shadow' in2='SourceGraphic' />
+                        </filter>
+                        <filter id="pieChartDropShadow">
+                            <feGaussianBlur in="SourceAlpha" stdDeviation="3" result="blur" />
+                            <feOffset in="blur" dx="0" dy="3" result="offsetBlur" />
+                            <feMerge>
+                                <feMergeNode />
+                                <feMergeNode in="SourceGraphic" />
+                            </feMerge>
+                        </filter>
+                    </defs>
+                </svg>
+            </div>
+        </div>
+<script>
+var $data = [{
+    color: 'red',
+    description: 'Ipsem lorem text goes here. And foo goes bar goes baz. That\'s up!!!',
+    title: 'flowers',
+    value: 0.62
+},
+{
+    color: 'blue',
+    description: 'Another ipsem text goes here. And baz goes bar goes foo. Oh yeah, whazzz up?',
+    title: 'trains',
+    value: 0.38
+}];
+</script>
+<script src="../js/pie-chart.js{{timeHash}}"></script>
+    </div>
+</div>
 <div class="container">
     <div class="row">
         <div class="col-md-4">

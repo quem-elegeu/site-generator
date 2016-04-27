@@ -13,5 +13,7 @@ module.exports = (obj) => {
     tpl.desc = 'Onde nossos deputados conseguiram os votos necessários para chegar no poder?';
     tpl.imageUrl = `${tpl.url}/images/quem-elegeu-1.jpg`;
 
+    tpl.timeHash = '?t=' + new Date().toJSON();
+
     return tpl;
 };

@@ -10,7 +10,7 @@ const optFactory = require('./utils/options-factory');
 
 gulp.task('gen:candidates', function () {
     let options = optFactory();
-    let data = [{fileName: ''}];
+    let data = [{fileName: 'opa'}];
     let promises = [];
     for (let i=0; i<data.length; i++) {
         let template = data[i];
