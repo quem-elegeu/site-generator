@@ -10,7 +10,7 @@ module.exports = {
         },
         "name": "Acre",
         "capital": "Rio Branco",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandeira_do_Acre.svg/512px-Bandeira_do_Acre.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandeira_do_Acre.svg/512px-Bandeira_do_Acre.svg.png",
         "area": "164 122,2"
     },
     "AL": {
@@ -23,7 +23,7 @@ module.exports = {
         },
         "name": "Alagoas",
         "capital": "Maceió",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandeira_de_Alagoas.svg/512px-Bandeira_de_Alagoas.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandeira_de_Alagoas.svg/512px-Bandeira_de_Alagoas.svg.png",
         "area": "27 767,7"
     },
     "AP": {
@@ -36,7 +36,7 @@ module.exports = {
         },
         "name": "Amapá",
         "capital": "Macapá",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bandeira_do_Amap%C3%A1.svg/512px-Bandeira_do_Amap%C3%A1.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bandeira_do_Amap%C3%A1.svg/512px-Bandeira_do_Amap%C3%A1.svg.png",
         "area": "142 814,6"
     },
     "AM": {
@@ -49,7 +49,7 @@ module.exports = {
         },
         "name": "Amazonas",
         "capital": "Manaus",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_do_Amazonas.svg/512px-Bandeira_do_Amazonas.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_do_Amazonas.svg/512px-Bandeira_do_Amazonas.svg.png",
         "area": "1 570 745,7"
     },
     "BA": {
@@ -62,7 +62,7 @@ module.exports = {
         },
         "name": "Bahia",
         "capital": "Salvador",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/512px-Bandeira_da_Bahia.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/512px-Bandeira_da_Bahia.svg.png",
         "area": "564 692,7"
     },
     "CE": {
@@ -75,7 +75,7 @@ module.exports = {
         },
         "name": "Ceará",
         "capital": "Fortaleza",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/512px-Bandeira_do_Cear%C3%A1.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/512px-Bandeira_do_Cear%C3%A1.svg.png",
         "area": "148 825,6"
     },
     "DF": {
@@ -88,7 +88,7 @@ module.exports = {
         },
         "name": "Distrito Federal",
         "capital": "Brasília",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/512px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/512px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png",
         "area": "5 822,1"
     },
     "ES": {
@@ -101,7 +101,7 @@ module.exports = {
         },
         "name": "Espírito Santo",
         "capital": "Vitória",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/512px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/512px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png",
         "area": "46 077,5"
     },
     "GO": {
@@ -114,7 +114,7 @@ module.exports = {
         },
         "name": "Goiás",
         "capital": "Goiânia",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandeira_de_Goi%C3%A1s.svg/512px-Bandeira_de_Goi%C3%A1s.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bandeira_de_Goi%C3%A1s.svg/512px-Bandeira_de_Goi%C3%A1s.svg.png",
         "area": "340 086,7"
     },
     "MA": {
@@ -127,7 +127,7 @@ module.exports = {
         },
         "name": "Maranhão",
         "capital": "São Luís",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_do_Maranh%C3%A3o.svg/512px-Bandeira_do_Maranh%C3%A3o.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_do_Maranh%C3%A3o.svg/512px-Bandeira_do_Maranh%C3%A3o.svg.png",
         "area": "331 983,3"
     },
     "MT": {
@@ -140,7 +140,7 @@ module.exports = {
         },
         "name": "Mato Grosso",
         "capital": "Cuiabá",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/512px-Bandeira_de_Mato_Grosso.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/512px-Bandeira_de_Mato_Grosso.svg.png",
         "area": "903 357,9"
     },
     "MS": {
@@ -153,7 +153,7 @@ module.exports = {
         },
         "name": "Mato Grosso do Sul",
         "capital": "Campo Grande",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg/512px-Bandeira_de_Mato_Grosso_do_Sul.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg/512px-Bandeira_de_Mato_Grosso_do_Sul.svg.png",
         "area": "357 125,0"
     },
     "MG": {
@@ -166,7 +166,7 @@ module.exports = {
         },
         "name": "Minas Gerais",
         "capital": "Belo Horizonte",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/512px-Bandeira_de_Minas_Gerais.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/512px-Bandeira_de_Minas_Gerais.svg.png",
         "area": "586 528,3"
     },
     "PA": {
@@ -179,7 +179,7 @@ module.exports = {
         },
         "name": "Pará",
         "capital": "Belém",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/512px-Bandeira_do_Par%C3%A1.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/512px-Bandeira_do_Par%C3%A1.svg.png",
         "area": "1 247 689,5"
     },
     "PB": {
@@ -192,7 +192,7 @@ module.exports = {
         },
         "name": "Paraíba",
         "capital": "João Pessoa",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/512px-Bandeira_da_Para%C3%ADba.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/512px-Bandeira_da_Para%C3%ADba.svg.png",
         "area": "56 439,8"
     },
     "PR": {
@@ -205,7 +205,7 @@ module.exports = {
         },
         "name": "Paraná",
         "capital": "Curitiba",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/512px-Bandeira_do_Paran%C3%A1.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/512px-Bandeira_do_Paran%C3%A1.svg.png",
         "area": "199 314,9"
     },
     "PE": {
@@ -218,7 +218,7 @@ module.exports = {
         },
         "name": "Pernambuco",
         "capital": "Recife",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/512px-Bandeira_de_Pernambuco.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/512px-Bandeira_de_Pernambuco.svg.png",
         "area": "98 311,6"
     },
     "PI": {
@@ -231,7 +231,7 @@ module.exports = {
         },
         "name": "Piauí",
         "capital": "Teresina",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandeira_do_Piau%C3%AD.svg/512px-Bandeira_do_Piau%C3%AD.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandeira_do_Piau%C3%AD.svg/512px-Bandeira_do_Piau%C3%AD.svg.png",
         "area": "251 529,2"
     },
     "RJ": {
@@ -244,7 +244,7 @@ module.exports = {
         },
         "name": "Rio de Janeiro",
         "capital": "Rio de Janeiro",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/512px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/512px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png",
         "area": "43 696,1"
     },
     "RN": {
@@ -257,7 +257,7 @@ module.exports = {
         },
         "name": "Rio Grande do Norte",
         "capital": "Natal",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeira_do_Rio_Grande_do_Norte.svg/512px-Bandeira_do_Rio_Grande_do_Norte.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeira_do_Rio_Grande_do_Norte.svg/512px-Bandeira_do_Rio_Grande_do_Norte.svg.png",
         "area": "52 796,8"
     },
     "RS": {
@@ -270,7 +270,7 @@ module.exports = {
         },
         "name": "Rio Grande do Sul",
         "capital": "Porto Alegre",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/512px-Bandeira_do_Rio_Grande_do_Sul.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/512px-Bandeira_do_Rio_Grande_do_Sul.svg.png",
         "area": "281 748,5"
     },
     "RO": {
@@ -283,7 +283,7 @@ module.exports = {
         },
         "name": "Rondônia",
         "capital": "Porto Velho",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/512px-Bandeira_de_Rond%C3%B4nia.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/512px-Bandeira_de_Rond%C3%B4nia.svg.png",
         "area": "237 576,2"
     },
     "RR": {
@@ -296,7 +296,7 @@ module.exports = {
         },
         "name": "Roraima",
         "capital": "Boa Vista",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bandeira_de_Roraima.svg/512px-Bandeira_de_Roraima.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bandeira_de_Roraima.svg/512px-Bandeira_de_Roraima.svg.png",
         "area": "224 299,0"
     },
     "SC": {
@@ -309,7 +309,7 @@ module.exports = {
         },
         "name": "Santa Catarina",
         "capital": "Florianópolis",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/512px-Bandeira_de_Santa_Catarina.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/512px-Bandeira_de_Santa_Catarina.svg.png",
         "area": "95 346,2"
     },
     "SP": {
@@ -322,7 +322,7 @@ module.exports = {
         },
         "name": "São Paulo",
         "capital": "São Paulo",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/512px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/512px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png",
         "area": "248 209,4"
     },
     "SE": {
@@ -335,7 +335,7 @@ module.exports = {
         },
         "name": "Sergipe",
         "capital": "Aracaju",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Sergipe.svg/512px-Bandeira_de_Sergipe.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Sergipe.svg/512px-Bandeira_de_Sergipe.svg.png",
         "area": "21 910,3"
     },
     "TO": {
@@ -348,7 +348,7 @@ module.exports = {
         },
         "name": "Tocantins",
         "capital": "Palmas",
-        "image": "https//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandeira_do_Tocantins.svg/512px-Bandeira_do_Tocantins.svg.png",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Bandeira_do_Tocantins.svg/512px-Bandeira_do_Tocantins.svg.png",
         "area": "277 620,9"
     }
 };
@@ -359,7 +359,7 @@ module.exports = {
 //    states[$(':nth-child(3)', this).text()] = {
 //        name: $(':nth-child(2)', this).text(),
 //        capital: $(':nth-child(4)', this).text(),
-//        image: 'https' + $('img', $(':nth-child(1)', this)).attr('src').replace('/45px-', '/512px-'),
+//        image: 'https:' + $('img', $(':nth-child(1)', this)).attr('src').replace('/45px-', '/512px-'),
 //        area: $(':nth-child(5)', this).text(),
 //        2014: {
 //            population: $(':nth-child(6)', this).text()
