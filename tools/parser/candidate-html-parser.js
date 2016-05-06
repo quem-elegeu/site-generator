@@ -11,7 +11,7 @@ module.exports = (html, cand) => new Promise(resolve => {
                 content = $('#main-content');
 
             cand.image = content.find('img.candidate-image').attr('src');
-            cand.imageCard = content.find('img.candidate-image-card').attr('src');
+            //cand.imageCard = content.find('img.candidate-image-card').attr('src');
             cand.desc = content.find('p[itemprop=description]').text();
 
             let data1 = content.find('p:contains(Naturalidade:)').html().split('<br>'),

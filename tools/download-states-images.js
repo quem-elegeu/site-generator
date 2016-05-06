@@ -2,7 +2,7 @@
 var fs = require('fs'),
     path = require('path');
 
-var download = require('./libs/download');
+var download = require('./libs/download-image');
 
 // ################################
 // Download Brazilian States Flags

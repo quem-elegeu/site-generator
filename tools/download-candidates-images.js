@@ -11,7 +11,7 @@ var download = require('./libs/download-image');
 let states = require('../data/states'),
     statesAbbr = Object.keys(states);
 
-let promise = Promise.resolve();
+let promises = [];
 for (let i=0, len = statesAbbr.length; i<len; i++) {
     let abbr = statesAbbr[i],
         dataPath = path.join(process.cwd(), 'data', abbr, `candidates_${abbr}.json`),
@@ -36,6 +36,10 @@ for (let i=0, len = statesAbbr.length; i<len; i++) {
             imgUrl = `http://static.eleicoes2014.com.br/upload/images/${c1}/${c2}/${name}`,
             imgPath = path.join(baseDir, ''+candidate.candidate);
 
+        if (candidate.image) {
+            imgUrl = candidate.image.replace('.jpg', '');
+        }
+
         let files = [
             {url: `${imgUrl}_s.jpg`, file: `${imgPath}-60x84.png`},
             {url: `${imgUrl}.jpg`, file: `${imgPath}-161x225.png`},
@@ -46,15 +50,16 @@ for (let i=0, len = statesAbbr.length; i<len; i++) {
             continue;
         }
 
-        promise = promise.then(() => Promise.all(
+        let promise = Promise.all(
             files.map(f => download(f.url,  f.file))
         ).then(() => {
             console.log('done', abbr, candidate.party, candidate.urnaName);
-        }));
+        });
+        promises.push(promise);
     }
 }
 
-promise.then(() => {
+Promise.all(promises).then(() => {
     console.log('end');
 }).catch(err => {
     console.log(err.message, err.stack);
