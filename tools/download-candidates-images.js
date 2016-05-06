@@ -3,7 +3,7 @@ var fs = require('fs'),
     path = require('path'),
     diacritics = require('diacritics');
 
-var download = require('./libs/download');
+var download = require('./libs/download-image');
 
 // ################################
 // Download Brazilian States Flags
