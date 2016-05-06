@@ -1,0 +1,194 @@
+[
+  {
+    "name": "A VEZ DE MINAS",
+    "parties": [
+      "DEM",
+      "PSDB",
+      "PP",
+      "PR",
+      "PSD",
+      "SD"
+    ],
+    "votes": 3896151,
+    "quoc": 20.296470134714163,
+    "positions": 20,
+    "countNeeds": 19,
+    "totalNeedVotes": 1347214,
+    "countExtra": 72,
+    "totalExtraVotes": 1212163,
+    "hasMore": false,
+    "pctLess": 0.10024465303953195
+  },
+  {
+    "name": "MINAS PRA VOCÊ",
+    "parties": [
+      "PT",
+      "PMDB",
+      "PCdoB",
+      "PROS",
+      "PRB"
+    ],
+    "votes": 3215339,
+    "quoc": 16.749872370573343,
+    "positions": 17,
+    "countNeeds": 15,
+    "totalNeedVotes": 1213737,
+    "countExtra": 75,
+    "totalExtraVotes": 1165722,
+    "hasMore": false,
+    "pctLess": 0.039559641009543255
+  },
+  {
+    "name": "+MINAS",
+    "parties": [
+      "PTdoB",
+      "PRP",
+      "PHS",
+      "PEN"
+    ],
+    "votes": 715611,
+    "quoc": 3.72787843427345,
+    "positions": 4,
+    "countNeeds": 4,
+    "totalNeedVotes": 447318,
+    "countExtra": 94,
+    "totalExtraVotes": 395081,
+    "hasMore": false,
+    "pctLess": 0.116778220415901
+  },
+  {
+    "name": "MINAS SEGUE EM FRENTE",
+    "parties": [
+      "PPS",
+      "PV",
+      "PDT"
+    ],
+    "votes": 592555,
+    "quoc": 3.0868348944061847,
+    "positions": 3,
+    "countNeeds": 3,
+    "totalNeedVotes": 307584,
+    "countExtra": 88,
+    "totalExtraVotes": 324253,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "MINAS QUER MUDANÇA",
+    "parties": [
+      "PSB",
+      "PPL",
+      "PRTB"
+    ],
+    "votes": 573568,
+    "quoc": 2.9879246934289077,
+    "positions": 3,
+    "countNeeds": 3,
+    "totalNeedVotes": 278029,
+    "countExtra": 71,
+    "totalExtraVotes": 275711,
+    "hasMore": false,
+    "pctLess": 0.00833725978225293
+  },
+  {
+    "name": "UNIDOS POR MINAS",
+    "parties": [
+      "PTB",
+      "PMN"
+    ],
+    "votes": 497835,
+    "quoc": 2.5934039028557736,
+    "positions": 3,
+    "countNeeds": 2,
+    "totalNeedVotes": 152172,
+    "countExtra": 40,
+    "totalExtraVotes": 266083,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "MINAS MELHOR",
+    "parties": [
+      "PSC",
+      "PTC",
+      "PSL"
+    ],
+    "votes": 381420,
+    "quoc": 1.9869557516591825,
+    "positions": 2,
+    "countNeeds": 2,
+    "totalNeedVotes": 242470,
+    "countExtra": 82,
+    "totalExtraVotes": 239966,
+    "hasMore": false,
+    "pctLess": 0.01032705076916732
+  },
+  {
+    "name": "UMA SO MINAS",
+    "parties": [
+      "PTN",
+      "PSDC"
+    ],
+    "votes": 196039,
+    "quoc": 1.0212385784686553,
+    "positions": 1,
+    "countNeeds": 1,
+    "totalNeedVotes": 142571,
+    "countExtra": 30,
+    "totalExtraVotes": 146648,
+    "hasMore": true,
+    "pctLess": 0
+  },
+  {
+    "name": "50 - PSOL",
+    "parties": [
+      "PSOL"
+    ],
+    "votes": 66870,
+    "quoc": 0.3483501943092904,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 16,
+    "totalExtraVotes": 66870
+  },
+  {
+    "name": "16 - PSTU",
+    "parties": [
+      "PSTU"
+    ],
+    "votes": 18648,
+    "quoc": 0.09714422646148717,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 22,
+    "totalExtraVotes": 18648
+  },
+  {
+    "name": "21 - PCB",
+    "parties": [
+      "PCB"
+    ],
+    "votes": 15552,
+    "quoc": 0.08101603442347964,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 11,
+    "totalExtraVotes": 15552
+  },
+  {
+    "name": "29 - PCO",
+    "parties": [
+      "PCO"
+    ],
+    "votes": 4390,
+    "quoc": 0.022869109511257438,
+    "positions": 0,
+    "countNeeds": 0,
+    "totalNeedVotes": 0,
+    "countExtra": 2,
+    "totalExtraVotes": 4390
+  }
+]

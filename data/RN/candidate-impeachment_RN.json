@@ -1,0 +1,2252 @@
+[
+  {
+    "candidate": 1511,
+    "fullName": "WALTER PEREIRA ALVES",
+    "urnaName": "WALTER ALVES",
+    "party": "PMDB",
+    "state": "RN",
+    "impeachment": true,
+    "votes": 191064,
+    "pct": 12.07,
+    "individual": false,
+    "quoc": 0.97,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PMDB",
+        "PR",
+        "PSB",
+        "PROS",
+        "PDT",
+        "SD",
+        "PSC",
+        "DEM",
+        "PV",
+        "PMN",
+        "PRP",
+        "PSDB",
+        "PSDC",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 1515,
+          "urnaName": "FAFA ROSADO",
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 33130,
+          "pct": 0.0053,
+          "auxVotes": 540
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 15956,
+          "pct": 0.0111,
+          "auxVotes": 260
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "RN",
+          "votes": 2675,
+          "pct": 0.0163,
+          "auxVotes": 44
+        },
+        {
+          "candidate": 4040,
+          "urnaName": "SANDRA ROSADO",
+          "party": "PSB",
+          "state": "RN",
+          "votes": 51612,
+          "pct": 0.011,
+          "auxVotes": 841
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "RN",
+          "votes": 17112,
+          "pct": 0.0103,
+          "auxVotes": 279
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "RN",
+          "votes": 6654,
+          "pct": 0.0163,
+          "auxVotes": 108
+        },
+        {
+          "candidate": 9025,
+          "urnaName": "IRMA VERA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 2323,
+          "pct": 0.0163,
+          "auxVotes": 38
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "DEBORA VITORIA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 1512,
+          "pct": 0.0163,
+          "auxVotes": 25
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "SAVIO",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 43363,
+          "pct": 0.0131,
+          "auxVotes": 707
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "RN",
+          "votes": 7008,
+          "pct": 0.0163,
+          "auxVotes": 114
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "PROF. MARCOS",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 645,
+          "pct": 0.0163,
+          "auxVotes": 11
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "JARLENE",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 481,
+          "pct": 0.0163,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "DELEGADO LUCENA",
+          "party": "SD",
+          "state": "RN",
+          "votes": 21787,
+          "pct": 0.0081,
+          "auxVotes": 355
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "RN",
+          "votes": 1377,
+          "pct": 0.0163,
+          "auxVotes": 22
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "ABIDENE",
+          "party": "PSC",
+          "state": "RN",
+          "votes": 4565,
+          "pct": 0.0163,
+          "auxVotes": 74
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "RN",
+          "votes": 939,
+          "pct": 0.0163,
+          "auxVotes": 15
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "RN",
+          "votes": 6818,
+          "pct": 0.0163,
+          "auxVotes": 111
+        },
+        {
+          "candidate": 4333,
+          "urnaName": "PAULO WAGNER",
+          "party": "PV",
+          "state": "RN",
+          "votes": 5985,
+          "pct": 0.0163,
+          "auxVotes": 98
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "RN",
+          "votes": 715,
+          "pct": 0.0163,
+          "auxVotes": 12
+        },
+        {
+          "candidate": 33,
+          "party": "PMN",
+          "state": "RN",
+          "votes": 1976,
+          "pct": 0.0163,
+          "auxVotes": 32
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "DR CARLOS CAMAL",
+          "party": "PRP",
+          "state": "RN",
+          "votes": 2008,
+          "pct": 0.0163,
+          "auxVotes": 33
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "RN",
+          "votes": 1220,
+          "pct": 0.0163,
+          "auxVotes": 20
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "RN",
+          "votes": 9119,
+          "pct": 0.0163,
+          "auxVotes": 149
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "DR. JOANILSON",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 7615,
+          "pct": 0.0163,
+          "auxVotes": 124
+        },
+        {
+          "candidate": 2777,
+          "urnaName": "EMANUEL MARQUES",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 4060,
+          "pct": 0.0163,
+          "auxVotes": 66
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 231,
+          "pct": 0.0163,
+          "auxVotes": 4
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "ABRAAO LINCOLN",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 63371,
+          "pct": 0.016,
+          "auxVotes": 1011,
+          "canVotes": 1033
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "RN",
+          "votes": 1811,
+          "pct": 0.0163,
+          "auxVotes": 30
+        },
+        {
+          "candidate": 1033,
+          "urnaName": "ANTONIO JUNIOR",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 526,
+          "pct": 0.0163,
+          "auxVotes": 9
+        }
+      ],
+      "needVotes": 6793,
+      "pctVotes": 0.0215,
+      "realNeedVotes": 5140,
+      "realPctVotes": 0.0163,
+      "totalVotes": 5140,
+      "voteEach": 177
+    }
+  },
+  {
+    "candidate": 9090,
+    "fullName": "RAFAEL HUETE DA MOTTA",
+    "urnaName": "RAFAEL MOTTA",
+    "party": "PROS",
+    "state": "RN",
+    "impeachment": true,
+    "votes": 176239,
+    "pct": 11.13,
+    "individual": false,
+    "quoc": 0.89,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PMDB",
+        "PR",
+        "PSB",
+        "PROS",
+        "PDT",
+        "SD",
+        "PSC",
+        "DEM",
+        "PV",
+        "PMN",
+        "PRP",
+        "PSDB",
+        "PSDC",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 1515,
+          "urnaName": "FAFA ROSADO",
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 33130,
+          "pct": 0.017,
+          "auxVotes": 1713
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 15956,
+          "pct": 0.0353,
+          "auxVotes": 825
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "RN",
+          "votes": 2675,
+          "pct": 0.0517,
+          "auxVotes": 138
+        },
+        {
+          "candidate": 4040,
+          "urnaName": "SANDRA ROSADO",
+          "party": "PSB",
+          "state": "RN",
+          "votes": 51612,
+          "pct": 0.0352,
+          "auxVotes": 2668
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "RN",
+          "votes": 17112,
+          "pct": 0.033,
+          "auxVotes": 885
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "RN",
+          "votes": 6654,
+          "pct": 0.0517,
+          "auxVotes": 344
+        },
+        {
+          "candidate": 9025,
+          "urnaName": "IRMA VERA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 2323,
+          "pct": 0.0517,
+          "auxVotes": 120
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "DEBORA VITORIA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 1512,
+          "pct": 0.0517,
+          "auxVotes": 78
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "SAVIO",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 43363,
+          "pct": 0.0419,
+          "auxVotes": 2242
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "RN",
+          "votes": 7008,
+          "pct": 0.0517,
+          "auxVotes": 362
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "PROF. MARCOS",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 645,
+          "pct": 0.0517,
+          "auxVotes": 33
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "JARLENE",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 481,
+          "pct": 0.0517,
+          "auxVotes": 25
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "DELEGADO LUCENA",
+          "party": "SD",
+          "state": "RN",
+          "votes": 21787,
+          "pct": 0.0259,
+          "auxVotes": 1126
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "RN",
+          "votes": 1377,
+          "pct": 0.0517,
+          "auxVotes": 71
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "ABIDENE",
+          "party": "PSC",
+          "state": "RN",
+          "votes": 4565,
+          "pct": 0.0517,
+          "auxVotes": 236
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "RN",
+          "votes": 939,
+          "pct": 0.0517,
+          "auxVotes": 49
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "RN",
+          "votes": 6818,
+          "pct": 0.0517,
+          "auxVotes": 352
+        },
+        {
+          "candidate": 4333,
+          "urnaName": "PAULO WAGNER",
+          "party": "PV",
+          "state": "RN",
+          "votes": 5985,
+          "pct": 0.0517,
+          "auxVotes": 309
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "RN",
+          "votes": 715,
+          "pct": 0.0517,
+          "auxVotes": 37
+        },
+        {
+          "candidate": 33,
+          "party": "PMN",
+          "state": "RN",
+          "votes": 1976,
+          "pct": 0.0517,
+          "auxVotes": 102
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "DR CARLOS CAMAL",
+          "party": "PRP",
+          "state": "RN",
+          "votes": 2008,
+          "pct": 0.0517,
+          "auxVotes": 104
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "RN",
+          "votes": 1220,
+          "pct": 0.0517,
+          "auxVotes": 63
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "RN",
+          "votes": 9119,
+          "pct": 0.0517,
+          "auxVotes": 471
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "DR. JOANILSON",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 7615,
+          "pct": 0.0517,
+          "auxVotes": 394
+        },
+        {
+          "candidate": 2777,
+          "urnaName": "EMANUEL MARQUES",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 4060,
+          "pct": 0.0517,
+          "auxVotes": 210
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 231,
+          "pct": 0.0517,
+          "auxVotes": 12
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "ABRAAO LINCOLN",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 63371,
+          "pct": 0.0515,
+          "auxVotes": 3266,
+          "canVotes": 3276
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "RN",
+          "votes": 1811,
+          "pct": 0.0517,
+          "auxVotes": 94
+        },
+        {
+          "candidate": 1033,
+          "urnaName": "ANTONIO JUNIOR",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 526,
+          "pct": 0.0517,
+          "auxVotes": 27
+        }
+      ],
+      "needVotes": 21618,
+      "pctVotes": 0.0683,
+      "realNeedVotes": 16356,
+      "realPctVotes": 0.0517,
+      "totalVotes": 16356,
+      "voteEach": 564
+    }
+  },
+  {
+    "candidate": 5555,
+    "fullName": "FÁBIO SALUSTINO MESQUITA DE FARIA",
+    "urnaName": "FABIO FARIA",
+    "party": "PSD",
+    "state": "RN",
+    "impeachment": true,
+    "votes": 166427,
+    "pct": 10.51,
+    "individual": false,
+    "quoc": 0.84,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PSD",
+        "PT",
+        "PCdoB",
+        "PTdoB",
+        "PP",
+        "PEN"
+      ],
+      "others": [
+        {
+          "candidate": 5511,
+          "urnaName": "PROF. GIOVANI JR",
+          "party": "PSD",
+          "state": "RN",
+          "votes": 10715,
+          "pct": 0.1173,
+          "auxVotes": 2043
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "RN",
+          "votes": 8950,
+          "pct": 0.1404,
+          "auxVotes": 1707
+        },
+        {
+          "candidate": 5590,
+          "urnaName": "CABO HERONIDES",
+          "party": "PSD",
+          "state": "RN",
+          "votes": 4534,
+          "pct": 0.1907,
+          "auxVotes": 865
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "EDINHA",
+          "party": "PSD",
+          "state": "RN",
+          "votes": 155,
+          "pct": 0.1907,
+          "auxVotes": 30
+        },
+        {
+          "candidate": 5588,
+          "urnaName": "MARILIA DA USINA",
+          "party": "PSD",
+          "state": "RN",
+          "votes": 110,
+          "pct": 0.1907,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 1355,
+          "urnaName": "ADRIANO GADELHA",
+          "party": "PT",
+          "state": "RN",
+          "votes": 34727,
+          "pct": 0.1163,
+          "auxVotes": 4038,
+          "canVotes": 6622
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "RN",
+          "votes": 29933,
+          "pct": 0.1349,
+          "auxVotes": 4038,
+          "canVotes": 5708
+        },
+        {
+          "candidate": 1366,
+          "urnaName": "HUGO MANSO",
+          "party": "PT",
+          "state": "RN",
+          "votes": 25767,
+          "pct": 0.1567,
+          "auxVotes": 4038,
+          "canVotes": 4914
+        },
+        {
+          "candidate": 1333,
+          "urnaName": "ERALDO",
+          "party": "PT",
+          "state": "RN",
+          "votes": 17450,
+          "pct": 0.1698,
+          "auxVotes": 3328
+        },
+        {
+          "candidate": 1311,
+          "urnaName": "CARLOS ALBERTO",
+          "party": "PT",
+          "state": "RN",
+          "votes": 11858,
+          "pct": 0.106,
+          "auxVotes": 2261
+        },
+        {
+          "candidate": 1313,
+          "urnaName": "VALMIR ALVES",
+          "party": "PT",
+          "state": "RN",
+          "votes": 11816,
+          "pct": 0.1064,
+          "auxVotes": 2253
+        },
+        {
+          "candidate": 1344,
+          "urnaName": "ALDO TORQUATO",
+          "party": "PT",
+          "state": "RN",
+          "votes": 4171,
+          "pct": 0.1907,
+          "auxVotes": 795
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ELIANA",
+          "party": "PT",
+          "state": "RN",
+          "votes": 891,
+          "pct": 0.1907,
+          "auxVotes": 170
+        },
+        {
+          "candidate": 6565,
+          "urnaName": "ALEXANDRE FERREIRA",
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 3120,
+          "pct": 0.1907,
+          "auxVotes": 595
+        },
+        {
+          "candidate": 6566,
+          "urnaName": "VITAL NOGUEIRA",
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 2728,
+          "pct": 0.1907,
+          "auxVotes": 520
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 1710,
+          "pct": 0.1907,
+          "auxVotes": 326
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "SABRINA SANTANA",
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 889,
+          "pct": 0.1907,
+          "auxVotes": 170
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "WANGLE",
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 671,
+          "pct": 0.1907,
+          "auxVotes": 128
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "RN",
+          "votes": 744,
+          "pct": 0.1907,
+          "auxVotes": 142
+        },
+        {
+          "candidate": 1112,
+          "urnaName": "MESTRE RAIMUNDO",
+          "party": "PP",
+          "state": "RN",
+          "votes": 4909,
+          "pct": 0.1907,
+          "auxVotes": 936
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "RICARDO WAGNER",
+          "party": "PP",
+          "state": "RN",
+          "votes": 3517,
+          "pct": 0.1907,
+          "auxVotes": 671
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "RN",
+          "votes": 3273,
+          "pct": 0.1907,
+          "auxVotes": 624
+        },
+        {
+          "candidate": 5111,
+          "urnaName": "IRMAO RICARDO MENDONCA",
+          "party": "PEN",
+          "state": "RN",
+          "votes": 5397,
+          "pct": 0.1907,
+          "auxVotes": 1029
+        },
+        {
+          "candidate": 5177,
+          "urnaName": "DRA, HELENEIDE AMORIM",
+          "party": "PEN",
+          "state": "RN",
+          "votes": 2797,
+          "pct": 0.1907,
+          "auxVotes": 533
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "RN",
+          "votes": 887,
+          "pct": 0.1907,
+          "auxVotes": 169
+        }
+      ],
+      "needVotes": 31430,
+      "pctVotes": 0.1907,
+      "realNeedVotes": 31430,
+      "realPctVotes": 0.1907,
+      "totalVotes": 31430,
+      "voteEach": 1257
+    }
+  },
+  {
+    "candidate": 2222,
+    "fullName": "ZENAIDE MAIA CALADO PEREIRA DOS SANTOS",
+    "urnaName": "DRA ZENAIDE MAIA",
+    "party": "PR",
+    "state": "RN",
+    "impeachment": false,
+    "votes": 134588,
+    "pct": 8.5,
+    "individual": false,
+    "quoc": 0.68,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PMDB",
+        "PR",
+        "PSB",
+        "PROS",
+        "PDT",
+        "SD",
+        "PSC",
+        "DEM",
+        "PV",
+        "PMN",
+        "PRP",
+        "PSDB",
+        "PSDC",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 1515,
+          "urnaName": "FAFA ROSADO",
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 33130,
+          "pct": 0.0498,
+          "auxVotes": 5009
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 15956,
+          "pct": 0.1035,
+          "auxVotes": 2413
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "RN",
+          "votes": 2675,
+          "pct": 0.1512,
+          "auxVotes": 404
+        },
+        {
+          "candidate": 4040,
+          "urnaName": "SANDRA ROSADO",
+          "party": "PSB",
+          "state": "RN",
+          "votes": 51612,
+          "pct": 0.1031,
+          "auxVotes": 7804
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "RN",
+          "votes": 17112,
+          "pct": 0.0965,
+          "auxVotes": 2587
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "RN",
+          "votes": 6654,
+          "pct": 0.1512,
+          "auxVotes": 1006
+        },
+        {
+          "candidate": 9025,
+          "urnaName": "IRMA VERA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 2323,
+          "pct": 0.1512,
+          "auxVotes": 351
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "DEBORA VITORIA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 1512,
+          "pct": 0.1512,
+          "auxVotes": 229
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "SAVIO",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 43363,
+          "pct": 0.1227,
+          "auxVotes": 6556
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "RN",
+          "votes": 7008,
+          "pct": 0.1512,
+          "auxVotes": 1060
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "PROF. MARCOS",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 645,
+          "pct": 0.1512,
+          "auxVotes": 98
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "JARLENE",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 481,
+          "pct": 0.1512,
+          "auxVotes": 73
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "DELEGADO LUCENA",
+          "party": "SD",
+          "state": "RN",
+          "votes": 21787,
+          "pct": 0.0758,
+          "auxVotes": 3294
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "RN",
+          "votes": 1377,
+          "pct": 0.1512,
+          "auxVotes": 208
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "ABIDENE",
+          "party": "PSC",
+          "state": "RN",
+          "votes": 4565,
+          "pct": 0.1512,
+          "auxVotes": 690
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "RN",
+          "votes": 939,
+          "pct": 0.1512,
+          "auxVotes": 142
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "RN",
+          "votes": 6818,
+          "pct": 0.1512,
+          "auxVotes": 1031
+        },
+        {
+          "candidate": 4333,
+          "urnaName": "PAULO WAGNER",
+          "party": "PV",
+          "state": "RN",
+          "votes": 5985,
+          "pct": 0.1512,
+          "auxVotes": 905
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "RN",
+          "votes": 715,
+          "pct": 0.1512,
+          "auxVotes": 108
+        },
+        {
+          "candidate": 33,
+          "party": "PMN",
+          "state": "RN",
+          "votes": 1976,
+          "pct": 0.1512,
+          "auxVotes": 299
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "DR CARLOS CAMAL",
+          "party": "PRP",
+          "state": "RN",
+          "votes": 2008,
+          "pct": 0.1512,
+          "auxVotes": 304
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "RN",
+          "votes": 1220,
+          "pct": 0.1512,
+          "auxVotes": 184
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "RN",
+          "votes": 9119,
+          "pct": 0.1512,
+          "auxVotes": 1379
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "DR. JOANILSON",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 7615,
+          "pct": 0.1512,
+          "auxVotes": 1151
+        },
+        {
+          "candidate": 2777,
+          "urnaName": "EMANUEL MARQUES",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 4060,
+          "pct": 0.1512,
+          "auxVotes": 614
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 231,
+          "pct": 0.1512,
+          "auxVotes": 35
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "ABRAAO LINCOLN",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 63371,
+          "pct": 0.1259,
+          "auxVotes": 9582
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "RN",
+          "votes": 1811,
+          "pct": 0.1512,
+          "auxVotes": 274
+        },
+        {
+          "candidate": 1033,
+          "urnaName": "ANTONIO JUNIOR",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 526,
+          "pct": 0.1512,
+          "auxVotes": 80
+        }
+      ],
+      "needVotes": 63269,
+      "pctVotes": 0.1998,
+      "realNeedVotes": 47870,
+      "realPctVotes": 0.1512,
+      "totalVotes": 47870,
+      "voteEach": 1651
+    }
+  },
+  {
+    "candidate": 2512,
+    "fullName": "FELIPE CATALÃO MAIA",
+    "urnaName": "FELIPE MAIA",
+    "party": "DEM",
+    "state": "RN",
+    "impeachment": true,
+    "votes": 113722,
+    "pct": 7.18,
+    "individual": false,
+    "quoc": 0.57,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PMDB",
+        "PR",
+        "PSB",
+        "PROS",
+        "PDT",
+        "SD",
+        "PSC",
+        "DEM",
+        "PV",
+        "PMN",
+        "PRP",
+        "PSDB",
+        "PSDC",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 1515,
+          "urnaName": "FAFA ROSADO",
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 33130,
+          "pct": 0.0663,
+          "auxVotes": 6662
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 15956,
+          "pct": 0.1376,
+          "auxVotes": 3209
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "RN",
+          "votes": 2675,
+          "pct": 0.2011,
+          "auxVotes": 538
+        },
+        {
+          "candidate": 4040,
+          "urnaName": "SANDRA ROSADO",
+          "party": "PSB",
+          "state": "RN",
+          "votes": 51612,
+          "pct": 0.1371,
+          "auxVotes": 10379
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "RN",
+          "votes": 17112,
+          "pct": 0.1283,
+          "auxVotes": 3441
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "RN",
+          "votes": 6654,
+          "pct": 0.2011,
+          "auxVotes": 1338
+        },
+        {
+          "candidate": 9025,
+          "urnaName": "IRMA VERA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 2323,
+          "pct": 0.2011,
+          "auxVotes": 467
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "DEBORA VITORIA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 1512,
+          "pct": 0.2011,
+          "auxVotes": 304
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "SAVIO",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 43363,
+          "pct": 0.1632,
+          "auxVotes": 8720
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "RN",
+          "votes": 7008,
+          "pct": 0.2011,
+          "auxVotes": 1409
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "PROF. MARCOS",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 645,
+          "pct": 0.2011,
+          "auxVotes": 130
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "JARLENE",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 481,
+          "pct": 0.2011,
+          "auxVotes": 97
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "DELEGADO LUCENA",
+          "party": "SD",
+          "state": "RN",
+          "votes": 21787,
+          "pct": 0.1007,
+          "auxVotes": 4381
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "RN",
+          "votes": 1377,
+          "pct": 0.2011,
+          "auxVotes": 277
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "ABIDENE",
+          "party": "PSC",
+          "state": "RN",
+          "votes": 4565,
+          "pct": 0.2011,
+          "auxVotes": 918
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "RN",
+          "votes": 939,
+          "pct": 0.2011,
+          "auxVotes": 189
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "RN",
+          "votes": 6818,
+          "pct": 0.2011,
+          "auxVotes": 1371
+        },
+        {
+          "candidate": 4333,
+          "urnaName": "PAULO WAGNER",
+          "party": "PV",
+          "state": "RN",
+          "votes": 5985,
+          "pct": 0.2011,
+          "auxVotes": 1204
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "RN",
+          "votes": 715,
+          "pct": 0.2011,
+          "auxVotes": 144
+        },
+        {
+          "candidate": 33,
+          "party": "PMN",
+          "state": "RN",
+          "votes": 1976,
+          "pct": 0.2011,
+          "auxVotes": 397
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "DR CARLOS CAMAL",
+          "party": "PRP",
+          "state": "RN",
+          "votes": 2008,
+          "pct": 0.2011,
+          "auxVotes": 404
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "RN",
+          "votes": 1220,
+          "pct": 0.2011,
+          "auxVotes": 245
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "RN",
+          "votes": 9119,
+          "pct": 0.2011,
+          "auxVotes": 1834
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "DR. JOANILSON",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 7615,
+          "pct": 0.2011,
+          "auxVotes": 1531
+        },
+        {
+          "candidate": 2777,
+          "urnaName": "EMANUEL MARQUES",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 4060,
+          "pct": 0.2011,
+          "auxVotes": 816
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 231,
+          "pct": 0.2011,
+          "auxVotes": 46
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "ABRAAO LINCOLN",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 63371,
+          "pct": 0.201,
+          "auxVotes": 12736,
+          "canVotes": 12744
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "RN",
+          "votes": 1811,
+          "pct": 0.2011,
+          "auxVotes": 364
+        },
+        {
+          "candidate": 1033,
+          "urnaName": "ANTONIO JUNIOR",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 526,
+          "pct": 0.2011,
+          "auxVotes": 106
+        }
+      ],
+      "needVotes": 84135,
+      "pctVotes": 0.2658,
+      "realNeedVotes": 63657,
+      "realPctVotes": 0.2011,
+      "totalVotes": 63657,
+      "voteEach": 2195
+    }
+  },
+  {
+    "candidate": 4545,
+    "fullName": "ROGÉRIO SIMONETTI MARINHO",
+    "urnaName": "ROGERIO MARINHO",
+    "party": "PSDB",
+    "state": "RN",
+    "impeachment": true,
+    "votes": 81534,
+    "pct": 5.15,
+    "individual": false,
+    "quoc": 0.41,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PMDB",
+        "PR",
+        "PSB",
+        "PROS",
+        "PDT",
+        "SD",
+        "PSC",
+        "DEM",
+        "PV",
+        "PMN",
+        "PRP",
+        "PSDB",
+        "PSDC",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 1515,
+          "urnaName": "FAFA ROSADO",
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 33130,
+          "pct": 0.0916,
+          "auxVotes": 9210
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 15956,
+          "pct": 0.1902,
+          "auxVotes": 4436
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "RN",
+          "votes": 2675,
+          "pct": 0.278,
+          "auxVotes": 744
+        },
+        {
+          "candidate": 4040,
+          "urnaName": "SANDRA ROSADO",
+          "party": "PSB",
+          "state": "RN",
+          "votes": 51612,
+          "pct": 0.1895,
+          "auxVotes": 14348
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "RN",
+          "votes": 17112,
+          "pct": 0.1774,
+          "auxVotes": 4757
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "RN",
+          "votes": 6654,
+          "pct": 0.278,
+          "auxVotes": 1850
+        },
+        {
+          "candidate": 9025,
+          "urnaName": "IRMA VERA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 2323,
+          "pct": 0.278,
+          "auxVotes": 646
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "DEBORA VITORIA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 1512,
+          "pct": 0.278,
+          "auxVotes": 420
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "SAVIO",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 43363,
+          "pct": 0.2256,
+          "auxVotes": 12055
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "RN",
+          "votes": 7008,
+          "pct": 0.278,
+          "auxVotes": 1948
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "PROF. MARCOS",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 645,
+          "pct": 0.278,
+          "auxVotes": 179
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "JARLENE",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 481,
+          "pct": 0.278,
+          "auxVotes": 134
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "DELEGADO LUCENA",
+          "party": "SD",
+          "state": "RN",
+          "votes": 21787,
+          "pct": 0.1393,
+          "auxVotes": 6057
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "RN",
+          "votes": 1377,
+          "pct": 0.278,
+          "auxVotes": 383
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "ABIDENE",
+          "party": "PSC",
+          "state": "RN",
+          "votes": 4565,
+          "pct": 0.278,
+          "auxVotes": 1269
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "RN",
+          "votes": 939,
+          "pct": 0.278,
+          "auxVotes": 261
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "RN",
+          "votes": 6818,
+          "pct": 0.278,
+          "auxVotes": 1895
+        },
+        {
+          "candidate": 4333,
+          "urnaName": "PAULO WAGNER",
+          "party": "PV",
+          "state": "RN",
+          "votes": 5985,
+          "pct": 0.278,
+          "auxVotes": 1664
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "RN",
+          "votes": 715,
+          "pct": 0.278,
+          "auxVotes": 199
+        },
+        {
+          "candidate": 33,
+          "party": "PMN",
+          "state": "RN",
+          "votes": 1976,
+          "pct": 0.278,
+          "auxVotes": 549
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "DR CARLOS CAMAL",
+          "party": "PRP",
+          "state": "RN",
+          "votes": 2008,
+          "pct": 0.278,
+          "auxVotes": 558
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "RN",
+          "votes": 1220,
+          "pct": 0.278,
+          "auxVotes": 339
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "RN",
+          "votes": 9119,
+          "pct": 0.278,
+          "auxVotes": 2535
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "DR. JOANILSON",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 7615,
+          "pct": 0.278,
+          "auxVotes": 2117
+        },
+        {
+          "candidate": 2777,
+          "urnaName": "EMANUEL MARQUES",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 4060,
+          "pct": 0.278,
+          "auxVotes": 1129
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 231,
+          "pct": 0.278,
+          "auxVotes": 64
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "ABRAAO LINCOLN",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 63371,
+          "pct": 0.278,
+          "auxVotes": 17616,
+          "canVotes": 17617
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "RN",
+          "votes": 1811,
+          "pct": 0.278,
+          "auxVotes": 503
+        },
+        {
+          "candidate": 1033,
+          "urnaName": "ANTONIO JUNIOR",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 526,
+          "pct": 0.278,
+          "auxVotes": 146
+        }
+      ],
+      "needVotes": 116323,
+      "pctVotes": 0.3674,
+      "realNeedVotes": 88011,
+      "realPctVotes": 0.278,
+      "totalVotes": 88011,
+      "voteEach": 3035
+    }
+  },
+  {
+    "candidate": 3333,
+    "fullName": "ANTÔNIO JÁCOME DE LIMA JUNIOR",
+    "urnaName": "JACOME",
+    "party": "PMN",
+    "state": "RN",
+    "impeachment": true,
+    "votes": 71555,
+    "pct": 4.52,
+    "individual": false,
+    "quoc": 0.36,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PMDB",
+        "PR",
+        "PSB",
+        "PROS",
+        "PDT",
+        "SD",
+        "PSC",
+        "DEM",
+        "PV",
+        "PMN",
+        "PRP",
+        "PSDB",
+        "PSDC",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 1515,
+          "urnaName": "FAFA ROSADO",
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 33130,
+          "pct": 0.0995,
+          "auxVotes": 9999
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "RN",
+          "votes": 15956,
+          "pct": 0.2065,
+          "auxVotes": 4816
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "RN",
+          "votes": 2675,
+          "pct": 0.3018,
+          "auxVotes": 807
+        },
+        {
+          "candidate": 4040,
+          "urnaName": "SANDRA ROSADO",
+          "party": "PSB",
+          "state": "RN",
+          "votes": 51612,
+          "pct": 0.2058,
+          "auxVotes": 15577
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "RN",
+          "votes": 17112,
+          "pct": 0.1926,
+          "auxVotes": 5164
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "RN",
+          "votes": 6654,
+          "pct": 0.3018,
+          "auxVotes": 2008
+        },
+        {
+          "candidate": 9025,
+          "urnaName": "IRMA VERA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 2323,
+          "pct": 0.3018,
+          "auxVotes": 701
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "DEBORA VITORIA",
+          "party": "PROS",
+          "state": "RN",
+          "votes": 1512,
+          "pct": 0.3018,
+          "auxVotes": 456
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "SAVIO",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 43363,
+          "pct": 0.245,
+          "auxVotes": 13087
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "RN",
+          "votes": 7008,
+          "pct": 0.3018,
+          "auxVotes": 2115
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "PROF. MARCOS",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 645,
+          "pct": 0.3018,
+          "auxVotes": 195
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "JARLENE",
+          "party": "PDT",
+          "state": "RN",
+          "votes": 481,
+          "pct": 0.3018,
+          "auxVotes": 145
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "DELEGADO LUCENA",
+          "party": "SD",
+          "state": "RN",
+          "votes": 21787,
+          "pct": 0.1512,
+          "auxVotes": 6575
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "RN",
+          "votes": 1377,
+          "pct": 0.3018,
+          "auxVotes": 416
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "ABIDENE",
+          "party": "PSC",
+          "state": "RN",
+          "votes": 4565,
+          "pct": 0.3018,
+          "auxVotes": 1378
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "RN",
+          "votes": 939,
+          "pct": 0.3018,
+          "auxVotes": 283
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "RN",
+          "votes": 6818,
+          "pct": 0.3018,
+          "auxVotes": 2058
+        },
+        {
+          "candidate": 4333,
+          "urnaName": "PAULO WAGNER",
+          "party": "PV",
+          "state": "RN",
+          "votes": 5985,
+          "pct": 0.3018,
+          "auxVotes": 1806
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "RN",
+          "votes": 715,
+          "pct": 0.3018,
+          "auxVotes": 216
+        },
+        {
+          "candidate": 33,
+          "party": "PMN",
+          "state": "RN",
+          "votes": 1976,
+          "pct": 0.3018,
+          "auxVotes": 596
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "DR CARLOS CAMAL",
+          "party": "PRP",
+          "state": "RN",
+          "votes": 2008,
+          "pct": 0.3018,
+          "auxVotes": 606
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "RN",
+          "votes": 1220,
+          "pct": 0.3018,
+          "auxVotes": 368
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "RN",
+          "votes": 9119,
+          "pct": 0.3018,
+          "auxVotes": 2752
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "DR. JOANILSON",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 7615,
+          "pct": 0.3018,
+          "auxVotes": 2298
+        },
+        {
+          "candidate": 2777,
+          "urnaName": "EMANUEL MARQUES",
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 4060,
+          "pct": 0.3018,
+          "auxVotes": 1225
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "RN",
+          "votes": 231,
+          "pct": 0.3018,
+          "auxVotes": 70
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "ABRAAO LINCOLN",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 63371,
+          "pct": 0.2514,
+          "auxVotes": 19125
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "RN",
+          "votes": 1811,
+          "pct": 0.3018,
+          "auxVotes": 547
+        },
+        {
+          "candidate": 1033,
+          "urnaName": "ANTONIO JUNIOR",
+          "party": "PRB",
+          "state": "RN",
+          "votes": 526,
+          "pct": 0.3018,
+          "auxVotes": 159
+        }
+      ],
+      "needVotes": 126302,
+      "pctVotes": 0.3989,
+      "realNeedVotes": 95561,
+      "realPctVotes": 0.3018,
+      "totalVotes": 95548,
+      "voteEach": 3295
+    }
+  },
+  {
+    "candidate": 1111,
+    "fullName": "CARLOS ALBERTO DE SOUSA ROSADO",
+    "urnaName": "BETINHO ROSADO",
+    "party": "PP",
+    "state": "RN",
+    "impeachment": true,
+    "votes": 64445,
+    "pct": 4.07,
+    "individual": false,
+    "quoc": 0.33,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PSD",
+        "PT",
+        "PCdoB",
+        "PTdoB",
+        "PP",
+        "PEN"
+      ],
+      "others": [
+        {
+          "candidate": 5511,
+          "urnaName": "PROF. GIOVANI JR",
+          "party": "PSD",
+          "state": "RN",
+          "votes": 10715,
+          "pct": 0.498,
+          "auxVotes": 8672
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "RN",
+          "votes": 8950,
+          "pct": 0.5962,
+          "auxVotes": 7243
+        },
+        {
+          "candidate": 5590,
+          "urnaName": "CABO HERONIDES",
+          "party": "PSD",
+          "state": "RN",
+          "votes": 4534,
+          "pct": 0.8093,
+          "auxVotes": 3669
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "EDINHA",
+          "party": "PSD",
+          "state": "RN",
+          "votes": 155,
+          "pct": 0.8093,
+          "auxVotes": 125
+        },
+        {
+          "candidate": 5588,
+          "urnaName": "MARILIA DA USINA",
+          "party": "PSD",
+          "state": "RN",
+          "votes": 110,
+          "pct": 0.8093,
+          "auxVotes": 89
+        },
+        {
+          "candidate": 1355,
+          "urnaName": "ADRIANO GADELHA",
+          "party": "PT",
+          "state": "RN",
+          "votes": 34727,
+          "pct": 0.4937,
+          "auxVotes": 17146,
+          "canVotes": 28105
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "RN",
+          "votes": 29933,
+          "pct": 0.5728,
+          "auxVotes": 17145,
+          "canVotes": 24225
+        },
+        {
+          "candidate": 1366,
+          "urnaName": "HUGO MANSO",
+          "party": "PT",
+          "state": "RN",
+          "votes": 25767,
+          "pct": 0.6654,
+          "auxVotes": 17145,
+          "canVotes": 20853
+        },
+        {
+          "candidate": 1333,
+          "urnaName": "ERALDO",
+          "party": "PT",
+          "state": "RN",
+          "votes": 17450,
+          "pct": 0.7209,
+          "auxVotes": 14122
+        },
+        {
+          "candidate": 1311,
+          "urnaName": "CARLOS ALBERTO",
+          "party": "PT",
+          "state": "RN",
+          "votes": 11858,
+          "pct": 0.45,
+          "auxVotes": 9597
+        },
+        {
+          "candidate": 1313,
+          "urnaName": "VALMIR ALVES",
+          "party": "PT",
+          "state": "RN",
+          "votes": 11816,
+          "pct": 0.4516,
+          "auxVotes": 9563
+        },
+        {
+          "candidate": 1344,
+          "urnaName": "ALDO TORQUATO",
+          "party": "PT",
+          "state": "RN",
+          "votes": 4171,
+          "pct": 0.8093,
+          "auxVotes": 3376
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ELIANA",
+          "party": "PT",
+          "state": "RN",
+          "votes": 891,
+          "pct": 0.8093,
+          "auxVotes": 721
+        },
+        {
+          "candidate": 6565,
+          "urnaName": "ALEXANDRE FERREIRA",
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 3120,
+          "pct": 0.8093,
+          "auxVotes": 2525
+        },
+        {
+          "candidate": 6566,
+          "urnaName": "VITAL NOGUEIRA",
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 2728,
+          "pct": 0.8093,
+          "auxVotes": 2208
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 1710,
+          "pct": 0.8093,
+          "auxVotes": 1384
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "SABRINA SANTANA",
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 889,
+          "pct": 0.8093,
+          "auxVotes": 719
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "WANGLE",
+          "party": "PCdoB",
+          "state": "RN",
+          "votes": 671,
+          "pct": 0.8093,
+          "auxVotes": 543
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "RN",
+          "votes": 744,
+          "pct": 0.8093,
+          "auxVotes": 602
+        },
+        {
+          "candidate": 1112,
+          "urnaName": "MESTRE RAIMUNDO",
+          "party": "PP",
+          "state": "RN",
+          "votes": 4909,
+          "pct": 0.8093,
+          "auxVotes": 3973
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "RICARDO WAGNER",
+          "party": "PP",
+          "state": "RN",
+          "votes": 3517,
+          "pct": 0.8093,
+          "auxVotes": 2846
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "RN",
+          "votes": 3273,
+          "pct": 0.8093,
+          "auxVotes": 2649
+        },
+        {
+          "candidate": 5111,
+          "urnaName": "IRMAO RICARDO MENDONCA",
+          "party": "PEN",
+          "state": "RN",
+          "votes": 5397,
+          "pct": 0.8093,
+          "auxVotes": 4368
+        },
+        {
+          "candidate": 5177,
+          "urnaName": "DRA, HELENEIDE AMORIM",
+          "party": "PEN",
+          "state": "RN",
+          "votes": 2797,
+          "pct": 0.8093,
+          "auxVotes": 2264
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "RN",
+          "votes": 887,
+          "pct": 0.8093,
+          "auxVotes": 718
+        }
+      ],
+      "needVotes": 133412,
+      "pctVotes": 0.8093,
+      "realNeedVotes": 133412,
+      "realPctVotes": 0.8093,
+      "totalVotes": 133412,
+      "voteEach": 5336
+    }
+  }
+]

@@ -1,0 +1,1943 @@
+[
+  {
+    "candidate": 1313,
+    "fullName": "JOSÉ ORCÍRIO MIRANDA DOS SANTOS",
+    "urnaName": "ZECA DO PT",
+    "party": "PT",
+    "state": "MS",
+    "impeachment": false,
+    "votes": 160556,
+    "pct": 12.57,
+    "individual": true,
+    "quoc": 1.01,
+    "status": {
+      "individual": "winner",
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PR",
+        "PDT",
+        "PROS",
+        "PTC",
+        "PCdoB",
+        "PTB",
+        "PSDC"
+      ],
+      "others": []
+    }
+  },
+  {
+    "candidate": 1515,
+    "fullName": "CARLOS EDUARDO XAVIER MARUN",
+    "urnaName": "MARUN",
+    "party": "PMDB",
+    "state": "MS",
+    "impeachment": true,
+    "votes": 91816,
+    "pct": 7.19,
+    "individual": false,
+    "quoc": 0.57,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "PSB",
+        "PRB",
+        "PTN",
+        "PEN",
+        "PSC"
+      ],
+      "others": [
+        {
+          "candidate": 1580,
+          "urnaName": "FABIO TRAD",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 67508,
+          "pct": 0.231,
+          "auxVotes": 15592,
+          "canVotes": 20408
+        },
+        {
+          "candidate": 1567,
+          "urnaName": "MARCAL FILHO",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 39852,
+          "pct": 0.2168,
+          "auxVotes": 12047
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 20003,
+          "pct": 0.1305,
+          "auxVotes": 6047
+        },
+        {
+          "candidate": 1500,
+          "urnaName": "CARLA STEPHANINI",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 15505,
+          "pct": 0.1684,
+          "auxVotes": 4687
+        },
+        {
+          "candidate": 1501,
+          "urnaName": "TONHAO",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 7752,
+          "pct": 0.3023,
+          "auxVotes": 2343
+        },
+        {
+          "candidate": 1510,
+          "urnaName": "DR. WILSON SAMI",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 7312,
+          "pct": 0.3023,
+          "auxVotes": 2210
+        },
+        {
+          "candidate": 1522,
+          "urnaName": "GEAN VOLPATO",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 4421,
+          "pct": 0.3023,
+          "auxVotes": 1336
+        },
+        {
+          "candidate": 1552,
+          "urnaName": "RICARDO CANDIA",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 3532,
+          "pct": 0.3023,
+          "auxVotes": 1068
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "BRUNOI REICHARDT",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 3388,
+          "pct": 0.3023,
+          "auxVotes": 1024
+        },
+        {
+          "candidate": 1533,
+          "urnaName": "MARIA ELOIR",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 2670,
+          "pct": 0.3023,
+          "auxVotes": 807
+        },
+        {
+          "candidate": 1505,
+          "urnaName": "JOHNNY GUERRA GAI",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 2258,
+          "pct": 0.3023,
+          "auxVotes": 683
+        },
+        {
+          "candidate": 1516,
+          "urnaName": "LU",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 1514,
+          "pct": 0.3023,
+          "auxVotes": 458
+        },
+        {
+          "candidate": 4015,
+          "urnaName": "MARISA ROCHA",
+          "party": "PSB",
+          "state": "MS",
+          "votes": 4267,
+          "pct": 0.3023,
+          "auxVotes": 1290
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "MS",
+          "votes": 3640,
+          "pct": 0.3023,
+          "auxVotes": 1100
+        },
+        {
+          "candidate": 4022,
+          "urnaName": "MANOEL VITORIO",
+          "party": "PSB",
+          "state": "MS",
+          "votes": 682,
+          "pct": 0.3023,
+          "auxVotes": 206
+        },
+        {
+          "candidate": 4033,
+          "urnaName": "AUXILIADORA MARTINS",
+          "party": "PSB",
+          "state": "MS",
+          "votes": 257,
+          "pct": 0.3023,
+          "auxVotes": 78
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "PASTOR ISAIAS BITTENCOURT",
+          "party": "PRB",
+          "state": "MS",
+          "votes": 35054,
+          "pct": 0.2464,
+          "auxVotes": 10597
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "MS",
+          "votes": 1310,
+          "pct": 0.3023,
+          "auxVotes": 396
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "CLAUDIO SERTAO",
+          "party": "PTN",
+          "state": "MS",
+          "votes": 5627,
+          "pct": 0.3023,
+          "auxVotes": 1701
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "MS",
+          "votes": 530,
+          "pct": 0.3023,
+          "auxVotes": 160
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "MS",
+          "votes": 788,
+          "pct": 0.3023,
+          "auxVotes": 238
+        },
+        {
+          "candidate": 5151,
+          "urnaName": "ROSANA ARCE",
+          "party": "PEN",
+          "state": "MS",
+          "votes": 156,
+          "pct": 0.3023,
+          "auxVotes": 47
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "DR. LUIZ OVANDO",
+          "party": "PSC",
+          "state": "MS",
+          "votes": 9476,
+          "pct": 0.2755,
+          "auxVotes": 2865
+        },
+        {
+          "candidate": 2002,
+          "urnaName": "MOURA FE",
+          "party": "PSC",
+          "state": "MS",
+          "votes": 1321,
+          "pct": 0.3023,
+          "auxVotes": 399
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "LUCIMAR ROZA",
+          "party": "PSC",
+          "state": "MS",
+          "votes": 850,
+          "pct": 0.3023,
+          "auxVotes": 257
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "MS",
+          "votes": 847,
+          "pct": 0.3023,
+          "auxVotes": 256
+        }
+      ],
+      "needVotes": 67892,
+      "pctVotes": 0.3023,
+      "realNeedVotes": 67892,
+      "realPctVotes": 0.3023,
+      "totalVotes": 67892,
+      "voteEach": 2611
+    }
+  },
+  {
+    "candidate": 1511,
+    "fullName": "GERALDO RESENDE PEREIRA",
+    "urnaName": "GERALDO RESENDE",
+    "party": "PMDB",
+    "state": "MS",
+    "impeachment": true,
+    "votes": 87546,
+    "pct": 6.85,
+    "individual": false,
+    "quoc": 0.55,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "PSB",
+        "PRB",
+        "PTN",
+        "PEN",
+        "PSC"
+      ],
+      "others": [
+        {
+          "candidate": 1580,
+          "urnaName": "FABIO TRAD",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 67508,
+          "pct": 0.2455,
+          "auxVotes": 16574,
+          "canVotes": 21690
+        },
+        {
+          "candidate": 1567,
+          "urnaName": "MARCAL FILHO",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 39852,
+          "pct": 0.2304,
+          "auxVotes": 12804
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 20003,
+          "pct": 0.1387,
+          "auxVotes": 6427
+        },
+        {
+          "candidate": 1500,
+          "urnaName": "CARLA STEPHANINI",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 15505,
+          "pct": 0.179,
+          "auxVotes": 4982
+        },
+        {
+          "candidate": 1501,
+          "urnaName": "TONHAO",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 7752,
+          "pct": 0.3213,
+          "auxVotes": 2491
+        },
+        {
+          "candidate": 1510,
+          "urnaName": "DR. WILSON SAMI",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 7312,
+          "pct": 0.3213,
+          "auxVotes": 2349
+        },
+        {
+          "candidate": 1522,
+          "urnaName": "GEAN VOLPATO",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 4421,
+          "pct": 0.3213,
+          "auxVotes": 1420
+        },
+        {
+          "candidate": 1552,
+          "urnaName": "RICARDO CANDIA",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 3532,
+          "pct": 0.3213,
+          "auxVotes": 1135
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "BRUNOI REICHARDT",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 3388,
+          "pct": 0.3213,
+          "auxVotes": 1089
+        },
+        {
+          "candidate": 1533,
+          "urnaName": "MARIA ELOIR",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 2670,
+          "pct": 0.3213,
+          "auxVotes": 858
+        },
+        {
+          "candidate": 1505,
+          "urnaName": "JOHNNY GUERRA GAI",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 2258,
+          "pct": 0.3213,
+          "auxVotes": 725
+        },
+        {
+          "candidate": 1516,
+          "urnaName": "LU",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 1514,
+          "pct": 0.3213,
+          "auxVotes": 486
+        },
+        {
+          "candidate": 4015,
+          "urnaName": "MARISA ROCHA",
+          "party": "PSB",
+          "state": "MS",
+          "votes": 4267,
+          "pct": 0.3213,
+          "auxVotes": 1371
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "MS",
+          "votes": 3640,
+          "pct": 0.3213,
+          "auxVotes": 1170
+        },
+        {
+          "candidate": 4022,
+          "urnaName": "MANOEL VITORIO",
+          "party": "PSB",
+          "state": "MS",
+          "votes": 682,
+          "pct": 0.3213,
+          "auxVotes": 219
+        },
+        {
+          "candidate": 4033,
+          "urnaName": "AUXILIADORA MARTINS",
+          "party": "PSB",
+          "state": "MS",
+          "votes": 257,
+          "pct": 0.3213,
+          "auxVotes": 83
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "PASTOR ISAIAS BITTENCOURT",
+          "party": "PRB",
+          "state": "MS",
+          "votes": 35054,
+          "pct": 0.262,
+          "auxVotes": 11263
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "MS",
+          "votes": 1310,
+          "pct": 0.3213,
+          "auxVotes": 421
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "CLAUDIO SERTAO",
+          "party": "PTN",
+          "state": "MS",
+          "votes": 5627,
+          "pct": 0.3213,
+          "auxVotes": 1808
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "MS",
+          "votes": 530,
+          "pct": 0.3213,
+          "auxVotes": 170
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "MS",
+          "votes": 788,
+          "pct": 0.3213,
+          "auxVotes": 253
+        },
+        {
+          "candidate": 5151,
+          "urnaName": "ROSANA ARCE",
+          "party": "PEN",
+          "state": "MS",
+          "votes": 156,
+          "pct": 0.3213,
+          "auxVotes": 50
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "DR. LUIZ OVANDO",
+          "party": "PSC",
+          "state": "MS",
+          "votes": 9476,
+          "pct": 0.2928,
+          "auxVotes": 3045
+        },
+        {
+          "candidate": 2002,
+          "urnaName": "MOURA FE",
+          "party": "PSC",
+          "state": "MS",
+          "votes": 1321,
+          "pct": 0.3213,
+          "auxVotes": 424
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "LUCIMAR ROZA",
+          "party": "PSC",
+          "state": "MS",
+          "votes": 850,
+          "pct": 0.3213,
+          "auxVotes": 273
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "MS",
+          "votes": 847,
+          "pct": 0.3213,
+          "auxVotes": 272
+        }
+      ],
+      "needVotes": 72162,
+      "pctVotes": 0.3213,
+      "realNeedVotes": 72162,
+      "realPctVotes": 0.3213,
+      "totalVotes": 72162,
+      "voteEach": 2775
+    }
+  },
+  {
+    "candidate": 4040,
+    "fullName": "TEREZA CRISTINA CORREA DA COSTA DIAS",
+    "urnaName": "TEREZA CRISTINA",
+    "party": "PSB",
+    "state": "MS",
+    "impeachment": true,
+    "votes": 75149,
+    "pct": 5.88,
+    "individual": false,
+    "quoc": 0.47,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "PSB",
+        "PRB",
+        "PTN",
+        "PEN",
+        "PSC"
+      ],
+      "others": [
+        {
+          "candidate": 1580,
+          "urnaName": "FABIO TRAD",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 67508,
+          "pct": 0.2876,
+          "auxVotes": 19417,
+          "canVotes": 25417
+        },
+        {
+          "candidate": 1567,
+          "urnaName": "MARCAL FILHO",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 39852,
+          "pct": 0.27,
+          "auxVotes": 15004
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 20003,
+          "pct": 0.1626,
+          "auxVotes": 7531
+        },
+        {
+          "candidate": 1500,
+          "urnaName": "CARLA STEPHANINI",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 15505,
+          "pct": 0.2097,
+          "auxVotes": 5838
+        },
+        {
+          "candidate": 1501,
+          "urnaName": "TONHAO",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 7752,
+          "pct": 0.3765,
+          "auxVotes": 2919
+        },
+        {
+          "candidate": 1510,
+          "urnaName": "DR. WILSON SAMI",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 7312,
+          "pct": 0.3765,
+          "auxVotes": 2753
+        },
+        {
+          "candidate": 1522,
+          "urnaName": "GEAN VOLPATO",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 4421,
+          "pct": 0.3765,
+          "auxVotes": 1665
+        },
+        {
+          "candidate": 1552,
+          "urnaName": "RICARDO CANDIA",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 3532,
+          "pct": 0.3765,
+          "auxVotes": 1330
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "BRUNOI REICHARDT",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 3388,
+          "pct": 0.3765,
+          "auxVotes": 1276
+        },
+        {
+          "candidate": 1533,
+          "urnaName": "MARIA ELOIR",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 2670,
+          "pct": 0.3765,
+          "auxVotes": 1005
+        },
+        {
+          "candidate": 1505,
+          "urnaName": "JOHNNY GUERRA GAI",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 2258,
+          "pct": 0.3765,
+          "auxVotes": 850
+        },
+        {
+          "candidate": 1516,
+          "urnaName": "LU",
+          "party": "PMDB",
+          "state": "MS",
+          "votes": 1514,
+          "pct": 0.3765,
+          "auxVotes": 570
+        },
+        {
+          "candidate": 4015,
+          "urnaName": "MARISA ROCHA",
+          "party": "PSB",
+          "state": "MS",
+          "votes": 4267,
+          "pct": 0.3765,
+          "auxVotes": 1607
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "MS",
+          "votes": 3640,
+          "pct": 0.3765,
+          "auxVotes": 1370
+        },
+        {
+          "candidate": 4022,
+          "urnaName": "MANOEL VITORIO",
+          "party": "PSB",
+          "state": "MS",
+          "votes": 682,
+          "pct": 0.3765,
+          "auxVotes": 257
+        },
+        {
+          "candidate": 4033,
+          "urnaName": "AUXILIADORA MARTINS",
+          "party": "PSB",
+          "state": "MS",
+          "votes": 257,
+          "pct": 0.3765,
+          "auxVotes": 97
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "PASTOR ISAIAS BITTENCOURT",
+          "party": "PRB",
+          "state": "MS",
+          "votes": 35054,
+          "pct": 0.3069,
+          "auxVotes": 13198
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "MS",
+          "votes": 1310,
+          "pct": 0.3765,
+          "auxVotes": 493
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "CLAUDIO SERTAO",
+          "party": "PTN",
+          "state": "MS",
+          "votes": 5627,
+          "pct": 0.3765,
+          "auxVotes": 2119
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "MS",
+          "votes": 530,
+          "pct": 0.3765,
+          "auxVotes": 200
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "MS",
+          "votes": 788,
+          "pct": 0.3765,
+          "auxVotes": 297
+        },
+        {
+          "candidate": 5151,
+          "urnaName": "ROSANA ARCE",
+          "party": "PEN",
+          "state": "MS",
+          "votes": 156,
+          "pct": 0.3765,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "DR. LUIZ OVANDO",
+          "party": "PSC",
+          "state": "MS",
+          "votes": 9476,
+          "pct": 0.3432,
+          "auxVotes": 3568
+        },
+        {
+          "candidate": 2002,
+          "urnaName": "MOURA FE",
+          "party": "PSC",
+          "state": "MS",
+          "votes": 1321,
+          "pct": 0.3765,
+          "auxVotes": 497
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "LUCIMAR ROZA",
+          "party": "PSC",
+          "state": "MS",
+          "votes": 850,
+          "pct": 0.3765,
+          "auxVotes": 320
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "MS",
+          "votes": 847,
+          "pct": 0.3765,
+          "auxVotes": 319
+        }
+      ],
+      "needVotes": 84559,
+      "pctVotes": 0.3765,
+      "realNeedVotes": 84559,
+      "realPctVotes": 0.3765,
+      "totalVotes": 84559,
+      "voteEach": 3252
+    }
+  },
+  {
+    "candidate": 1331,
+    "fullName": "VANDER LUIZ DOS SANTOS LOUBET",
+    "urnaName": "VANDER LOUBET",
+    "party": "PT",
+    "state": "MS",
+    "impeachment": false,
+    "votes": 69504,
+    "pct": 5.44,
+    "individual": false,
+    "quoc": 0.44,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PR",
+        "PDT",
+        "PROS",
+        "PTC",
+        "PCdoB",
+        "PTB",
+        "PSDC"
+      ],
+      "others": [
+        {
+          "candidate": 1313,
+          "urnaName": "ZECA DO PT",
+          "party": "PT",
+          "state": "MS",
+          "votes": 848,
+          "pct": 0.4624,
+          "auxVotes": 392
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "BIFFI",
+          "party": "PT",
+          "state": "MS",
+          "votes": 53406,
+          "pct": 0.4623,
+          "auxVotes": 24689,
+          "canVotes": 24695
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "MS",
+          "votes": 30112,
+          "pct": 0.4126,
+          "auxVotes": 13924
+        },
+        {
+          "candidate": 1333,
+          "urnaName": "ANASTACIO PERALTA",
+          "party": "PT",
+          "state": "MS",
+          "votes": 2622,
+          "pct": 0.4624,
+          "auxVotes": 1212
+        },
+        {
+          "candidate": 1377,
+          "urnaName": "AMARILIS AMARAL",
+          "party": "PT",
+          "state": "MS",
+          "votes": 2034,
+          "pct": 0.4624,
+          "auxVotes": 941
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "MARIA FELIX",
+          "party": "PT",
+          "state": "MS",
+          "votes": 1041,
+          "pct": 0.4624,
+          "auxVotes": 481
+        },
+        {
+          "candidate": 1330,
+          "urnaName": "WALQUIRIA DO PT",
+          "party": "PT",
+          "state": "MS",
+          "votes": 511,
+          "pct": 0.4624,
+          "auxVotes": 236
+        },
+        {
+          "candidate": 2222,
+          "urnaName": "DR ANTONIO CRUZ",
+          "party": "PR",
+          "state": "MS",
+          "votes": 34086,
+          "pct": 0.3645,
+          "auxVotes": 15761
+        },
+        {
+          "candidate": 2213,
+          "urnaName": "ALIR TERRA Nº 2213",
+          "party": "PR",
+          "state": "MS",
+          "votes": 1948,
+          "pct": 0.4624,
+          "auxVotes": 901
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "MS",
+          "votes": 1555,
+          "pct": 0.4624,
+          "auxVotes": 719
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "MS",
+          "votes": 5352,
+          "pct": 0.4624,
+          "auxVotes": 2475
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "YVES",
+          "party": "PDT",
+          "state": "MS",
+          "votes": 3007,
+          "pct": 0.4624,
+          "auxVotes": 1390
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "ALENCAR",
+          "party": "PDT",
+          "state": "MS",
+          "votes": 1869,
+          "pct": 0.4624,
+          "auxVotes": 864
+        },
+        {
+          "candidate": 1235,
+          "urnaName": "BETH ALTAFINI",
+          "party": "PDT",
+          "state": "MS",
+          "votes": 636,
+          "pct": 0.4624,
+          "auxVotes": 294
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "FABRICIO",
+          "party": "PROS",
+          "state": "MS",
+          "votes": 9530,
+          "pct": 0.2852,
+          "auxVotes": 4407
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "MARCELINO NUNES",
+          "party": "PROS",
+          "state": "MS",
+          "votes": 5308,
+          "pct": 0.4624,
+          "auxVotes": 2454
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "BODINHO",
+          "party": "PROS",
+          "state": "MS",
+          "votes": 1491,
+          "pct": 0.4624,
+          "auxVotes": 689
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "MS",
+          "votes": 342,
+          "pct": 0.4624,
+          "auxVotes": 158
+        },
+        {
+          "candidate": 3636,
+          "urnaName": "GAZOLLA",
+          "party": "PTC",
+          "state": "MS",
+          "votes": 7208,
+          "pct": 0.3771,
+          "auxVotes": 3333
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "MS",
+          "votes": 375,
+          "pct": 0.4624,
+          "auxVotes": 173
+        },
+        {
+          "candidate": 6567,
+          "urnaName": "MARIO FONSECA",
+          "party": "PCdoB",
+          "state": "MS",
+          "votes": 2061,
+          "pct": 0.4624,
+          "auxVotes": 953
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "MS",
+          "votes": 315,
+          "pct": 0.4624,
+          "auxVotes": 146
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "MS",
+          "votes": 1121,
+          "pct": 0.4624,
+          "auxVotes": 518
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "NELSON OSORIO",
+          "party": "PTB",
+          "state": "MS",
+          "votes": 1070,
+          "pct": 0.4624,
+          "auxVotes": 495
+        },
+        {
+          "candidate": 1450,
+          "urnaName": "IRMA FATIMA",
+          "party": "PTB",
+          "state": "MS",
+          "votes": 500,
+          "pct": 0.4624,
+          "auxVotes": 231
+        },
+        {
+          "candidate": 1413,
+          "urnaName": "SANDRO MARCELO",
+          "party": "PTB",
+          "state": "MS",
+          "votes": 359,
+          "pct": 0.4624,
+          "auxVotes": 166
+        },
+        {
+          "candidate": 2700,
+          "urnaName": "ODILON DO PRADO",
+          "party": "PSDC",
+          "state": "MS",
+          "votes": 1634,
+          "pct": 0.4624,
+          "auxVotes": 756
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "MS",
+          "votes": 119,
+          "pct": 0.4624,
+          "auxVotes": 55
+        },
+        {
+          "candidate": 2723,
+          "urnaName": "SONIA",
+          "party": "PSDC",
+          "state": "MS",
+          "votes": 29,
+          "pct": 0.4624,
+          "auxVotes": 13
+        }
+      ],
+      "needVotes": 90204,
+      "pctVotes": 0.5291,
+      "realNeedVotes": 78826,
+      "realPctVotes": 0.4624,
+      "totalVotes": 78826,
+      "voteEach": 2718
+    }
+  },
+  {
+    "candidate": 2555,
+    "fullName": "LUIZ HENRIQUE MANDETTA",
+    "urnaName": "MANDETTA",
+    "party": "DEM",
+    "state": "MS",
+    "impeachment": true,
+    "votes": 57374,
+    "pct": 4.49,
+    "individual": false,
+    "quoc": 0.36,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 2,
+      "parties": [
+        "PSDB",
+        "DEM",
+        "PSD",
+        "SD",
+        "PPS",
+        "PMN"
+      ],
+      "others": [
+        {
+          "candidate": 4545,
+          "urnaName": "MARCIO MONTEIRO",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 56441,
+          "pct": 0.1501,
+          "auxVotes": 25901
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 16160,
+          "pct": 0.1772,
+          "auxVotes": 7416
+        },
+        {
+          "candidate": 4500,
+          "urnaName": "DANIELE SANTOS",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 12019,
+          "pct": 0.2383,
+          "auxVotes": 5516
+        },
+        {
+          "candidate": 4555,
+          "urnaName": "FREDSON FREITAS",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 6168,
+          "pct": 0.4589,
+          "auxVotes": 2830
+        },
+        {
+          "candidate": 4547,
+          "urnaName": "GERALDO SALES",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 4971,
+          "pct": 0.4589,
+          "auxVotes": 2281
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "JORGINHO DO GAS",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 4059,
+          "pct": 0.4589,
+          "auxVotes": 1863
+        },
+        {
+          "candidate": 4544,
+          "urnaName": "ANGELA COSTA",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 2598,
+          "pct": 0.4589,
+          "auxVotes": 1192
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "VALDIR CARDOSO",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 779,
+          "pct": 0.4589,
+          "auxVotes": 357
+        },
+        {
+          "candidate": 4513,
+          "urnaName": "LOURDES ALENCAR",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 711,
+          "pct": 0.4589,
+          "auxVotes": 326
+        },
+        {
+          "candidate": 4577,
+          "urnaName": "CRISTINA RODRIGUES",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 450,
+          "pct": 0.4589,
+          "auxVotes": 207
+        },
+        {
+          "candidate": 2500,
+          "urnaName": "AILTON STROPA",
+          "party": "DEM",
+          "state": "MS",
+          "votes": 7196,
+          "pct": 0.398,
+          "auxVotes": 3302
+        },
+        {
+          "candidate": 2525,
+          "urnaName": "PUKA VALDEZ",
+          "party": "DEM",
+          "state": "MS",
+          "votes": 2196,
+          "pct": 0.4589,
+          "auxVotes": 1008
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "MS",
+          "votes": 1425,
+          "pct": 0.4589,
+          "auxVotes": 654
+        },
+        {
+          "candidate": 2545,
+          "urnaName": "PROFESSORA VALDECI",
+          "party": "DEM",
+          "state": "MS",
+          "votes": 309,
+          "pct": 0.4589,
+          "auxVotes": 142
+        },
+        {
+          "candidate": 5511,
+          "urnaName": "CORINGA",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 15738,
+          "pct": 0.182,
+          "auxVotes": 7222
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "MARCELO MOURAO",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 12835,
+          "pct": 0.2231,
+          "auxVotes": 5890
+        },
+        {
+          "candidate": 5575,
+          "urnaName": "DR SABATEL",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 8818,
+          "pct": 0.3248,
+          "auxVotes": 4047
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "MS",
+          "votes": 2824,
+          "pct": 0.4589,
+          "auxVotes": 1296
+        },
+        {
+          "candidate": 5567,
+          "urnaName": "ROBERTO PROTETICO",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 1846,
+          "pct": 0.4589,
+          "auxVotes": 847
+        },
+        {
+          "candidate": 5515,
+          "urnaName": "MARCIA BRAMBILLA",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 92,
+          "pct": 0.4589,
+          "auxVotes": 42
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "MS",
+          "votes": 451,
+          "pct": 0.4589,
+          "auxVotes": 207
+        },
+        {
+          "candidate": 2345,
+          "urnaName": "WALTER HORA",
+          "party": "PPS",
+          "state": "MS",
+          "votes": 2887,
+          "pct": 0.4589,
+          "auxVotes": 1325
+        },
+        {
+          "candidate": 2311,
+          "urnaName": "ALDO",
+          "party": "PPS",
+          "state": "MS",
+          "votes": 2277,
+          "pct": 0.4589,
+          "auxVotes": 1045
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "SILVANA TERENA",
+          "party": "PPS",
+          "state": "MS",
+          "votes": 1369,
+          "pct": 0.4589,
+          "auxVotes": 628
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "MS",
+          "votes": 760,
+          "pct": 0.4589,
+          "auxVotes": 349
+        },
+        {
+          "candidate": 3333,
+          "urnaName": "ROSANA DA SAUDE",
+          "party": "PMN",
+          "state": "MS",
+          "votes": 2648,
+          "pct": 0.4589,
+          "auxVotes": 1215
+        },
+        {
+          "candidate": 33,
+          "party": "PMN",
+          "state": "MS",
+          "votes": 445,
+          "pct": 0.4589,
+          "auxVotes": 204
+        }
+      ],
+      "needVotes": 102334,
+      "pctVotes": 0.6074,
+      "realNeedVotes": 77322,
+      "realPctVotes": 0.4589,
+      "totalVotes": 77312,
+      "voteEach": 2864
+    }
+  },
+  {
+    "candidate": 1234,
+    "fullName": "DAGOBERTO NOGUEIRA FILHO",
+    "urnaName": "DAGOBERTO NOGUEIRA",
+    "party": "PDT",
+    "state": "MS",
+    "impeachment": false,
+    "votes": 54813,
+    "pct": 4.29,
+    "individual": false,
+    "quoc": 0.34,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PR",
+        "PDT",
+        "PROS",
+        "PTC",
+        "PCdoB",
+        "PTB",
+        "PSDC"
+      ],
+      "others": [
+        {
+          "candidate": 1313,
+          "urnaName": "ZECA DO PT",
+          "party": "PT",
+          "state": "MS",
+          "votes": 848,
+          "pct": 0.5377,
+          "auxVotes": 456
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "BIFFI",
+          "party": "PT",
+          "state": "MS",
+          "votes": 53406,
+          "pct": 0.5375,
+          "auxVotes": 28706,
+          "canVotes": 28716
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "MS",
+          "votes": 30112,
+          "pct": 0.4797,
+          "auxVotes": 16191
+        },
+        {
+          "candidate": 1333,
+          "urnaName": "ANASTACIO PERALTA",
+          "party": "PT",
+          "state": "MS",
+          "votes": 2622,
+          "pct": 0.5377,
+          "auxVotes": 1410
+        },
+        {
+          "candidate": 1377,
+          "urnaName": "AMARILIS AMARAL",
+          "party": "PT",
+          "state": "MS",
+          "votes": 2034,
+          "pct": 0.5377,
+          "auxVotes": 1094
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "MARIA FELIX",
+          "party": "PT",
+          "state": "MS",
+          "votes": 1041,
+          "pct": 0.5377,
+          "auxVotes": 560
+        },
+        {
+          "candidate": 1330,
+          "urnaName": "WALQUIRIA DO PT",
+          "party": "PT",
+          "state": "MS",
+          "votes": 511,
+          "pct": 0.5377,
+          "auxVotes": 275
+        },
+        {
+          "candidate": 2222,
+          "urnaName": "DR ANTONIO CRUZ",
+          "party": "PR",
+          "state": "MS",
+          "votes": 34086,
+          "pct": 0.4238,
+          "auxVotes": 18328
+        },
+        {
+          "candidate": 2213,
+          "urnaName": "ALIR TERRA Nº 2213",
+          "party": "PR",
+          "state": "MS",
+          "votes": 1948,
+          "pct": 0.5377,
+          "auxVotes": 1047
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "MS",
+          "votes": 1555,
+          "pct": 0.5377,
+          "auxVotes": 836
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "MS",
+          "votes": 5352,
+          "pct": 0.5377,
+          "auxVotes": 2878
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "YVES",
+          "party": "PDT",
+          "state": "MS",
+          "votes": 3007,
+          "pct": 0.5377,
+          "auxVotes": 1617
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "ALENCAR",
+          "party": "PDT",
+          "state": "MS",
+          "votes": 1869,
+          "pct": 0.5377,
+          "auxVotes": 1005
+        },
+        {
+          "candidate": 1235,
+          "urnaName": "BETH ALTAFINI",
+          "party": "PDT",
+          "state": "MS",
+          "votes": 636,
+          "pct": 0.5377,
+          "auxVotes": 342
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "FABRICIO",
+          "party": "PROS",
+          "state": "MS",
+          "votes": 9530,
+          "pct": 0.3317,
+          "auxVotes": 5124
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "MARCELINO NUNES",
+          "party": "PROS",
+          "state": "MS",
+          "votes": 5308,
+          "pct": 0.5377,
+          "auxVotes": 2854
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "BODINHO",
+          "party": "PROS",
+          "state": "MS",
+          "votes": 1491,
+          "pct": 0.5377,
+          "auxVotes": 802
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "MS",
+          "votes": 342,
+          "pct": 0.5377,
+          "auxVotes": 184
+        },
+        {
+          "candidate": 3636,
+          "urnaName": "GAZOLLA",
+          "party": "PTC",
+          "state": "MS",
+          "votes": 7208,
+          "pct": 0.4385,
+          "auxVotes": 3876
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "MS",
+          "votes": 375,
+          "pct": 0.5377,
+          "auxVotes": 202
+        },
+        {
+          "candidate": 6567,
+          "urnaName": "MARIO FONSECA",
+          "party": "PCdoB",
+          "state": "MS",
+          "votes": 2061,
+          "pct": 0.5377,
+          "auxVotes": 1108
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "MS",
+          "votes": 315,
+          "pct": 0.5377,
+          "auxVotes": 169
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "MS",
+          "votes": 1121,
+          "pct": 0.5377,
+          "auxVotes": 603
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "NELSON OSORIO",
+          "party": "PTB",
+          "state": "MS",
+          "votes": 1070,
+          "pct": 0.5377,
+          "auxVotes": 575
+        },
+        {
+          "candidate": 1450,
+          "urnaName": "IRMA FATIMA",
+          "party": "PTB",
+          "state": "MS",
+          "votes": 500,
+          "pct": 0.5377,
+          "auxVotes": 269
+        },
+        {
+          "candidate": 1413,
+          "urnaName": "SANDRO MARCELO",
+          "party": "PTB",
+          "state": "MS",
+          "votes": 359,
+          "pct": 0.5377,
+          "auxVotes": 193
+        },
+        {
+          "candidate": 2700,
+          "urnaName": "ODILON DO PRADO",
+          "party": "PSDC",
+          "state": "MS",
+          "votes": 1634,
+          "pct": 0.5377,
+          "auxVotes": 879
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "MS",
+          "votes": 119,
+          "pct": 0.5377,
+          "auxVotes": 64
+        },
+        {
+          "candidate": 2723,
+          "urnaName": "SONIA",
+          "party": "PSDC",
+          "state": "MS",
+          "votes": 29,
+          "pct": 0.5377,
+          "auxVotes": 16
+        }
+      ],
+      "needVotes": 104895,
+      "pctVotes": 0.6153,
+      "realNeedVotes": 91663,
+      "realPctVotes": 0.5377,
+      "totalVotes": 91663,
+      "voteEach": 3161
+    }
+  },
+  {
+    "candidate": 7777,
+    "fullName": "ELIZEU DIONIZIO SOUZA  DA SILVA",
+    "urnaName": "ELIZEU DIONIZIO",
+    "party": "SD",
+    "state": "MS",
+    "impeachment": true,
+    "votes": 39074,
+    "pct": 3.06,
+    "individual": false,
+    "quoc": 0.24,
+    "status": {
+      "geral": "sup"
+    },
+    "group": {
+      "id": 2,
+      "parties": [
+        "PSDB",
+        "DEM",
+        "PSD",
+        "SD",
+        "PPS",
+        "PMN"
+      ],
+      "others": [
+        {
+          "candidate": 4545,
+          "urnaName": "MARCIO MONTEIRO",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 56441,
+          "pct": 0.1769,
+          "auxVotes": 30535
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 16160,
+          "pct": 0.2089,
+          "auxVotes": 8743
+        },
+        {
+          "candidate": 4500,
+          "urnaName": "DANIELE SANTOS",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 12019,
+          "pct": 0.2809,
+          "auxVotes": 6502
+        },
+        {
+          "candidate": 4555,
+          "urnaName": "FREDSON FREITAS",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 6168,
+          "pct": 0.541,
+          "auxVotes": 3337
+        },
+        {
+          "candidate": 4547,
+          "urnaName": "GERALDO SALES",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 4971,
+          "pct": 0.541,
+          "auxVotes": 2689
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "JORGINHO DO GAS",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 4059,
+          "pct": 0.541,
+          "auxVotes": 2196
+        },
+        {
+          "candidate": 4544,
+          "urnaName": "ANGELA COSTA",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 2598,
+          "pct": 0.541,
+          "auxVotes": 1406
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "VALDIR CARDOSO",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 779,
+          "pct": 0.541,
+          "auxVotes": 421
+        },
+        {
+          "candidate": 4513,
+          "urnaName": "LOURDES ALENCAR",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 711,
+          "pct": 0.541,
+          "auxVotes": 385
+        },
+        {
+          "candidate": 4577,
+          "urnaName": "CRISTINA RODRIGUES",
+          "party": "PSDB",
+          "state": "MS",
+          "votes": 450,
+          "pct": 0.541,
+          "auxVotes": 243
+        },
+        {
+          "candidate": 2500,
+          "urnaName": "AILTON STROPA",
+          "party": "DEM",
+          "state": "MS",
+          "votes": 7196,
+          "pct": 0.4691,
+          "auxVotes": 3893
+        },
+        {
+          "candidate": 2525,
+          "urnaName": "PUKA VALDEZ",
+          "party": "DEM",
+          "state": "MS",
+          "votes": 2196,
+          "pct": 0.541,
+          "auxVotes": 1188
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "MS",
+          "votes": 1425,
+          "pct": 0.541,
+          "auxVotes": 771
+        },
+        {
+          "candidate": 2545,
+          "urnaName": "PROFESSORA VALDECI",
+          "party": "DEM",
+          "state": "MS",
+          "votes": 309,
+          "pct": 0.541,
+          "auxVotes": 167
+        },
+        {
+          "candidate": 5511,
+          "urnaName": "CORINGA",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 15738,
+          "pct": 0.2145,
+          "auxVotes": 8514
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "MARCELO MOURAO",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 12835,
+          "pct": 0.263,
+          "auxVotes": 6944
+        },
+        {
+          "candidate": 5575,
+          "urnaName": "DR SABATEL",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 8818,
+          "pct": 0.3829,
+          "auxVotes": 4771
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "MS",
+          "votes": 2824,
+          "pct": 0.541,
+          "auxVotes": 1528
+        },
+        {
+          "candidate": 5567,
+          "urnaName": "ROBERTO PROTETICO",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 1846,
+          "pct": 0.541,
+          "auxVotes": 999
+        },
+        {
+          "candidate": 5515,
+          "urnaName": "MARCIA BRAMBILLA",
+          "party": "PSD",
+          "state": "MS",
+          "votes": 92,
+          "pct": 0.541,
+          "auxVotes": 50
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "MS",
+          "votes": 451,
+          "pct": 0.541,
+          "auxVotes": 244
+        },
+        {
+          "candidate": 2345,
+          "urnaName": "WALTER HORA",
+          "party": "PPS",
+          "state": "MS",
+          "votes": 2887,
+          "pct": 0.541,
+          "auxVotes": 1562
+        },
+        {
+          "candidate": 2311,
+          "urnaName": "ALDO",
+          "party": "PPS",
+          "state": "MS",
+          "votes": 2277,
+          "pct": 0.541,
+          "auxVotes": 1232
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "SILVANA TERENA",
+          "party": "PPS",
+          "state": "MS",
+          "votes": 1369,
+          "pct": 0.541,
+          "auxVotes": 741
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "MS",
+          "votes": 760,
+          "pct": 0.541,
+          "auxVotes": 411
+        },
+        {
+          "candidate": 3333,
+          "urnaName": "ROSANA DA SAUDE",
+          "party": "PMN",
+          "state": "MS",
+          "votes": 2648,
+          "pct": 0.541,
+          "auxVotes": 1433
+        },
+        {
+          "candidate": 33,
+          "party": "PMN",
+          "state": "MS",
+          "votes": 445,
+          "pct": 0.541,
+          "auxVotes": 241
+        }
+      ],
+      "needVotes": 120634,
+      "pctVotes": 0.716,
+      "realNeedVotes": 91150,
+      "realPctVotes": 0.541,
+      "totalVotes": 91146,
+      "voteEach": 3376
+    }
+  }
+]

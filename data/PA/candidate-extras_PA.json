@@ -1,0 +1,843 @@
+[
+  {
+    "cadidate": 45,
+    "votes": 52158,
+    "donateVotes": 52158
+  },
+  {
+    "cadidate": 4500,
+    "urnaName": "MARIO MOREIRA",
+    "votes": 40293,
+    "donateVotes": 40293
+  },
+  {
+    "cadidate": 4545,
+    "urnaName": "WANDENKOLK GONCALVES",
+    "votes": 36834,
+    "donateVotes": 36834
+  },
+  {
+    "cadidate": 4550,
+    "urnaName": "NICIAS RIBEIRO",
+    "votes": 34155,
+    "donateVotes": 34155
+  },
+  {
+    "cadidate": 4565,
+    "urnaName": "DENISE GABRIEL",
+    "votes": 33404,
+    "donateVotes": 33405
+  },
+  {
+    "cadidate": 4567,
+    "urnaName": "CHITA",
+    "votes": 22295,
+    "donateVotes": 22295
+  },
+  {
+    "cadidate": 4510,
+    "urnaName": "ANTONIO ARMANDO JR",
+    "votes": 17533,
+    "donateVotes": 17533
+  },
+  {
+    "cadidate": 4530,
+    "urnaName": "LUZIANE",
+    "votes": 14976,
+    "donateVotes": 14977
+  },
+  {
+    "cadidate": 4544,
+    "urnaName": "JOSE SIDNEY",
+    "votes": 12805,
+    "donateVotes": 12805
+  },
+  {
+    "cadidate": 4555,
+    "urnaName": "WILSON NETO",
+    "votes": 7385,
+    "donateVotes": 7386
+  },
+  {
+    "cadidate": 4523,
+    "urnaName": "CHIQUINHO",
+    "votes": 5353,
+    "donateVotes": 5352
+  },
+  {
+    "cadidate": 4511,
+    "urnaName": "ELIEZER FREITAS",
+    "votes": 2985,
+    "donateVotes": 2985
+  },
+  {
+    "cadidate": 4533,
+    "urnaName": "JOAO ANTONIO",
+    "votes": 2075,
+    "donateVotes": 2075
+  },
+  {
+    "cadidate": 4525,
+    "urnaName": "NARCISA MELO",
+    "votes": 1281,
+    "donateVotes": 1281
+  },
+  {
+    "cadidate": 4556,
+    "urnaName": "FRANCISCA SOUSA",
+    "votes": 1010,
+    "donateVotes": 1010
+  },
+  {
+    "cadidate": 4520,
+    "urnaName": "CECILIA KEUFFER",
+    "votes": 843,
+    "donateVotes": 844
+  },
+  {
+    "cadidate": 4535,
+    "urnaName": "NEIA CHAVES",
+    "votes": 810,
+    "donateVotes": 811
+  },
+  {
+    "cadidate": 4577,
+    "urnaName": "AUXILIADORA ROSA",
+    "votes": 688,
+    "donateVotes": 689
+  },
+  {
+    "cadidate": 5500,
+    "urnaName": "DELEGADO EDER MAURO",
+    "votes": 44856,
+    "donateVotes": 44856
+  },
+  {
+    "cadidate": 55,
+    "votes": 12899,
+    "donateVotes": 12899
+  },
+  {
+    "cadidate": 5512,
+    "urnaName": "MICELIA",
+    "votes": 671,
+    "donateVotes": 670
+  },
+  {
+    "cadidate": 4040,
+    "urnaName": "ADEMIR ANDRADE",
+    "votes": 56574,
+    "donateVotes": 56574
+  },
+  {
+    "cadidate": 4077,
+    "urnaName": "PASTOR CARLOS ALBERTO",
+    "votes": 20549,
+    "donateVotes": 20549
+  },
+  {
+    "cadidate": 40,
+    "votes": 7515,
+    "donateVotes": 7515
+  },
+  {
+    "cadidate": 4099,
+    "urnaName": "MARINHO",
+    "votes": 2265,
+    "donateVotes": 2265
+  },
+  {
+    "cadidate": 4057,
+    "urnaName": "PRADO SA",
+    "votes": 682,
+    "donateVotes": 682
+  },
+  {
+    "cadidate": 1115,
+    "urnaName": "GERSON PERES",
+    "votes": 62072,
+    "donateVotes": 62032
+  },
+  {
+    "cadidate": 11,
+    "votes": 20497,
+    "donateVotes": 20497
+  },
+  {
+    "cadidate": 1155,
+    "urnaName": "EVA ROCHA",
+    "votes": 777,
+    "donateVotes": 777
+  },
+  {
+    "cadidate": 2014,
+    "urnaName": "DR. ZE ROBERTO",
+    "votes": 13686,
+    "donateVotes": 13687
+  },
+  {
+    "cadidate": 20,
+    "votes": 6117,
+    "donateVotes": 6117
+  },
+  {
+    "cadidate": 14,
+    "votes": 7848,
+    "donateVotes": 7848
+  },
+  {
+    "cadidate": 1477,
+    "urnaName": "CARLOS COUTO",
+    "votes": 1362,
+    "donateVotes": 1362
+  },
+  {
+    "cadidate": 2312,
+    "urnaName": "FAISAL",
+    "votes": 13284,
+    "donateVotes": 13283
+  },
+  {
+    "cadidate": 23,
+    "votes": 3464,
+    "donateVotes": 3464
+  },
+  {
+    "cadidate": 2315,
+    "urnaName": "TOCHA",
+    "votes": 560,
+    "donateVotes": 560
+  },
+  {
+    "cadidate": 2314,
+    "urnaName": "MARI FERREIRA",
+    "votes": 99,
+    "donateVotes": 100
+  },
+  {
+    "cadidate": 7070,
+    "urnaName": "DR. ELENILSON",
+    "votes": 14213,
+    "donateVotes": 14212
+  },
+  {
+    "cadidate": 70,
+    "votes": 727,
+    "donateVotes": 727
+  },
+  {
+    "cadidate": 3636,
+    "urnaName": "JOAO VIANA",
+    "votes": 1717,
+    "donateVotes": 1715
+  },
+  {
+    "cadidate": 3600,
+    "urnaName": "JUVENCIO DIAS",
+    "votes": 968,
+    "donateVotes": 967
+  },
+  {
+    "cadidate": 36,
+    "votes": 702,
+    "donateVotes": 702
+  },
+  {
+    "cadidate": 5010,
+    "urnaName": "MARCIO PINTO",
+    "votes": 15399,
+    "donateVotes": 8569
+  },
+  {
+    "cadidate": 5011,
+    "urnaName": "PROFESSOR CARLOS VAZ",
+    "votes": 12378,
+    "donateVotes": 8569
+  },
+  {
+    "cadidate": 5000,
+    "urnaName": "RUBENIXON",
+    "votes": 6818,
+    "donateVotes": 6818
+  },
+  {
+    "cadidate": 50,
+    "votes": 3986,
+    "donateVotes": 3986
+  },
+  {
+    "cadidate": 5045,
+    "urnaName": "CORNELIO SANTOS",
+    "votes": 2216,
+    "donateVotes": 2216
+  },
+  {
+    "cadidate": 5051,
+    "urnaName": "SILVIA LETICIA",
+    "votes": 2213,
+    "donateVotes": 2213
+  },
+  {
+    "cadidate": 5015,
+    "urnaName": "PROFESSOR RIGLER",
+    "votes": 1954,
+    "donateVotes": 1954
+  },
+  {
+    "cadidate": 5088,
+    "urnaName": "EDSON CATENDE",
+    "votes": 1749,
+    "donateVotes": 1749
+  },
+  {
+    "cadidate": 5055,
+    "urnaName": "RIBAMAR",
+    "votes": 1347,
+    "donateVotes": 1347
+  },
+  {
+    "cadidate": 5056,
+    "urnaName": "ADELINO BESSA",
+    "votes": 984,
+    "donateVotes": 984
+  },
+  {
+    "cadidate": 5022,
+    "urnaName": "PROFESSOR GEORGE",
+    "votes": 735,
+    "donateVotes": 735
+  },
+  {
+    "cadidate": 5093,
+    "urnaName": "PROFESSOR VALTAIR",
+    "votes": 668,
+    "donateVotes": 668
+  },
+  {
+    "cadidate": 5066,
+    "urnaName": "RUI SANTOS",
+    "votes": 416,
+    "donateVotes": 416
+  },
+  {
+    "cadidate": 5020,
+    "urnaName": "CLAUDIO",
+    "votes": 396,
+    "donateVotes": 396
+  },
+  {
+    "cadidate": 5077,
+    "urnaName": "ROSA MARIA",
+    "votes": 317,
+    "donateVotes": 317
+  },
+  {
+    "cadidate": 5005,
+    "urnaName": "LAELIA BORGES",
+    "votes": 304,
+    "donateVotes": 304
+  },
+  {
+    "cadidate": 5043,
+    "urnaName": "KATIA SANCHES",
+    "votes": 165,
+    "donateVotes": 165
+  },
+  {
+    "cadidate": 5001,
+    "urnaName": "HENIO MORAES",
+    "votes": 141,
+    "donateVotes": 141
+  },
+  {
+    "cadidate": 5030,
+    "urnaName": "KAROLINE RIBEIRO",
+    "votes": 69,
+    "donateVotes": 69
+  },
+  {
+    "cadidate": 5007,
+    "urnaName": "ROSA NAZARE",
+    "votes": 41,
+    "donateVotes": 41
+  },
+  {
+    "cadidate": 1616,
+    "urnaName": "CLEBER RABELO",
+    "votes": 7718,
+    "donateVotes": 7718
+  },
+  {
+    "cadidate": 16,
+    "votes": 902,
+    "donateVotes": 902
+  },
+  {
+    "cadidate": 1600,
+    "urnaName": "BIANCA HOLANDA",
+    "votes": 174,
+    "donateVotes": 174
+  },
+  {
+    "cadidate": 1601,
+    "urnaName": "DEUSINHA DE ALMEIDA",
+    "votes": 28,
+    "donateVotes": 28
+  },
+  {
+    "cadidate": 1603,
+    "urnaName": "ROSI PANTOJA",
+    "votes": 26,
+    "donateVotes": 26
+  },
+  {
+    "cadidate": 1602,
+    "urnaName": "PAULYANE RAMOS",
+    "votes": 19,
+    "donateVotes": 19
+  },
+  {
+    "cadidate": 22,
+    "votes": 4911,
+    "donateVotes": 4911
+  },
+  {
+    "cadidate": 2200,
+    "urnaName": "LEONARDO DUTRA VALE",
+    "votes": 522,
+    "donateVotes": 522
+  },
+  {
+    "cadidate": 2522,
+    "urnaName": "NELIO AGUIAR",
+    "votes": 84601,
+    "donateVotes": 79179
+  },
+  {
+    "cadidate": 2577,
+    "urnaName": "MARCELO CATALAO",
+    "votes": 40889,
+    "donateVotes": 40889
+  },
+  {
+    "cadidate": 2500,
+    "urnaName": "WALDOLI VALENTE",
+    "votes": 15500,
+    "donateVotes": 15500
+  },
+  {
+    "cadidate": 25,
+    "votes": 4260,
+    "donateVotes": 4260
+  },
+  {
+    "cadidate": 2512,
+    "urnaName": "GETULIO",
+    "votes": 1947,
+    "donateVotes": 1947
+  },
+  {
+    "cadidate": 2580,
+    "urnaName": "JEOVA DE AGUIAR",
+    "votes": 1865,
+    "donateVotes": 1864
+  },
+  {
+    "cadidate": 2552,
+    "urnaName": "JUNHAO",
+    "votes": 735,
+    "donateVotes": 735
+  },
+  {
+    "cadidate": 2511,
+    "urnaName": "IVONE",
+    "votes": 131,
+    "donateVotes": 131
+  },
+  {
+    "cadidate": 2505,
+    "urnaName": "NAZARE",
+    "votes": 63,
+    "donateVotes": 63
+  },
+  {
+    "cadidate": 3123,
+    "urnaName": "SGT. DILSON",
+    "votes": 2672,
+    "donateVotes": 2671
+  },
+  {
+    "cadidate": 31,
+    "votes": 2479,
+    "donateVotes": 2479
+  },
+  {
+    "cadidate": 3191,
+    "urnaName": "LIVIA ABREU",
+    "votes": 340,
+    "donateVotes": 340
+  },
+  {
+    "cadidate": 9090,
+    "urnaName": "DUDIMAR PAXIUBA",
+    "votes": 16082,
+    "donateVotes": 16082
+  },
+  {
+    "cadidate": 90,
+    "votes": 3152,
+    "donateVotes": 3151
+  },
+  {
+    "cadidate": 9011,
+    "urnaName": "LEIDE",
+    "votes": 270,
+    "donateVotes": 270
+  },
+  {
+    "cadidate": 6565,
+    "urnaName": "JORGE PANZERA",
+    "votes": 18474,
+    "donateVotes": 18473
+  },
+  {
+    "cadidate": 65,
+    "votes": 2475,
+    "donateVotes": 2476
+  },
+  {
+    "cadidate": 1777,
+    "urnaName": "DRA. REGINA SOARES",
+    "votes": 3417,
+    "donateVotes": 3417
+  },
+  {
+    "cadidate": 1788,
+    "urnaName": "MAGELA PARANOIA",
+    "votes": 2710,
+    "donateVotes": 2711
+  },
+  {
+    "cadidate": 1717,
+    "urnaName": "IRMAO DIDI",
+    "votes": 1742,
+    "donateVotes": 1743
+  },
+  {
+    "cadidate": 17,
+    "votes": 630,
+    "donateVotes": 631
+  },
+  {
+    "cadidate": 1712,
+    "urnaName": "IRACELI TAVEIRA",
+    "votes": 616,
+    "donateVotes": 617
+  },
+  {
+    "cadidate": 1755,
+    "urnaName": "LUCIO CARDOSO",
+    "votes": 134,
+    "donateVotes": 134
+  },
+  {
+    "cadidate": 1212,
+    "urnaName": "GIOVANNI QUEIROZ",
+    "votes": 68973,
+    "donateVotes": 68973
+  },
+  {
+    "cadidate": 1211,
+    "urnaName": "VIEIRA",
+    "votes": 14848,
+    "donateVotes": 14848
+  },
+  {
+    "cadidate": 12,
+    "votes": 7790,
+    "donateVotes": 7790
+  },
+  {
+    "cadidate": 1220,
+    "urnaName": "PROF ANTONIO NETO",
+    "votes": 7487,
+    "donateVotes": 7487
+  },
+  {
+    "cadidate": 1233,
+    "urnaName": "WALTER CARNEIRO",
+    "votes": 5402,
+    "donateVotes": 5401
+  },
+  {
+    "cadidate": 1221,
+    "urnaName": "BISPO MILANI",
+    "votes": 4388,
+    "donateVotes": 4388
+  },
+  {
+    "cadidate": 1290,
+    "urnaName": "BETINHO",
+    "votes": 4179,
+    "donateVotes": 4179
+  },
+  {
+    "cadidate": 1213,
+    "urnaName": "IRMAO JOCLAU",
+    "votes": 3164,
+    "donateVotes": 3164
+  },
+  {
+    "cadidate": 1234,
+    "urnaName": "PIMENTEL",
+    "votes": 2539,
+    "donateVotes": 2539
+  },
+  {
+    "cadidate": 1223,
+    "urnaName": "WALTINHO MOURA",
+    "votes": 2229,
+    "donateVotes": 2229
+  },
+  {
+    "cadidate": 1222,
+    "urnaName": "ADMIR POMBO",
+    "votes": 1707,
+    "donateVotes": 1707
+  },
+  {
+    "cadidate": 1215,
+    "urnaName": "ANA POTY",
+    "votes": 1560,
+    "donateVotes": 1560
+  },
+  {
+    "cadidate": 1214,
+    "urnaName": "NARA PAMPLONA",
+    "votes": 1132,
+    "donateVotes": 1131
+  },
+  {
+    "cadidate": 1218,
+    "urnaName": "JORGE AMORIM",
+    "votes": 574,
+    "donateVotes": 574
+  },
+  {
+    "cadidate": 1255,
+    "urnaName": "CLAUDIA SANTOS",
+    "votes": 470,
+    "donateVotes": 470
+  },
+  {
+    "cadidate": 1207,
+    "urnaName": "LEUNICE",
+    "votes": 15,
+    "donateVotes": 15
+  },
+  {
+    "cadidate": 5454,
+    "urnaName": "LULA SOUTO",
+    "votes": 1835,
+    "donateVotes": 1835
+  },
+  {
+    "cadidate": 54,
+    "votes": 1579,
+    "donateVotes": 1579
+  },
+  {
+    "cadidate": 5474,
+    "urnaName": "DR. TABAJARA",
+    "votes": 992,
+    "donateVotes": 992
+  },
+  {
+    "cadidate": 5400,
+    "urnaName": "KELLY ANDRADE",
+    "votes": 269,
+    "donateVotes": 269
+  },
+  {
+    "cadidate": 5477,
+    "urnaName": "STAFFORD",
+    "votes": 174,
+    "donateVotes": 174
+  },
+  {
+    "cadidate": 1550,
+    "urnaName": "PAULA TITAN",
+    "votes": 67324,
+    "donateVotes": 67317
+  },
+  {
+    "cadidate": 1522,
+    "urnaName": "JOAQUIM CAMPOS",
+    "votes": 60749,
+    "donateVotes": 60743
+  },
+  {
+    "cadidate": 15,
+    "votes": 29642,
+    "donateVotes": 29638
+  },
+  {
+    "cadidate": 1510,
+    "urnaName": "JOAS POSSIDONIO",
+    "votes": 9899,
+    "donateVotes": 9897
+  },
+  {
+    "cadidate": 1533,
+    "urnaName": "LEOMARINO",
+    "votes": 7519,
+    "donateVotes": 7519
+  },
+  {
+    "cadidate": 1544,
+    "urnaName": "PIPICO",
+    "votes": 2593,
+    "donateVotes": 2594
+  },
+  {
+    "cadidate": 1516,
+    "urnaName": "GRACIMAR",
+    "votes": 1032,
+    "donateVotes": 1032
+  },
+  {
+    "cadidate": 1517,
+    "urnaName": "PACHECO",
+    "votes": 745,
+    "donateVotes": 745
+  },
+  {
+    "cadidate": 1512,
+    "urnaName": "HAMILTON BENTES",
+    "votes": 734,
+    "donateVotes": 734
+  },
+  {
+    "cadidate": 1380,
+    "urnaName": "MIRIQUINHO BATISTA",
+    "votes": 74722,
+    "donateVotes": 74698
+  },
+  {
+    "cadidate": 13,
+    "votes": 68161,
+    "donateVotes": 68153
+  },
+  {
+    "cadidate": 1314,
+    "urnaName": "ANA JULIA CAREPA",
+    "votes": 58938,
+    "donateVotes": 58932
+  },
+  {
+    "cadidate": 1310,
+    "urnaName": "PUTY",
+    "votes": 57105,
+    "donateVotes": 57099
+  },
+  {
+    "cadidate": 1311,
+    "urnaName": "CARLOS MARTINS",
+    "votes": 41080,
+    "donateVotes": 41076
+  },
+  {
+    "cadidate": 1300,
+    "urnaName": "MILTON ZIMMER",
+    "votes": 40146,
+    "donateVotes": 40142
+  },
+  {
+    "cadidate": 1301,
+    "urnaName": "VANIA BARBOSA",
+    "votes": 1259,
+    "donateVotes": 1259
+  },
+  {
+    "cadidate": 1010,
+    "urnaName": "RAUL BATISTA",
+    "votes": 104356,
+    "donateVotes": 12514
+  },
+  {
+    "cadidate": 10,
+    "votes": 3783,
+    "donateVotes": 3783
+  },
+  {
+    "cadidate": 1011,
+    "urnaName": "RBERTO GUERRA",
+    "votes": 305,
+    "donateVotes": 305
+  },
+  {
+    "cadidate": 1020,
+    "urnaName": "MARI DE JESUS",
+    "votes": 126,
+    "donateVotes": 126
+  },
+  {
+    "cadidate": 1030,
+    "urnaName": "CLAUDIA RIBEIRO",
+    "votes": 66,
+    "donateVotes": 66
+  },
+  {
+    "cadidate": 1025,
+    "urnaName": "JOSEFA LIMA",
+    "votes": 10,
+    "donateVotes": 10
+  },
+  {
+    "cadidate": 7799,
+    "urnaName": "JOSIAS HIGINO",
+    "votes": 29882,
+    "donateVotes": 12514
+  },
+  {
+    "cadidate": 7733,
+    "urnaName": "ZECA PIRAO",
+    "votes": 26146,
+    "donateVotes": 12514
+  },
+  {
+    "cadidate": 7788,
+    "urnaName": "VALRY MORAES",
+    "votes": 15867,
+    "donateVotes": 12514
+  },
+  {
+    "cadidate": 7722,
+    "urnaName": "BRUNA LORRANE",
+    "votes": 8441,
+    "donateVotes": 8441
+  },
+  {
+    "cadidate": 7745,
+    "urnaName": "PAULO QUADROS",
+    "votes": 6097,
+    "donateVotes": 6097
+  },
+  {
+    "cadidate": 77,
+    "votes": 4919,
+    "donateVotes": 4919
+  },
+  {
+    "cadidate": 7700,
+    "urnaName": "DR. CHARLES",
+    "votes": 4150,
+    "donateVotes": 4150
+  },
+  {
+    "cadidate": 7789,
+    "urnaName": "FABIO RONAN",
+    "votes": 1963,
+    "donateVotes": 1963
+  }
+]

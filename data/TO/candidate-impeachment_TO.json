@@ -1,0 +1,1821 @@
+[
+  {
+    "candidate": 1511,
+    "fullName": "DULCE FERREIRA PAGANI MIRANDA",
+    "urnaName": "DULCE MIRANDA",
+    "party": "PMDB",
+    "state": "TO",
+    "impeachment": true,
+    "votes": 75934,
+    "pct": 10.35,
+    "individual": false,
+    "quoc": 0.83,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PMDB",
+        "PV",
+        "PT",
+        "PSD"
+      ],
+      "others": [
+        {
+          "candidate": 1515,
+          "urnaName": "OSVALDO REIS",
+          "party": "PMDB",
+          "state": "TO",
+          "votes": 44739,
+          "pct": 0.0641,
+          "auxVotes": 2868,
+          "canVotes": 8514
+        },
+        {
+          "candidate": 1570,
+          "urnaName": "JUNIOR COIMBRA",
+          "party": "PMDB",
+          "state": "TO",
+          "votes": 43270,
+          "pct": 0.0663,
+          "auxVotes": 2868,
+          "canVotes": 8234
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "TO",
+          "votes": 13796,
+          "pct": 0.1143,
+          "auxVotes": 2625
+        },
+        {
+          "candidate": 4301,
+          "urnaName": "FREIRE JR",
+          "party": "PV",
+          "state": "TO",
+          "votes": 21466,
+          "pct": 0.1336,
+          "auxVotes": 2868,
+          "canVotes": 4085
+        },
+        {
+          "candidate": 4377,
+          "urnaName": "MARCOS SOLUCAO",
+          "party": "PV",
+          "state": "TO",
+          "votes": 1169,
+          "pct": 0.1903,
+          "auxVotes": 222
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "TO",
+          "votes": 599,
+          "pct": 0.1903,
+          "auxVotes": 114
+        },
+        {
+          "candidate": 4300,
+          "urnaName": "FLAVIA CRISTINA",
+          "party": "PV",
+          "state": "TO",
+          "votes": 527,
+          "pct": 0.1903,
+          "auxVotes": 100
+        },
+        {
+          "candidate": 1313,
+          "urnaName": "FREITAS DO PT",
+          "party": "PT",
+          "state": "TO",
+          "votes": 13065,
+          "pct": 0.1207,
+          "auxVotes": 2486
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "TO",
+          "votes": 5213,
+          "pct": 0.1903,
+          "auxVotes": 992
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "TO",
+          "votes": 3302,
+          "pct": 0.1903,
+          "auxVotes": 628
+        }
+      ],
+      "needVotes": 15771,
+      "pctVotes": 0.1903,
+      "realNeedVotes": 15771,
+      "realPctVotes": 0.1903,
+      "totalVotes": 15771,
+      "voteEach": 1577
+    }
+  },
+  {
+    "candidate": 5510,
+    "fullName": "IRAJÁ SILVESTRE FILHO",
+    "urnaName": "IRAJA ABREU",
+    "party": "PSD",
+    "state": "TO",
+    "impeachment": false,
+    "votes": 62859,
+    "pct": 8.57,
+    "individual": false,
+    "quoc": 0.69,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PMDB",
+        "PV",
+        "PT",
+        "PSD"
+      ],
+      "others": [
+        {
+          "candidate": 1515,
+          "urnaName": "OSVALDO REIS",
+          "party": "PMDB",
+          "state": "TO",
+          "votes": 44739,
+          "pct": 0.1172,
+          "auxVotes": 5245,
+          "canVotes": 15574
+        },
+        {
+          "candidate": 1570,
+          "urnaName": "JUNIOR COIMBRA",
+          "party": "PMDB",
+          "state": "TO",
+          "votes": 43270,
+          "pct": 0.1212,
+          "auxVotes": 5244,
+          "canVotes": 15062
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "TO",
+          "votes": 13796,
+          "pct": 0.2091,
+          "auxVotes": 4802
+        },
+        {
+          "candidate": 4301,
+          "urnaName": "FREIRE JR",
+          "party": "PV",
+          "state": "TO",
+          "votes": 21466,
+          "pct": 0.2443,
+          "auxVotes": 5244,
+          "canVotes": 7472
+        },
+        {
+          "candidate": 4377,
+          "urnaName": "MARCOS SOLUCAO",
+          "party": "PV",
+          "state": "TO",
+          "votes": 1169,
+          "pct": 0.3481,
+          "auxVotes": 407
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "TO",
+          "votes": 599,
+          "pct": 0.3481,
+          "auxVotes": 209
+        },
+        {
+          "candidate": 4300,
+          "urnaName": "FLAVIA CRISTINA",
+          "party": "PV",
+          "state": "TO",
+          "votes": 527,
+          "pct": 0.3481,
+          "auxVotes": 183
+        },
+        {
+          "candidate": 1313,
+          "urnaName": "FREITAS DO PT",
+          "party": "PT",
+          "state": "TO",
+          "votes": 13065,
+          "pct": 0.2208,
+          "auxVotes": 4548
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "TO",
+          "votes": 5213,
+          "pct": 0.3481,
+          "auxVotes": 1815
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "TO",
+          "votes": 3302,
+          "pct": 0.3481,
+          "auxVotes": 1149
+        }
+      ],
+      "needVotes": 28846,
+      "pctVotes": 0.3481,
+      "realNeedVotes": 28846,
+      "realPctVotes": 0.3481,
+      "totalVotes": 28846,
+      "voteEach": 2885
+    }
+  },
+  {
+    "candidate": 1500,
+    "fullName": "JOSINIANE BRAGA NUNES",
+    "urnaName": "JOSI NUNES",
+    "party": "PMDB",
+    "state": "TO",
+    "impeachment": true,
+    "votes": 53452,
+    "pct": 7.29,
+    "individual": false,
+    "quoc": 0.58,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PMDB",
+        "PV",
+        "PT",
+        "PSD"
+      ],
+      "others": [
+        {
+          "candidate": 1515,
+          "urnaName": "OSVALDO REIS",
+          "party": "PMDB",
+          "state": "TO",
+          "votes": 44739,
+          "pct": 0.1555,
+          "auxVotes": 6955,
+          "canVotes": 20652
+        },
+        {
+          "candidate": 1570,
+          "urnaName": "JUNIOR COIMBRA",
+          "party": "PMDB",
+          "state": "TO",
+          "votes": 43270,
+          "pct": 0.1607,
+          "auxVotes": 6955,
+          "canVotes": 19973
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "TO",
+          "votes": 13796,
+          "pct": 0.2773,
+          "auxVotes": 6368
+        },
+        {
+          "candidate": 4301,
+          "urnaName": "FREIRE JR",
+          "party": "PV",
+          "state": "TO",
+          "votes": 21466,
+          "pct": 0.324,
+          "auxVotes": 6955,
+          "canVotes": 9909
+        },
+        {
+          "candidate": 4377,
+          "urnaName": "MARCOS SOLUCAO",
+          "party": "PV",
+          "state": "TO",
+          "votes": 1169,
+          "pct": 0.4616,
+          "auxVotes": 540
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "TO",
+          "votes": 599,
+          "pct": 0.4616,
+          "auxVotes": 276
+        },
+        {
+          "candidate": 4300,
+          "urnaName": "FLAVIA CRISTINA",
+          "party": "PV",
+          "state": "TO",
+          "votes": 527,
+          "pct": 0.4616,
+          "auxVotes": 243
+        },
+        {
+          "candidate": 1313,
+          "urnaName": "FREITAS DO PT",
+          "party": "PT",
+          "state": "TO",
+          "votes": 13065,
+          "pct": 0.2928,
+          "auxVotes": 6031
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "TO",
+          "votes": 5213,
+          "pct": 0.4616,
+          "auxVotes": 2406
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "TO",
+          "votes": 3302,
+          "pct": 0.4616,
+          "auxVotes": 1524
+        }
+      ],
+      "needVotes": 38253,
+      "pctVotes": 0.4616,
+      "realNeedVotes": 38253,
+      "realPctVotes": 0.4616,
+      "totalVotes": 38253,
+      "voteEach": 3825
+    }
+  },
+  {
+    "candidate": 4040,
+    "fullName": "VICENTE ALVES DE OLIVEIRA JUNIOR",
+    "urnaName": "VICENTINHO JUNIOR",
+    "party": "PSB",
+    "state": "TO",
+    "impeachment": false,
+    "votes": 51069,
+    "pct": 6.96,
+    "individual": false,
+    "quoc": 0.56,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PTB",
+        "PSL",
+        "PSC",
+        "PR",
+        "PPS",
+        "DEM",
+        "PRTB",
+        "PHS",
+        "PTC",
+        "PSB",
+        "PRP",
+        "PSDB",
+        "PEN",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "TO",
+          "votes": 949,
+          "pct": 0.2198,
+          "auxVotes": 209
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "TIAGO ANDRINO",
+          "party": "PP",
+          "state": "TO",
+          "votes": 36397,
+          "pct": 0.1707,
+          "auxVotes": 6213,
+          "canVotes": 8000
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "TO",
+          "votes": 3360,
+          "pct": 0.2198,
+          "auxVotes": 739
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "TO",
+          "votes": 2400,
+          "pct": 0.2198,
+          "auxVotes": 528
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "TO",
+          "votes": 1471,
+          "pct": 0.2198,
+          "auxVotes": 323
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "JOSE GERALDO",
+          "party": "PTB",
+          "state": "TO",
+          "votes": 411,
+          "pct": 0.2198,
+          "auxVotes": 90
+        },
+        {
+          "candidate": 1720,
+          "urnaName": "CB. IRMAO ELMIR",
+          "party": "PSL",
+          "state": "TO",
+          "votes": 1786,
+          "pct": 0.2198,
+          "auxVotes": 393
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "TO",
+          "votes": 628,
+          "pct": 0.2198,
+          "auxVotes": 138
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "PASTOR JOAO CAMPOS",
+          "party": "PSC",
+          "state": "TO",
+          "votes": 29663,
+          "pct": 0.2095,
+          "auxVotes": 6213,
+          "canVotes": 6520
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "TO",
+          "votes": 685,
+          "pct": 0.2198,
+          "auxVotes": 151
+        },
+        {
+          "candidate": 2255,
+          "urnaName": "MARCUS MARCELO",
+          "party": "PR",
+          "state": "TO",
+          "votes": 25535,
+          "pct": 0.1468,
+          "auxVotes": 5613
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "BETO LIMA",
+          "party": "PR",
+          "state": "TO",
+          "votes": 7638,
+          "pct": 0.1438,
+          "auxVotes": 1679
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "TO",
+          "votes": 2511,
+          "pct": 0.2198,
+          "auxVotes": 552
+        },
+        {
+          "candidate": 2212,
+          "urnaName": "JOENICE",
+          "party": "PR",
+          "state": "TO",
+          "votes": 180,
+          "pct": 0.2198,
+          "auxVotes": 40
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "TO",
+          "votes": 947,
+          "pct": 0.2198,
+          "auxVotes": 208
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "MAX FLEURY",
+          "party": "PPS",
+          "state": "TO",
+          "votes": 613,
+          "pct": 0.2198,
+          "auxVotes": 135
+        },
+        {
+          "candidate": 2525,
+          "urnaName": "JOAO OLIVEIRA",
+          "party": "DEM",
+          "state": "TO",
+          "votes": 37323,
+          "pct": 0.1665,
+          "auxVotes": 6213,
+          "canVotes": 8204
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "TO",
+          "votes": 2333,
+          "pct": 0.2198,
+          "auxVotes": 513
+        },
+        {
+          "candidate": 2828,
+          "urnaName": "JOAO RIBEIRO JR",
+          "party": "PRTB",
+          "state": "TO",
+          "votes": 806,
+          "pct": 0.2198,
+          "auxVotes": 177
+        },
+        {
+          "candidate": 28,
+          "party": "PRTB",
+          "state": "TO",
+          "votes": 355,
+          "pct": 0.2198,
+          "auxVotes": 78
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MARABA",
+          "party": "PHS",
+          "state": "TO",
+          "votes": 7576,
+          "pct": 0.1449,
+          "auxVotes": 1665
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "TO",
+          "votes": 456,
+          "pct": 0.2198,
+          "auxVotes": 100
+        },
+        {
+          "candidate": 3111,
+          "urnaName": "ERIKA AVILA",
+          "party": "PHS",
+          "state": "TO",
+          "votes": 430,
+          "pct": 0.2198,
+          "auxVotes": 95
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "TO",
+          "votes": 226,
+          "pct": 0.2198,
+          "auxVotes": 50
+        },
+        {
+          "candidate": 4099,
+          "urnaName": "RAFAEL BOFF",
+          "party": "PSB",
+          "state": "TO",
+          "votes": 6391,
+          "pct": 0.1718,
+          "auxVotes": 1405
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "TO",
+          "votes": 2120,
+          "pct": 0.2198,
+          "auxVotes": 466
+        },
+        {
+          "candidate": 4055,
+          "urnaName": "ACILENE PEREIRA",
+          "party": "PSB",
+          "state": "TO",
+          "votes": 192,
+          "pct": 0.2198,
+          "auxVotes": 42
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "TO",
+          "votes": 911,
+          "pct": 0.2198,
+          "auxVotes": 200
+        },
+        {
+          "candidate": 4477,
+          "urnaName": "DR. CHARLLES PITA",
+          "party": "PRP",
+          "state": "TO",
+          "votes": 589,
+          "pct": 0.2198,
+          "auxVotes": 129
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "TO",
+          "votes": 4369,
+          "pct": 0.2198,
+          "auxVotes": 960
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "TO",
+          "votes": 620,
+          "pct": 0.2198,
+          "auxVotes": 136
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "TO",
+          "votes": 10861,
+          "pct": 0.1011,
+          "auxVotes": 2387
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "WALTER JUNIOR",
+          "party": "SD",
+          "state": "TO",
+          "votes": 10685,
+          "pct": 0.1028,
+          "auxVotes": 2349
+        },
+        {
+          "candidate": 7789,
+          "urnaName": "LEILA SOARES",
+          "party": "SD",
+          "state": "TO",
+          "votes": 845,
+          "pct": 0.2198,
+          "auxVotes": 186
+        },
+        {
+          "candidate": 7723,
+          "urnaName": "LUANA CARVALHO",
+          "party": "SD",
+          "state": "TO",
+          "votes": 599,
+          "pct": 0.2198,
+          "auxVotes": 132
+        },
+        {
+          "candidate": 7775,
+          "urnaName": "ROSANGELA BATISTA",
+          "party": "SD",
+          "state": "TO",
+          "votes": 325,
+          "pct": 0.2198,
+          "auxVotes": 71
+        },
+        {
+          "candidate": 7788,
+          "urnaName": "MARCIA REGINA",
+          "party": "SD",
+          "state": "TO",
+          "votes": 267,
+          "pct": 0.2198,
+          "auxVotes": 59
+        }
+      ],
+      "needVotes": 40636,
+      "pctVotes": 0.2198,
+      "realNeedVotes": 40636,
+      "realPctVotes": 0.2198,
+      "totalVotes": 40637,
+      "voteEach": 1098
+    }
+  },
+  {
+    "candidate": 1010,
+    "fullName": "CESAR HANNA HALUM",
+    "urnaName": "CESAR HALUM",
+    "party": "PRB",
+    "state": "TO",
+    "impeachment": true,
+    "votes": 46119,
+    "pct": 6.29,
+    "individual": false,
+    "quoc": 0.5,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PTB",
+        "PSL",
+        "PSC",
+        "PR",
+        "PPS",
+        "DEM",
+        "PRTB",
+        "PHS",
+        "PTC",
+        "PSB",
+        "PRP",
+        "PSDB",
+        "PEN",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "TO",
+          "votes": 949,
+          "pct": 0.2466,
+          "auxVotes": 234
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "TIAGO ANDRINO",
+          "party": "PP",
+          "state": "TO",
+          "votes": 36397,
+          "pct": 0.1915,
+          "auxVotes": 6970,
+          "canVotes": 8976
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "TO",
+          "votes": 3360,
+          "pct": 0.2466,
+          "auxVotes": 829
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "TO",
+          "votes": 2400,
+          "pct": 0.2466,
+          "auxVotes": 592
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "TO",
+          "votes": 1471,
+          "pct": 0.2466,
+          "auxVotes": 363
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "JOSE GERALDO",
+          "party": "PTB",
+          "state": "TO",
+          "votes": 411,
+          "pct": 0.2466,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 1720,
+          "urnaName": "CB. IRMAO ELMIR",
+          "party": "PSL",
+          "state": "TO",
+          "votes": 1786,
+          "pct": 0.2466,
+          "auxVotes": 440
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "TO",
+          "votes": 628,
+          "pct": 0.2466,
+          "auxVotes": 155
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "PASTOR JOAO CAMPOS",
+          "party": "PSC",
+          "state": "TO",
+          "votes": 29663,
+          "pct": 0.235,
+          "auxVotes": 6970,
+          "canVotes": 7315
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "TO",
+          "votes": 685,
+          "pct": 0.2466,
+          "auxVotes": 169
+        },
+        {
+          "candidate": 2255,
+          "urnaName": "MARCUS MARCELO",
+          "party": "PR",
+          "state": "TO",
+          "votes": 25535,
+          "pct": 0.1647,
+          "auxVotes": 6297
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "BETO LIMA",
+          "party": "PR",
+          "state": "TO",
+          "votes": 7638,
+          "pct": 0.1613,
+          "auxVotes": 1884
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "TO",
+          "votes": 2511,
+          "pct": 0.2466,
+          "auxVotes": 619
+        },
+        {
+          "candidate": 2212,
+          "urnaName": "JOENICE",
+          "party": "PR",
+          "state": "TO",
+          "votes": 180,
+          "pct": 0.2466,
+          "auxVotes": 44
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "TO",
+          "votes": 947,
+          "pct": 0.2466,
+          "auxVotes": 234
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "MAX FLEURY",
+          "party": "PPS",
+          "state": "TO",
+          "votes": 613,
+          "pct": 0.2466,
+          "auxVotes": 151
+        },
+        {
+          "candidate": 2525,
+          "urnaName": "JOAO OLIVEIRA",
+          "party": "DEM",
+          "state": "TO",
+          "votes": 37323,
+          "pct": 0.1867,
+          "auxVotes": 6970,
+          "canVotes": 9204
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "TO",
+          "votes": 2333,
+          "pct": 0.2466,
+          "auxVotes": 575
+        },
+        {
+          "candidate": 2828,
+          "urnaName": "JOAO RIBEIRO JR",
+          "party": "PRTB",
+          "state": "TO",
+          "votes": 806,
+          "pct": 0.2466,
+          "auxVotes": 199
+        },
+        {
+          "candidate": 28,
+          "party": "PRTB",
+          "state": "TO",
+          "votes": 355,
+          "pct": 0.2466,
+          "auxVotes": 88
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MARABA",
+          "party": "PHS",
+          "state": "TO",
+          "votes": 7576,
+          "pct": 0.1626,
+          "auxVotes": 1868
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "TO",
+          "votes": 456,
+          "pct": 0.2466,
+          "auxVotes": 112
+        },
+        {
+          "candidate": 3111,
+          "urnaName": "ERIKA AVILA",
+          "party": "PHS",
+          "state": "TO",
+          "votes": 430,
+          "pct": 0.2466,
+          "auxVotes": 106
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "TO",
+          "votes": 226,
+          "pct": 0.2466,
+          "auxVotes": 56
+        },
+        {
+          "candidate": 4099,
+          "urnaName": "RAFAEL BOFF",
+          "party": "PSB",
+          "state": "TO",
+          "votes": 6391,
+          "pct": 0.1928,
+          "auxVotes": 1576
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "TO",
+          "votes": 2120,
+          "pct": 0.2466,
+          "auxVotes": 523
+        },
+        {
+          "candidate": 4055,
+          "urnaName": "ACILENE PEREIRA",
+          "party": "PSB",
+          "state": "TO",
+          "votes": 192,
+          "pct": 0.2466,
+          "auxVotes": 47
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "TO",
+          "votes": 911,
+          "pct": 0.2466,
+          "auxVotes": 225
+        },
+        {
+          "candidate": 4477,
+          "urnaName": "DR. CHARLLES PITA",
+          "party": "PRP",
+          "state": "TO",
+          "votes": 589,
+          "pct": 0.2466,
+          "auxVotes": 145
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "TO",
+          "votes": 4369,
+          "pct": 0.2466,
+          "auxVotes": 1077
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "TO",
+          "votes": 620,
+          "pct": 0.2466,
+          "auxVotes": 153
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "TO",
+          "votes": 10861,
+          "pct": 0.1134,
+          "auxVotes": 2678
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "WALTER JUNIOR",
+          "party": "SD",
+          "state": "TO",
+          "votes": 10685,
+          "pct": 0.1153,
+          "auxVotes": 2635
+        },
+        {
+          "candidate": 7789,
+          "urnaName": "LEILA SOARES",
+          "party": "SD",
+          "state": "TO",
+          "votes": 845,
+          "pct": 0.2466,
+          "auxVotes": 208
+        },
+        {
+          "candidate": 7723,
+          "urnaName": "LUANA CARVALHO",
+          "party": "SD",
+          "state": "TO",
+          "votes": 599,
+          "pct": 0.2466,
+          "auxVotes": 148
+        },
+        {
+          "candidate": 7775,
+          "urnaName": "ROSANGELA BATISTA",
+          "party": "SD",
+          "state": "TO",
+          "votes": 325,
+          "pct": 0.2466,
+          "auxVotes": 80
+        },
+        {
+          "candidate": 7788,
+          "urnaName": "MARCIA REGINA",
+          "party": "SD",
+          "state": "TO",
+          "votes": 267,
+          "pct": 0.2466,
+          "auxVotes": 66
+        }
+      ],
+      "needVotes": 45586,
+      "pctVotes": 0.2466,
+      "realNeedVotes": 45586,
+      "realPctVotes": 0.2466,
+      "totalVotes": 45587,
+      "voteEach": 1232
+    }
+  },
+  {
+    "candidate": 1145,
+    "fullName": "LÁZARO BOTELHO MARTINS",
+    "urnaName": "LAZARO BOTELHO",
+    "party": "PP",
+    "state": "TO",
+    "impeachment": true,
+    "votes": 42935,
+    "pct": 5.85,
+    "individual": false,
+    "quoc": 0.47,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PTB",
+        "PSL",
+        "PSC",
+        "PR",
+        "PPS",
+        "DEM",
+        "PRTB",
+        "PHS",
+        "PTC",
+        "PSB",
+        "PRP",
+        "PSDB",
+        "PEN",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "TO",
+          "votes": 949,
+          "pct": 0.2638,
+          "auxVotes": 250
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "TIAGO ANDRINO",
+          "party": "PP",
+          "state": "TO",
+          "votes": 36397,
+          "pct": 0.2049,
+          "auxVotes": 7458,
+          "canVotes": 9602
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "TO",
+          "votes": 3360,
+          "pct": 0.2638,
+          "auxVotes": 886
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "TO",
+          "votes": 2400,
+          "pct": 0.2638,
+          "auxVotes": 633
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "TO",
+          "votes": 1471,
+          "pct": 0.2638,
+          "auxVotes": 388
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "JOSE GERALDO",
+          "party": "PTB",
+          "state": "TO",
+          "votes": 411,
+          "pct": 0.2638,
+          "auxVotes": 108
+        },
+        {
+          "candidate": 1720,
+          "urnaName": "CB. IRMAO ELMIR",
+          "party": "PSL",
+          "state": "TO",
+          "votes": 1786,
+          "pct": 0.2638,
+          "auxVotes": 471
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "TO",
+          "votes": 628,
+          "pct": 0.2638,
+          "auxVotes": 166
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "PASTOR JOAO CAMPOS",
+          "party": "PSC",
+          "state": "TO",
+          "votes": 29663,
+          "pct": 0.2514,
+          "auxVotes": 7457,
+          "canVotes": 7825
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "TO",
+          "votes": 685,
+          "pct": 0.2638,
+          "auxVotes": 181
+        },
+        {
+          "candidate": 2255,
+          "urnaName": "MARCUS MARCELO",
+          "party": "PR",
+          "state": "TO",
+          "votes": 25535,
+          "pct": 0.1762,
+          "auxVotes": 6736
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "BETO LIMA",
+          "party": "PR",
+          "state": "TO",
+          "votes": 7638,
+          "pct": 0.1726,
+          "auxVotes": 2015
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "TO",
+          "votes": 2511,
+          "pct": 0.2638,
+          "auxVotes": 662
+        },
+        {
+          "candidate": 2212,
+          "urnaName": "JOENICE",
+          "party": "PR",
+          "state": "TO",
+          "votes": 180,
+          "pct": 0.2638,
+          "auxVotes": 47
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "TO",
+          "votes": 947,
+          "pct": 0.2638,
+          "auxVotes": 250
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "MAX FLEURY",
+          "party": "PPS",
+          "state": "TO",
+          "votes": 613,
+          "pct": 0.2638,
+          "auxVotes": 162
+        },
+        {
+          "candidate": 2525,
+          "urnaName": "JOAO OLIVEIRA",
+          "party": "DEM",
+          "state": "TO",
+          "votes": 37323,
+          "pct": 0.1998,
+          "auxVotes": 7457,
+          "canVotes": 9846
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "TO",
+          "votes": 2333,
+          "pct": 0.2638,
+          "auxVotes": 615
+        },
+        {
+          "candidate": 2828,
+          "urnaName": "JOAO RIBEIRO JR",
+          "party": "PRTB",
+          "state": "TO",
+          "votes": 806,
+          "pct": 0.2638,
+          "auxVotes": 213
+        },
+        {
+          "candidate": 28,
+          "party": "PRTB",
+          "state": "TO",
+          "votes": 355,
+          "pct": 0.2638,
+          "auxVotes": 94
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MARABA",
+          "party": "PHS",
+          "state": "TO",
+          "votes": 7576,
+          "pct": 0.174,
+          "auxVotes": 1999
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "TO",
+          "votes": 456,
+          "pct": 0.2638,
+          "auxVotes": 120
+        },
+        {
+          "candidate": 3111,
+          "urnaName": "ERIKA AVILA",
+          "party": "PHS",
+          "state": "TO",
+          "votes": 430,
+          "pct": 0.2638,
+          "auxVotes": 113
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "TO",
+          "votes": 226,
+          "pct": 0.2638,
+          "auxVotes": 60
+        },
+        {
+          "candidate": 4099,
+          "urnaName": "RAFAEL BOFF",
+          "party": "PSB",
+          "state": "TO",
+          "votes": 6391,
+          "pct": 0.2062,
+          "auxVotes": 1686
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "TO",
+          "votes": 2120,
+          "pct": 0.2638,
+          "auxVotes": 559
+        },
+        {
+          "candidate": 4055,
+          "urnaName": "ACILENE PEREIRA",
+          "party": "PSB",
+          "state": "TO",
+          "votes": 192,
+          "pct": 0.2638,
+          "auxVotes": 51
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "TO",
+          "votes": 911,
+          "pct": 0.2638,
+          "auxVotes": 240
+        },
+        {
+          "candidate": 4477,
+          "urnaName": "DR. CHARLLES PITA",
+          "party": "PRP",
+          "state": "TO",
+          "votes": 589,
+          "pct": 0.2638,
+          "auxVotes": 155
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "TO",
+          "votes": 4369,
+          "pct": 0.2638,
+          "auxVotes": 1153
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "TO",
+          "votes": 620,
+          "pct": 0.2638,
+          "auxVotes": 164
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "TO",
+          "votes": 10861,
+          "pct": 0.1214,
+          "auxVotes": 2865
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "WALTER JUNIOR",
+          "party": "SD",
+          "state": "TO",
+          "votes": 10685,
+          "pct": 0.1234,
+          "auxVotes": 2819
+        },
+        {
+          "candidate": 7789,
+          "urnaName": "LEILA SOARES",
+          "party": "SD",
+          "state": "TO",
+          "votes": 845,
+          "pct": 0.2638,
+          "auxVotes": 223
+        },
+        {
+          "candidate": 7723,
+          "urnaName": "LUANA CARVALHO",
+          "party": "SD",
+          "state": "TO",
+          "votes": 599,
+          "pct": 0.2638,
+          "auxVotes": 158
+        },
+        {
+          "candidate": 7775,
+          "urnaName": "ROSANGELA BATISTA",
+          "party": "SD",
+          "state": "TO",
+          "votes": 325,
+          "pct": 0.2638,
+          "auxVotes": 86
+        },
+        {
+          "candidate": 7788,
+          "urnaName": "MARCIA REGINA",
+          "party": "SD",
+          "state": "TO",
+          "votes": 267,
+          "pct": 0.2638,
+          "auxVotes": 70
+        }
+      ],
+      "needVotes": 48770,
+      "pctVotes": 0.2638,
+      "realNeedVotes": 48770,
+      "realPctVotes": 0.2638,
+      "totalVotes": 48770,
+      "voteEach": 1318
+    }
+  },
+  {
+    "candidate": 2580,
+    "fullName": "MARIA AUXILIADORA SEABRA REZENDE",
+    "urnaName": "PROFESSORA DORINHA",
+    "party": "DEM",
+    "state": "TO",
+    "impeachment": true,
+    "votes": 41802,
+    "pct": 5.7,
+    "individual": false,
+    "quoc": 0.46,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PTB",
+        "PSL",
+        "PSC",
+        "PR",
+        "PPS",
+        "DEM",
+        "PRTB",
+        "PHS",
+        "PTC",
+        "PSB",
+        "PRP",
+        "PSDB",
+        "PEN",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "TO",
+          "votes": 949,
+          "pct": 0.2699,
+          "auxVotes": 256
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "TIAGO ANDRINO",
+          "party": "PP",
+          "state": "TO",
+          "votes": 36397,
+          "pct": 0.2097,
+          "auxVotes": 7631,
+          "canVotes": 9824
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "TO",
+          "votes": 3360,
+          "pct": 0.2699,
+          "auxVotes": 907
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "TO",
+          "votes": 2400,
+          "pct": 0.2699,
+          "auxVotes": 648
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "TO",
+          "votes": 1471,
+          "pct": 0.2699,
+          "auxVotes": 397
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "JOSE GERALDO",
+          "party": "PTB",
+          "state": "TO",
+          "votes": 411,
+          "pct": 0.2699,
+          "auxVotes": 111
+        },
+        {
+          "candidate": 1720,
+          "urnaName": "CB. IRMAO ELMIR",
+          "party": "PSL",
+          "state": "TO",
+          "votes": 1786,
+          "pct": 0.2699,
+          "auxVotes": 482
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "TO",
+          "votes": 628,
+          "pct": 0.2699,
+          "auxVotes": 169
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "PASTOR JOAO CAMPOS",
+          "party": "PSC",
+          "state": "TO",
+          "votes": 29663,
+          "pct": 0.2573,
+          "auxVotes": 7631,
+          "canVotes": 8006
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "TO",
+          "votes": 685,
+          "pct": 0.2699,
+          "auxVotes": 185
+        },
+        {
+          "candidate": 2255,
+          "urnaName": "MARCUS MARCELO",
+          "party": "PR",
+          "state": "TO",
+          "votes": 25535,
+          "pct": 0.1803,
+          "auxVotes": 6892
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "BETO LIMA",
+          "party": "PR",
+          "state": "TO",
+          "votes": 7638,
+          "pct": 0.1766,
+          "auxVotes": 2061
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "TO",
+          "votes": 2511,
+          "pct": 0.2699,
+          "auxVotes": 678
+        },
+        {
+          "candidate": 2212,
+          "urnaName": "JOENICE",
+          "party": "PR",
+          "state": "TO",
+          "votes": 180,
+          "pct": 0.2699,
+          "auxVotes": 49
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "TO",
+          "votes": 947,
+          "pct": 0.2699,
+          "auxVotes": 256
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "MAX FLEURY",
+          "party": "PPS",
+          "state": "TO",
+          "votes": 613,
+          "pct": 0.2699,
+          "auxVotes": 165
+        },
+        {
+          "candidate": 2525,
+          "urnaName": "JOAO OLIVEIRA",
+          "party": "DEM",
+          "state": "TO",
+          "votes": 37323,
+          "pct": 0.2045,
+          "auxVotes": 7631,
+          "canVotes": 10073
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "TO",
+          "votes": 2333,
+          "pct": 0.2699,
+          "auxVotes": 630
+        },
+        {
+          "candidate": 2828,
+          "urnaName": "JOAO RIBEIRO JR",
+          "party": "PRTB",
+          "state": "TO",
+          "votes": 806,
+          "pct": 0.2699,
+          "auxVotes": 218
+        },
+        {
+          "candidate": 28,
+          "party": "PRTB",
+          "state": "TO",
+          "votes": 355,
+          "pct": 0.2699,
+          "auxVotes": 96
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MARABA",
+          "party": "PHS",
+          "state": "TO",
+          "votes": 7576,
+          "pct": 0.1781,
+          "auxVotes": 2045
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "TO",
+          "votes": 456,
+          "pct": 0.2699,
+          "auxVotes": 123
+        },
+        {
+          "candidate": 3111,
+          "urnaName": "ERIKA AVILA",
+          "party": "PHS",
+          "state": "TO",
+          "votes": 430,
+          "pct": 0.2699,
+          "auxVotes": 116
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "TO",
+          "votes": 226,
+          "pct": 0.2699,
+          "auxVotes": 61
+        },
+        {
+          "candidate": 4099,
+          "urnaName": "RAFAEL BOFF",
+          "party": "PSB",
+          "state": "TO",
+          "votes": 6391,
+          "pct": 0.2111,
+          "auxVotes": 1725
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "TO",
+          "votes": 2120,
+          "pct": 0.2699,
+          "auxVotes": 572
+        },
+        {
+          "candidate": 4055,
+          "urnaName": "ACILENE PEREIRA",
+          "party": "PSB",
+          "state": "TO",
+          "votes": 192,
+          "pct": 0.2699,
+          "auxVotes": 52
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "TO",
+          "votes": 911,
+          "pct": 0.2699,
+          "auxVotes": 246
+        },
+        {
+          "candidate": 4477,
+          "urnaName": "DR. CHARLLES PITA",
+          "party": "PRP",
+          "state": "TO",
+          "votes": 589,
+          "pct": 0.2699,
+          "auxVotes": 159
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "TO",
+          "votes": 4369,
+          "pct": 0.2699,
+          "auxVotes": 1179
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "TO",
+          "votes": 620,
+          "pct": 0.2699,
+          "auxVotes": 167
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "TO",
+          "votes": 10861,
+          "pct": 0.1242,
+          "auxVotes": 2931
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "WALTER JUNIOR",
+          "party": "SD",
+          "state": "TO",
+          "votes": 10685,
+          "pct": 0.1263,
+          "auxVotes": 2884
+        },
+        {
+          "candidate": 7789,
+          "urnaName": "LEILA SOARES",
+          "party": "SD",
+          "state": "TO",
+          "votes": 845,
+          "pct": 0.2699,
+          "auxVotes": 228
+        },
+        {
+          "candidate": 7723,
+          "urnaName": "LUANA CARVALHO",
+          "party": "SD",
+          "state": "TO",
+          "votes": 599,
+          "pct": 0.2699,
+          "auxVotes": 162
+        },
+        {
+          "candidate": 7775,
+          "urnaName": "ROSANGELA BATISTA",
+          "party": "SD",
+          "state": "TO",
+          "votes": 325,
+          "pct": 0.2699,
+          "auxVotes": 88
+        },
+        {
+          "candidate": 7788,
+          "urnaName": "MARCIA REGINA",
+          "party": "SD",
+          "state": "TO",
+          "votes": 267,
+          "pct": 0.2699,
+          "auxVotes": 72
+        }
+      ],
+      "needVotes": 49903,
+      "pctVotes": 0.2699,
+      "realNeedVotes": 49903,
+      "realPctVotes": 0.2699,
+      "totalVotes": 49903,
+      "voteEach": 1349
+    }
+  }
+]

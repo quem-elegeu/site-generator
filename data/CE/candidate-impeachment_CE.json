@@ -1,0 +1,7383 @@
+[
+  {
+    "candidate": 2525,
+    "fullName": "MORONI BING TORGAN",
+    "urnaName": "MORONI",
+    "party": "DEM",
+    "state": "CE",
+    "impeachment": true,
+    "votes": 277774,
+    "pct": 6.36,
+    "individual": true,
+    "quoc": 1.4,
+    "status": {
+      "individual": "winner",
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "DEM",
+        "PPS",
+        "PSDC",
+        "PTN"
+      ],
+      "others": []
+    }
+  },
+  {
+    "candidate": 7777,
+    "fullName": "GENECIAS MATEUS NORONHA",
+    "urnaName": "GENECIAS NORONHA",
+    "party": "SD",
+    "state": "CE",
+    "impeachment": true,
+    "votes": 221567,
+    "pct": 5.07,
+    "individual": true,
+    "quoc": 1.12,
+    "status": {
+      "individual": "winner",
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": []
+    }
+  },
+  {
+    "candidate": 1322,
+    "fullName": "JOSE NOBRE GUIMARÃES",
+    "urnaName": "JOSE GUIMARAES",
+    "party": "PT",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 209032,
+    "pct": 4.78,
+    "individual": true,
+    "quoc": 1.05,
+    "status": {
+      "individual": "winner",
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": []
+    }
+  },
+  {
+    "candidate": 9090,
+    "fullName": "DOMINGOS GOMES DE AGUIAR NETO",
+    "urnaName": "DOMINGOS NETO",
+    "party": "PROS",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 185226,
+    "pct": 4.24,
+    "individual": false,
+    "quoc": 0.93,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.0119,
+          "auxVotes": 107
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.0119,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.0119,
+          "auxVotes": 12
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0047,
+          "auxVotes": 564
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0061,
+          "auxVotes": 442
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.0119,
+          "auxVotes": 103
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.0119,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.0119,
+          "auxVotes": 0
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.0119,
+          "auxVotes": 0
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.0101,
+          "auxVotes": 1492
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.011,
+          "auxVotes": 243
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.0119,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.0119,
+          "auxVotes": 124
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0082,
+          "auxVotes": 834
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0063,
+          "auxVotes": 428
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.0119,
+          "auxVotes": 221
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.0119,
+          "auxVotes": 187
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.0119,
+          "auxVotes": 81
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.0119,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.0119,
+          "auxVotes": 4
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.0119,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.0119,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0062,
+          "auxVotes": 434
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.0119,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.0119,
+          "auxVotes": 9
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.0119,
+          "auxVotes": 58
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.0119,
+          "auxVotes": 0
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0105,
+          "auxVotes": 255
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.0119,
+          "auxVotes": 54
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.0119,
+          "auxVotes": 12
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0103,
+          "auxVotes": 659
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.0119,
+          "auxVotes": 67
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.0119,
+          "auxVotes": 7
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0098,
+          "auxVotes": 273
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.0119,
+          "auxVotes": 70
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.0119,
+          "auxVotes": 14
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.0115,
+          "auxVotes": 1043
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0048,
+          "auxVotes": 563
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0048,
+          "auxVotes": 555
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.0113,
+          "auxVotes": 236
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.0119,
+          "auxVotes": 50
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.0119,
+          "auxVotes": 17
+        }
+      ],
+      "needVotes": 13391,
+      "pctVotes": 0.0168,
+      "realNeedVotes": 9466,
+      "realPctVotes": 0.0119,
+      "totalVotes": 9461,
+      "voteEach": 225
+    }
+  },
+  {
+    "candidate": 1513,
+    "fullName": "FRANCISCO DANILO BASTOS FORTE",
+    "urnaName": "DANILO FORTE",
+    "party": "PMDB",
+    "state": "CE",
+    "impeachment": true,
+    "votes": 180157,
+    "pct": 4.12,
+    "individual": false,
+    "quoc": 0.91,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 2,
+      "parties": [
+        "PMDB",
+        "PSC",
+        "PR",
+        "PRP",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1555,
+          "urnaName": "MAURO BENEVIDES",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 60201,
+          "pct": 0.0351,
+          "auxVotes": 2787
+        },
+        {
+          "candidate": 1530,
+          "urnaName": "MARIO FEITOZA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 56162,
+          "pct": 0.0377,
+          "auxVotes": 2600
+        },
+        {
+          "candidate": 1577,
+          "urnaName": "DR. JAZIEL",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 53561,
+          "pct": 0.0395,
+          "auxVotes": 2480
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 33237,
+          "pct": 0.0139,
+          "auxVotes": 1539
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "DADINHA ROBERTO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 3805,
+          "pct": 0.0463,
+          "auxVotes": 176
+        },
+        {
+          "candidate": 1599,
+          "urnaName": "ZE GERARDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 1117,
+          "pct": 0.0463,
+          "auxVotes": 52
+        },
+        {
+          "candidate": 1522,
+          "urnaName": "MAURO MACEDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 389,
+          "pct": 0.0463,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 1510,
+          "urnaName": "CARLONE",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 288,
+          "pct": 0.0463,
+          "auxVotes": 13
+        },
+        {
+          "candidate": 1509,
+          "urnaName": "VALSELENA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 118,
+          "pct": 0.0463,
+          "auxVotes": 5
+        },
+        {
+          "candidate": 1529,
+          "urnaName": "SUELY NOGUEIRA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 27,
+          "pct": 0.0463,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "CE",
+          "votes": 4070,
+          "pct": 0.0463,
+          "auxVotes": 188
+        },
+        {
+          "candidate": 2000,
+          "urnaName": "MAGNO LIMA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2839,
+          "pct": 0.0463,
+          "auxVotes": 131
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "MARCELO THELA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2250,
+          "pct": 0.0463,
+          "auxVotes": 104
+        },
+        {
+          "candidate": 2080,
+          "urnaName": "SANDRO SILVA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 718,
+          "pct": 0.0463,
+          "auxVotes": 33
+        },
+        {
+          "candidate": 2057,
+          "urnaName": "TERESINHA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 595,
+          "pct": 0.0463,
+          "auxVotes": 28
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "JESSICA FREITAS",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 585,
+          "pct": 0.0463,
+          "auxVotes": 27
+        },
+        {
+          "candidate": 2019,
+          "urnaName": "HERLANO SABOIA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 485,
+          "pct": 0.0463,
+          "auxVotes": 22
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "CE",
+          "votes": 19794,
+          "pct": 0.0233,
+          "auxVotes": 916
+        },
+        {
+          "candidate": 2226,
+          "urnaName": "PROF. ENILSON",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2422,
+          "pct": 0.0463,
+          "auxVotes": 112
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "JORGE RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2189,
+          "pct": 0.0463,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 2244,
+          "urnaName": "AGENTE MARCIO BATISTA",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2147,
+          "pct": 0.0463,
+          "auxVotes": 99
+        },
+        {
+          "candidate": 2202,
+          "urnaName": "CHICLETE",
+          "party": "PR",
+          "state": "CE",
+          "votes": 985,
+          "pct": 0.0463,
+          "auxVotes": 46
+        },
+        {
+          "candidate": 2291,
+          "urnaName": "CABO LOBO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 764,
+          "pct": 0.0463,
+          "auxVotes": 35
+        },
+        {
+          "candidate": 2225,
+          "urnaName": "IRMA FATIMA RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 213,
+          "pct": 0.0463,
+          "auxVotes": 10
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "DUTE",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 4754,
+          "pct": 0.0463,
+          "auxVotes": 220
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "CE",
+          "votes": 2985,
+          "pct": 0.0463,
+          "auxVotes": 138
+        },
+        {
+          "candidate": 4478,
+          "urnaName": "MARLIM DO ARATURI",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 501,
+          "pct": 0.0463,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 4412,
+          "urnaName": "SERGIO FERNANDES",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 350,
+          "pct": 0.0463,
+          "auxVotes": 16
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 70964,
+          "pct": 0.0393,
+          "auxVotes": 3286
+        },
+        {
+          "candidate": 4510,
+          "urnaName": "MAYRA PINHEIRO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 25835,
+          "pct": 0.0179,
+          "auxVotes": 1196
+        },
+        {
+          "candidate": 4565,
+          "urnaName": "ELIETE SAMPAIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1598,
+          "pct": 0.0463,
+          "auxVotes": 74
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "VIVIANNE CERQUEIRA",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1265,
+          "pct": 0.0463,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 4599,
+          "urnaName": "ALMINO MENEZES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1095,
+          "pct": 0.0463,
+          "auxVotes": 51
+        },
+        {
+          "candidate": 4512,
+          "urnaName": "BONAPARTE",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 445,
+          "pct": 0.0463,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 4501,
+          "urnaName": "DR. PAULO SERGIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 345,
+          "pct": 0.0463,
+          "auxVotes": 16
+        },
+        {
+          "candidate": 4574,
+          "urnaName": "DARLAN ABRANTES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 295,
+          "pct": 0.0463,
+          "auxVotes": 14
+        }
+      ],
+      "needVotes": 18460,
+      "pctVotes": 0.0514,
+      "realNeedVotes": 16640,
+      "realPctVotes": 0.0463,
+      "totalVotes": 16637,
+      "voteEach": 462
+    }
+  },
+  {
+    "candidate": 1500,
+    "fullName": "ANIBAL FERREIRA GOMES",
+    "urnaName": "ANIBAL",
+    "party": "PMDB",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 173736,
+    "pct": 3.98,
+    "individual": false,
+    "quoc": 0.87,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 2,
+      "parties": [
+        "PMDB",
+        "PSC",
+        "PR",
+        "PRP",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1555,
+          "urnaName": "MAURO BENEVIDES",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 60201,
+          "pct": 0.0474,
+          "auxVotes": 3757
+        },
+        {
+          "candidate": 1530,
+          "urnaName": "MARIO FEITOZA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 56162,
+          "pct": 0.0508,
+          "auxVotes": 3505
+        },
+        {
+          "candidate": 1577,
+          "urnaName": "DR. JAZIEL",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 53561,
+          "pct": 0.0532,
+          "auxVotes": 3342
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 33237,
+          "pct": 0.0187,
+          "auxVotes": 2074
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "DADINHA ROBERTO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 3805,
+          "pct": 0.0624,
+          "auxVotes": 237
+        },
+        {
+          "candidate": 1599,
+          "urnaName": "ZE GERARDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 1117,
+          "pct": 0.0624,
+          "auxVotes": 70
+        },
+        {
+          "candidate": 1522,
+          "urnaName": "MAURO MACEDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 389,
+          "pct": 0.0624,
+          "auxVotes": 24
+        },
+        {
+          "candidate": 1510,
+          "urnaName": "CARLONE",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 288,
+          "pct": 0.0624,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 1509,
+          "urnaName": "VALSELENA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 118,
+          "pct": 0.0624,
+          "auxVotes": 7
+        },
+        {
+          "candidate": 1529,
+          "urnaName": "SUELY NOGUEIRA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 27,
+          "pct": 0.0624,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "CE",
+          "votes": 4070,
+          "pct": 0.0624,
+          "auxVotes": 254
+        },
+        {
+          "candidate": 2000,
+          "urnaName": "MAGNO LIMA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2839,
+          "pct": 0.0624,
+          "auxVotes": 177
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "MARCELO THELA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2250,
+          "pct": 0.0624,
+          "auxVotes": 140
+        },
+        {
+          "candidate": 2080,
+          "urnaName": "SANDRO SILVA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 718,
+          "pct": 0.0624,
+          "auxVotes": 45
+        },
+        {
+          "candidate": 2057,
+          "urnaName": "TERESINHA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 595,
+          "pct": 0.0624,
+          "auxVotes": 37
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "JESSICA FREITAS",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 585,
+          "pct": 0.0624,
+          "auxVotes": 37
+        },
+        {
+          "candidate": 2019,
+          "urnaName": "HERLANO SABOIA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 485,
+          "pct": 0.0624,
+          "auxVotes": 30
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "CE",
+          "votes": 19794,
+          "pct": 0.0315,
+          "auxVotes": 1235
+        },
+        {
+          "candidate": 2226,
+          "urnaName": "PROF. ENILSON",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2422,
+          "pct": 0.0624,
+          "auxVotes": 151
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "JORGE RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2189,
+          "pct": 0.0624,
+          "auxVotes": 137
+        },
+        {
+          "candidate": 2244,
+          "urnaName": "AGENTE MARCIO BATISTA",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2147,
+          "pct": 0.0624,
+          "auxVotes": 134
+        },
+        {
+          "candidate": 2202,
+          "urnaName": "CHICLETE",
+          "party": "PR",
+          "state": "CE",
+          "votes": 985,
+          "pct": 0.0624,
+          "auxVotes": 61
+        },
+        {
+          "candidate": 2291,
+          "urnaName": "CABO LOBO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 764,
+          "pct": 0.0624,
+          "auxVotes": 48
+        },
+        {
+          "candidate": 2225,
+          "urnaName": "IRMA FATIMA RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 213,
+          "pct": 0.0624,
+          "auxVotes": 13
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "DUTE",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 4754,
+          "pct": 0.0624,
+          "auxVotes": 297
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "CE",
+          "votes": 2985,
+          "pct": 0.0624,
+          "auxVotes": 186
+        },
+        {
+          "candidate": 4478,
+          "urnaName": "MARLIM DO ARATURI",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 501,
+          "pct": 0.0624,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 4412,
+          "urnaName": "SERGIO FERNANDES",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 350,
+          "pct": 0.0624,
+          "auxVotes": 22
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 70964,
+          "pct": 0.053,
+          "auxVotes": 4428
+        },
+        {
+          "candidate": 4510,
+          "urnaName": "MAYRA PINHEIRO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 25835,
+          "pct": 0.0241,
+          "auxVotes": 1612
+        },
+        {
+          "candidate": 4565,
+          "urnaName": "ELIETE SAMPAIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1598,
+          "pct": 0.0624,
+          "auxVotes": 100
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "VIVIANNE CERQUEIRA",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1265,
+          "pct": 0.0624,
+          "auxVotes": 79
+        },
+        {
+          "candidate": 4599,
+          "urnaName": "ALMINO MENEZES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1095,
+          "pct": 0.0624,
+          "auxVotes": 68
+        },
+        {
+          "candidate": 4512,
+          "urnaName": "BONAPARTE",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 445,
+          "pct": 0.0624,
+          "auxVotes": 28
+        },
+        {
+          "candidate": 4501,
+          "urnaName": "DR. PAULO SERGIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 345,
+          "pct": 0.0624,
+          "auxVotes": 22
+        },
+        {
+          "candidate": 4574,
+          "urnaName": "DARLAN ABRANTES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 295,
+          "pct": 0.0624,
+          "auxVotes": 18
+        }
+      ],
+      "needVotes": 24881,
+      "pctVotes": 0.0692,
+      "realNeedVotes": 22428,
+      "realPctVotes": 0.0624,
+      "totalVotes": 22426,
+      "voteEach": 623
+    }
+  },
+  {
+    "candidate": 2323,
+    "fullName": "MOSES HAENDEL MELO RODRIGUES",
+    "urnaName": "MOSES RODRIGUES",
+    "party": "PPS",
+    "state": "CE",
+    "impeachment": true,
+    "votes": 147044,
+    "pct": 3.37,
+    "individual": false,
+    "quoc": 0.74,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "DEM",
+        "PPS",
+        "PSDC",
+        "PTN"
+      ],
+      "others": [
+        {
+          "candidate": 2525,
+          "urnaName": "MORONI",
+          "party": "DEM",
+          "state": "CE",
+          "votes": 79157,
+          "pct": 0.0463,
+          "auxVotes": 3667,
+          "canVotes": 79157
+        },
+        {
+          "candidate": 2500,
+          "urnaName": "JOAO ARTHUR PESSOA",
+          "party": "DEM",
+          "state": "CE",
+          "votes": 4935,
+          "pct": 0.7431,
+          "auxVotes": 3667,
+          "canVotes": 4935
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "CE",
+          "votes": 4198,
+          "pct": 0.8733,
+          "auxVotes": 3666,
+          "canVotes": 4198
+        },
+        {
+          "candidate": 2580,
+          "urnaName": "FERNANDES FILHO",
+          "party": "DEM",
+          "state": "CE",
+          "votes": 2482,
+          "pct": 0.7164,
+          "auxVotes": 2482
+        },
+        {
+          "candidate": 2590,
+          "urnaName": "BENJAMIM",
+          "party": "DEM",
+          "state": "CE",
+          "votes": 739,
+          "pct": 1,
+          "auxVotes": 739
+        },
+        {
+          "candidate": 2567,
+          "urnaName": "ANA PAULA",
+          "party": "DEM",
+          "state": "CE",
+          "votes": 107,
+          "pct": 1,
+          "auxVotes": 107
+        },
+        {
+          "candidate": 2587,
+          "urnaName": "SAMARA",
+          "party": "DEM",
+          "state": "CE",
+          "votes": 26,
+          "pct": 1,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "CE",
+          "votes": 5972,
+          "pct": 0.6139,
+          "auxVotes": 3666,
+          "canVotes": 5972
+        },
+        {
+          "candidate": 2300,
+          "urnaName": "NEIDE PIANCO",
+          "party": "PPS",
+          "state": "CE",
+          "votes": 3547,
+          "pct": 0.9047,
+          "auxVotes": 3547
+        },
+        {
+          "candidate": 2345,
+          "urnaName": "MAJOR EVANDRO",
+          "party": "PPS",
+          "state": "CE",
+          "votes": 1956,
+          "pct": 0.909,
+          "auxVotes": 1956
+        },
+        {
+          "candidate": 2399,
+          "urnaName": "RAYLLANE OLIVEIRA",
+          "party": "PPS",
+          "state": "CE",
+          "votes": 579,
+          "pct": 1,
+          "auxVotes": 579
+        },
+        {
+          "candidate": 2722,
+          "urnaName": "VAIDON OLIVEIRA",
+          "party": "PSDC",
+          "state": "CE",
+          "votes": 9445,
+          "pct": 0.3881,
+          "auxVotes": 3666,
+          "canVotes": 9445
+        },
+        {
+          "candidate": 2700,
+          "urnaName": "CAPITAO AMILTON",
+          "party": "PSDC",
+          "state": "CE",
+          "votes": 3342,
+          "pct": 0.9602,
+          "auxVotes": 3342
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "CE",
+          "votes": 2608,
+          "pct": 0.6817,
+          "auxVotes": 2608
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "CAPITAO ABRAAO",
+          "party": "PSDC",
+          "state": "CE",
+          "votes": 1527,
+          "pct": 1,
+          "auxVotes": 1527
+        },
+        {
+          "candidate": 2711,
+          "urnaName": "BIDONGA",
+          "party": "PSDC",
+          "state": "CE",
+          "votes": 268,
+          "pct": 1,
+          "auxVotes": 268
+        },
+        {
+          "candidate": 1978,
+          "urnaName": "RIBAMAR DO HOSPITAL",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 8601,
+          "pct": 0.4262,
+          "auxVotes": 3666,
+          "canVotes": 8601
+        },
+        {
+          "candidate": 1989,
+          "urnaName": "DR AMERICO",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 6327,
+          "pct": 0.5794,
+          "auxVotes": 3666,
+          "canVotes": 6327
+        },
+        {
+          "candidate": 1914,
+          "urnaName": "IBERNON MONTEIRO",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 2927,
+          "pct": 0.6074,
+          "auxVotes": 2927
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "CE",
+          "votes": 2396,
+          "pct": 0.7421,
+          "auxVotes": 2396
+        },
+        {
+          "candidate": 1961,
+          "urnaName": "CRISTINA POETA",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 739,
+          "pct": 1,
+          "auxVotes": 739
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "CELIO GOMES",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 728,
+          "pct": 1,
+          "auxVotes": 728
+        },
+        {
+          "candidate": 1965,
+          "urnaName": "LUIS LEAO",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 653,
+          "pct": 1,
+          "auxVotes": 653
+        },
+        {
+          "candidate": 1969,
+          "urnaName": "JORNALISTA GILVAN LUIZ",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 382,
+          "pct": 1,
+          "auxVotes": 382
+        },
+        {
+          "candidate": 1902,
+          "urnaName": "MEIRE MORAIS",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 336,
+          "pct": 1,
+          "auxVotes": 336
+        },
+        {
+          "candidate": 1998,
+          "urnaName": "NETE",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 310,
+          "pct": 1,
+          "auxVotes": 310
+        },
+        {
+          "candidate": 1901,
+          "urnaName": "MAJOR DULCILDO",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 131,
+          "pct": 1,
+          "auxVotes": 131
+        },
+        {
+          "candidate": 1991,
+          "urnaName": "CRISTINA GOMES",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 111,
+          "pct": 1,
+          "auxVotes": 111
+        },
+        {
+          "candidate": 1944,
+          "urnaName": "ELISANGELA PICANCO",
+          "party": "PTN",
+          "state": "CE",
+          "votes": 15,
+          "pct": 1,
+          "auxVotes": 15
+        }
+      ],
+      "needVotes": 51573,
+      "pctVotes": 1,
+      "realNeedVotes": 51573,
+      "realPctVotes": 1,
+      "totalVotes": 51573,
+      "voteEach": 1778
+    }
+  },
+  {
+    "candidate": 2233,
+    "fullName": "MARIA GORETE PEREIRA",
+    "urnaName": "GORETE PEREIRA",
+    "party": "PR",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 130983,
+    "pct": 3,
+    "individual": false,
+    "quoc": 0.66,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 2,
+      "parties": [
+        "PMDB",
+        "PSC",
+        "PR",
+        "PRP",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1555,
+          "urnaName": "MAURO BENEVIDES",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 60201,
+          "pct": 0.1287,
+          "auxVotes": 10210
+        },
+        {
+          "candidate": 1530,
+          "urnaName": "MARIO FEITOZA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 56162,
+          "pct": 0.138,
+          "auxVotes": 9525
+        },
+        {
+          "candidate": 1577,
+          "urnaName": "DR. JAZIEL",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 53561,
+          "pct": 0.1447,
+          "auxVotes": 9084
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 33237,
+          "pct": 0.051,
+          "auxVotes": 5637
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "DADINHA ROBERTO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 3805,
+          "pct": 0.1696,
+          "auxVotes": 645
+        },
+        {
+          "candidate": 1599,
+          "urnaName": "ZE GERARDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 1117,
+          "pct": 0.1696,
+          "auxVotes": 189
+        },
+        {
+          "candidate": 1522,
+          "urnaName": "MAURO MACEDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 389,
+          "pct": 0.1696,
+          "auxVotes": 66
+        },
+        {
+          "candidate": 1510,
+          "urnaName": "CARLONE",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 288,
+          "pct": 0.1696,
+          "auxVotes": 49
+        },
+        {
+          "candidate": 1509,
+          "urnaName": "VALSELENA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 118,
+          "pct": 0.1696,
+          "auxVotes": 20
+        },
+        {
+          "candidate": 1529,
+          "urnaName": "SUELY NOGUEIRA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 27,
+          "pct": 0.1696,
+          "auxVotes": 5
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "CE",
+          "votes": 4070,
+          "pct": 0.1696,
+          "auxVotes": 690
+        },
+        {
+          "candidate": 2000,
+          "urnaName": "MAGNO LIMA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2839,
+          "pct": 0.1696,
+          "auxVotes": 481
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "MARCELO THELA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2250,
+          "pct": 0.1696,
+          "auxVotes": 382
+        },
+        {
+          "candidate": 2080,
+          "urnaName": "SANDRO SILVA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 718,
+          "pct": 0.1696,
+          "auxVotes": 122
+        },
+        {
+          "candidate": 2057,
+          "urnaName": "TERESINHA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 595,
+          "pct": 0.1696,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "JESSICA FREITAS",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 585,
+          "pct": 0.1696,
+          "auxVotes": 99
+        },
+        {
+          "candidate": 2019,
+          "urnaName": "HERLANO SABOIA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 485,
+          "pct": 0.1696,
+          "auxVotes": 82
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "CE",
+          "votes": 19794,
+          "pct": 0.0856,
+          "auxVotes": 3357
+        },
+        {
+          "candidate": 2226,
+          "urnaName": "PROF. ENILSON",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2422,
+          "pct": 0.1696,
+          "auxVotes": 411
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "JORGE RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2189,
+          "pct": 0.1696,
+          "auxVotes": 371
+        },
+        {
+          "candidate": 2244,
+          "urnaName": "AGENTE MARCIO BATISTA",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2147,
+          "pct": 0.1696,
+          "auxVotes": 364
+        },
+        {
+          "candidate": 2202,
+          "urnaName": "CHICLETE",
+          "party": "PR",
+          "state": "CE",
+          "votes": 985,
+          "pct": 0.1696,
+          "auxVotes": 167
+        },
+        {
+          "candidate": 2291,
+          "urnaName": "CABO LOBO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 764,
+          "pct": 0.1696,
+          "auxVotes": 130
+        },
+        {
+          "candidate": 2225,
+          "urnaName": "IRMA FATIMA RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 213,
+          "pct": 0.1696,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "DUTE",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 4754,
+          "pct": 0.1696,
+          "auxVotes": 806
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "CE",
+          "votes": 2985,
+          "pct": 0.1696,
+          "auxVotes": 506
+        },
+        {
+          "candidate": 4478,
+          "urnaName": "MARLIM DO ARATURI",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 501,
+          "pct": 0.1696,
+          "auxVotes": 85
+        },
+        {
+          "candidate": 4412,
+          "urnaName": "SERGIO FERNANDES",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 350,
+          "pct": 0.1696,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 70964,
+          "pct": 0.144,
+          "auxVotes": 12035
+        },
+        {
+          "candidate": 4510,
+          "urnaName": "MAYRA PINHEIRO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 25835,
+          "pct": 0.0656,
+          "auxVotes": 4382
+        },
+        {
+          "candidate": 4565,
+          "urnaName": "ELIETE SAMPAIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1598,
+          "pct": 0.1696,
+          "auxVotes": 271
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "VIVIANNE CERQUEIRA",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1265,
+          "pct": 0.1696,
+          "auxVotes": 215
+        },
+        {
+          "candidate": 4599,
+          "urnaName": "ALMINO MENEZES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1095,
+          "pct": 0.1696,
+          "auxVotes": 186
+        },
+        {
+          "candidate": 4512,
+          "urnaName": "BONAPARTE",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 445,
+          "pct": 0.1696,
+          "auxVotes": 75
+        },
+        {
+          "candidate": 4501,
+          "urnaName": "DR. PAULO SERGIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 345,
+          "pct": 0.1696,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 4574,
+          "urnaName": "DARLAN ABRANTES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 295,
+          "pct": 0.1696,
+          "auxVotes": 50
+        }
+      ],
+      "needVotes": 67634,
+      "pctVotes": 0.1882,
+      "realNeedVotes": 60967,
+      "realPctVotes": 0.1696,
+      "totalVotes": 60952,
+      "voteEach": 1694
+    }
+  },
+  {
+    "candidate": 1313,
+    "fullName": "LUIZIANNE DE OLIVEIRA LINS",
+    "urnaName": "LUIZIANNE LINS",
+    "party": "PT",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 130717,
+    "pct": 2.99,
+    "individual": false,
+    "quoc": 0.66,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.0604,
+          "auxVotes": 541
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.0604,
+          "auxVotes": 89
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.0604,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0241,
+          "auxVotes": 2862
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0308,
+          "auxVotes": 2241
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.0604,
+          "auxVotes": 521
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.0604,
+          "auxVotes": 511
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.0604,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.0604,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.0602,
+          "auxVotes": 7551,
+          "canVotes": 7572
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.056,
+          "auxVotes": 1233
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.0604,
+          "auxVotes": 95
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.0604,
+          "auxVotes": 629
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0415,
+          "auxVotes": 4233
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0318,
+          "auxVotes": 2172
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.0604,
+          "auxVotes": 1120
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.0604,
+          "auxVotes": 947
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.0604,
+          "auxVotes": 409
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.0604,
+          "auxVotes": 43
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.0604,
+          "auxVotes": 22
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.0604,
+          "auxVotes": 301
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.0604,
+          "auxVotes": 12
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0313,
+          "auxVotes": 2204
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.0604,
+          "auxVotes": 181
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.0604,
+          "auxVotes": 47
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.0604,
+          "auxVotes": 294
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.0604,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0534,
+          "auxVotes": 1294
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.0604,
+          "auxVotes": 276
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.0604,
+          "auxVotes": 60
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0525,
+          "auxVotes": 3346
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.0604,
+          "auxVotes": 342
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.0604,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0498,
+          "auxVotes": 1386
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.0604,
+          "auxVotes": 358
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.0604,
+          "auxVotes": 71
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.0582,
+          "auxVotes": 5295
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0242,
+          "auxVotes": 2858
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0245,
+          "auxVotes": 2818
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.0576,
+          "auxVotes": 1198
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.0604,
+          "auxVotes": 256
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.0604,
+          "auxVotes": 84
+        }
+      ],
+      "needVotes": 67900,
+      "pctVotes": 0.0854,
+      "realNeedVotes": 47999,
+      "realPctVotes": 0.0604,
+      "totalVotes": 47999,
+      "voteEach": 1143
+    }
+  },
+  {
+    "candidate": 1331,
+    "fullName": "LUIZ ODORICO MONTEIRO DE ANDRADE",
+    "urnaName": "ODORICO",
+    "party": "PT",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 121640,
+    "pct": 2.78,
+    "individual": false,
+    "quoc": 0.61,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.0684,
+          "auxVotes": 613
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.0684,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.0684,
+          "auxVotes": 67
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0274,
+          "auxVotes": 3241
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0349,
+          "auxVotes": 2538
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.0684,
+          "auxVotes": 591
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.0684,
+          "auxVotes": 578
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.0684,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.0684,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.0583,
+          "auxVotes": 8575
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.0635,
+          "auxVotes": 1396
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.0684,
+          "auxVotes": 107
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.0684,
+          "auxVotes": 712
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.047,
+          "auxVotes": 4793
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.036,
+          "auxVotes": 2459
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.0684,
+          "auxVotes": 1268
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.0684,
+          "auxVotes": 1072
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.0684,
+          "auxVotes": 463
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.0684,
+          "auxVotes": 49
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.0684,
+          "auxVotes": 25
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.0684,
+          "auxVotes": 341
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.0684,
+          "auxVotes": 14
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0355,
+          "auxVotes": 2496
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.0684,
+          "auxVotes": 205
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.0684,
+          "auxVotes": 53
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.0684,
+          "auxVotes": 333
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.0684,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0605,
+          "auxVotes": 1465
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.0684,
+          "auxVotes": 313
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.0684,
+          "auxVotes": 67
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0595,
+          "auxVotes": 3790
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.0684,
+          "auxVotes": 387
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.0684,
+          "auxVotes": 41
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0565,
+          "auxVotes": 1570
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.0684,
+          "auxVotes": 405
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.0684,
+          "auxVotes": 80
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.0661,
+          "auxVotes": 5996
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0274,
+          "auxVotes": 3237
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0278,
+          "auxVotes": 3191
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.0653,
+          "auxVotes": 1357
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.0684,
+          "auxVotes": 290
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.0684,
+          "auxVotes": 95
+        }
+      ],
+      "needVotes": 76977,
+      "pctVotes": 0.0968,
+      "realNeedVotes": 54415,
+      "realPctVotes": 0.0684,
+      "totalVotes": 54379,
+      "voteEach": 1296
+    }
+  },
+  {
+    "candidate": 2290,
+    "fullName": "FLAVIO ALVES SABINO",
+    "urnaName": "CABO SABINO",
+    "party": "PR",
+    "state": "CE",
+    "impeachment": true,
+    "votes": 120485,
+    "pct": 2.76,
+    "individual": false,
+    "quoc": 0.61,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 2,
+      "parties": [
+        "PMDB",
+        "PSC",
+        "PR",
+        "PRP",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1555,
+          "urnaName": "MAURO BENEVIDES",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 60201,
+          "pct": 0.1487,
+          "auxVotes": 11799
+        },
+        {
+          "candidate": 1530,
+          "urnaName": "MARIO FEITOZA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 56162,
+          "pct": 0.1594,
+          "auxVotes": 11008
+        },
+        {
+          "candidate": 1577,
+          "urnaName": "DR. JAZIEL",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 53561,
+          "pct": 0.1671,
+          "auxVotes": 10498
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 33237,
+          "pct": 0.0589,
+          "auxVotes": 6514
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "DADINHA ROBERTO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 3805,
+          "pct": 0.196,
+          "auxVotes": 746
+        },
+        {
+          "candidate": 1599,
+          "urnaName": "ZE GERARDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 1117,
+          "pct": 0.196,
+          "auxVotes": 219
+        },
+        {
+          "candidate": 1522,
+          "urnaName": "MAURO MACEDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 389,
+          "pct": 0.196,
+          "auxVotes": 76
+        },
+        {
+          "candidate": 1510,
+          "urnaName": "CARLONE",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 288,
+          "pct": 0.196,
+          "auxVotes": 56
+        },
+        {
+          "candidate": 1509,
+          "urnaName": "VALSELENA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 118,
+          "pct": 0.196,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 1529,
+          "urnaName": "SUELY NOGUEIRA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 27,
+          "pct": 0.196,
+          "auxVotes": 5
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "CE",
+          "votes": 4070,
+          "pct": 0.196,
+          "auxVotes": 798
+        },
+        {
+          "candidate": 2000,
+          "urnaName": "MAGNO LIMA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2839,
+          "pct": 0.196,
+          "auxVotes": 556
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "MARCELO THELA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2250,
+          "pct": 0.196,
+          "auxVotes": 441
+        },
+        {
+          "candidate": 2080,
+          "urnaName": "SANDRO SILVA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 718,
+          "pct": 0.196,
+          "auxVotes": 141
+        },
+        {
+          "candidate": 2057,
+          "urnaName": "TERESINHA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 595,
+          "pct": 0.196,
+          "auxVotes": 117
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "JESSICA FREITAS",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 585,
+          "pct": 0.196,
+          "auxVotes": 115
+        },
+        {
+          "candidate": 2019,
+          "urnaName": "HERLANO SABOIA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 485,
+          "pct": 0.196,
+          "auxVotes": 95
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "CE",
+          "votes": 19794,
+          "pct": 0.0988,
+          "auxVotes": 3880
+        },
+        {
+          "candidate": 2226,
+          "urnaName": "PROF. ENILSON",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2422,
+          "pct": 0.196,
+          "auxVotes": 475
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "JORGE RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2189,
+          "pct": 0.196,
+          "auxVotes": 429
+        },
+        {
+          "candidate": 2244,
+          "urnaName": "AGENTE MARCIO BATISTA",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2147,
+          "pct": 0.196,
+          "auxVotes": 421
+        },
+        {
+          "candidate": 2202,
+          "urnaName": "CHICLETE",
+          "party": "PR",
+          "state": "CE",
+          "votes": 985,
+          "pct": 0.196,
+          "auxVotes": 193
+        },
+        {
+          "candidate": 2291,
+          "urnaName": "CABO LOBO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 764,
+          "pct": 0.196,
+          "auxVotes": 150
+        },
+        {
+          "candidate": 2225,
+          "urnaName": "IRMA FATIMA RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 213,
+          "pct": 0.196,
+          "auxVotes": 42
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "DUTE",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 4754,
+          "pct": 0.196,
+          "auxVotes": 932
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "CE",
+          "votes": 2985,
+          "pct": 0.196,
+          "auxVotes": 585
+        },
+        {
+          "candidate": 4478,
+          "urnaName": "MARLIM DO ARATURI",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 501,
+          "pct": 0.196,
+          "auxVotes": 98
+        },
+        {
+          "candidate": 4412,
+          "urnaName": "SERGIO FERNANDES",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 350,
+          "pct": 0.196,
+          "auxVotes": 69
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 70964,
+          "pct": 0.1958,
+          "auxVotes": 13896,
+          "canVotes": 13909
+        },
+        {
+          "candidate": 4510,
+          "urnaName": "MAYRA PINHEIRO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 25835,
+          "pct": 0.0757,
+          "auxVotes": 5064
+        },
+        {
+          "candidate": 4565,
+          "urnaName": "ELIETE SAMPAIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1598,
+          "pct": 0.196,
+          "auxVotes": 313
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "VIVIANNE CERQUEIRA",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1265,
+          "pct": 0.196,
+          "auxVotes": 248
+        },
+        {
+          "candidate": 4599,
+          "urnaName": "ALMINO MENEZES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1095,
+          "pct": 0.196,
+          "auxVotes": 215
+        },
+        {
+          "candidate": 4512,
+          "urnaName": "BONAPARTE",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 445,
+          "pct": 0.196,
+          "auxVotes": 87
+        },
+        {
+          "candidate": 4501,
+          "urnaName": "DR. PAULO SERGIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 345,
+          "pct": 0.196,
+          "auxVotes": 68
+        },
+        {
+          "candidate": 4574,
+          "urnaName": "DARLAN ABRANTES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 295,
+          "pct": 0.196,
+          "auxVotes": 58
+        }
+      ],
+      "needVotes": 78132,
+      "pctVotes": 0.2174,
+      "realNeedVotes": 70430,
+      "realPctVotes": 0.196,
+      "totalVotes": 70430,
+      "voteEach": 1956
+    }
+  },
+  {
+    "candidate": 1010,
+    "fullName": "RONALDO MANCHADO MARTINS",
+    "urnaName": "RONALDO MARTINS",
+    "party": "PRB",
+    "state": "CE",
+    "impeachment": true,
+    "votes": 117930,
+    "pct": 2.7,
+    "individual": false,
+    "quoc": 0.59,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.0718,
+          "auxVotes": 643
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.0718,
+          "auxVotes": 106
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.0718,
+          "auxVotes": 70
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0287,
+          "auxVotes": 3402
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0366,
+          "auxVotes": 2664
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.0718,
+          "auxVotes": 620
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.0718,
+          "auxVotes": 607
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.0718,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.0718,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.0715,
+          "auxVotes": 8957,
+          "canVotes": 9001
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.0665,
+          "auxVotes": 1466
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.0718,
+          "auxVotes": 113
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.0718,
+          "auxVotes": 748
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0493,
+          "auxVotes": 5032
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0378,
+          "auxVotes": 2581
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.0718,
+          "auxVotes": 1331
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.0718,
+          "auxVotes": 1126
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.0718,
+          "auxVotes": 486
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.0718,
+          "auxVotes": 51
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.0718,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.0718,
+          "auxVotes": 357
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.0718,
+          "auxVotes": 15
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0372,
+          "auxVotes": 2620
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.0718,
+          "auxVotes": 216
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.0718,
+          "auxVotes": 56
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.0718,
+          "auxVotes": 350
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.0718,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0634,
+          "auxVotes": 1538
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.0718,
+          "auxVotes": 328
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.0718,
+          "auxVotes": 71
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0623,
+          "auxVotes": 3978
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.0718,
+          "auxVotes": 407
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.0718,
+          "auxVotes": 43
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0592,
+          "auxVotes": 1648
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.0718,
+          "auxVotes": 425
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.0718,
+          "auxVotes": 84
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.0692,
+          "auxVotes": 6294
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0287,
+          "auxVotes": 3397
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0291,
+          "auxVotes": 3349
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.0685,
+          "auxVotes": 1424
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.0718,
+          "auxVotes": 304
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.0718,
+          "auxVotes": 100
+        }
+      ],
+      "needVotes": 80687,
+      "pctVotes": 0.1015,
+      "realNeedVotes": 57038,
+      "realPctVotes": 0.0718,
+      "totalVotes": 57038,
+      "voteEach": 1358
+    }
+  },
+  {
+    "candidate": 3131,
+    "fullName": "JOSE ADAIL CARNEIRO SILVA",
+    "urnaName": "ADAIL CARNEIRO",
+    "party": "PHS",
+    "state": "CE",
+    "impeachment": true,
+    "votes": 113885,
+    "pct": 2.61,
+    "individual": false,
+    "quoc": 0.57,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.0754,
+          "auxVotes": 675
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.0754,
+          "auxVotes": 111
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.0754,
+          "auxVotes": 74
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0301,
+          "auxVotes": 3572
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0384,
+          "auxVotes": 2798
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.0754,
+          "auxVotes": 651
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.0754,
+          "auxVotes": 637
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.0754,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.0754,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.075,
+          "auxVotes": 9407,
+          "canVotes": 9452
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.0699,
+          "auxVotes": 1539
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.0754,
+          "auxVotes": 118
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.0754,
+          "auxVotes": 785
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0518,
+          "auxVotes": 5284
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0397,
+          "auxVotes": 2711
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.0754,
+          "auxVotes": 1398
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.0754,
+          "auxVotes": 1182
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.0754,
+          "auxVotes": 511
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.0754,
+          "auxVotes": 54
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.0754,
+          "auxVotes": 27
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.0754,
+          "auxVotes": 375
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.0754,
+          "auxVotes": 15
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0391,
+          "auxVotes": 2751
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.0754,
+          "auxVotes": 227
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.0754,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.0754,
+          "auxVotes": 367
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.0754,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0666,
+          "auxVotes": 1615
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.0754,
+          "auxVotes": 345
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.0754,
+          "auxVotes": 74
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0655,
+          "auxVotes": 4177
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.0754,
+          "auxVotes": 427
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.0754,
+          "auxVotes": 45
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0621,
+          "auxVotes": 1730
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.0754,
+          "auxVotes": 447
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.0754,
+          "auxVotes": 88
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.0727,
+          "auxVotes": 6610
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0301,
+          "auxVotes": 3568
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0306,
+          "auxVotes": 3517
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.0719,
+          "auxVotes": 1496
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.0754,
+          "auxVotes": 320
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.0754,
+          "auxVotes": 105
+        }
+      ],
+      "needVotes": 84732,
+      "pctVotes": 0.1066,
+      "realNeedVotes": 59897,
+      "realPctVotes": 0.0754,
+      "totalVotes": 59897,
+      "voteEach": 1426
+    }
+  },
+  {
+    "candidate": 1777,
+    "fullName": "JOSE MARIA MACEDO JUNIOR",
+    "urnaName": "MACEDO",
+    "party": "PSL",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 107734,
+    "pct": 2.47,
+    "individual": false,
+    "quoc": 0.54,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.0808,
+          "auxVotes": 724
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.0808,
+          "auxVotes": 119
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.0808,
+          "auxVotes": 79
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0323,
+          "auxVotes": 3828
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0412,
+          "auxVotes": 2998
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.0808,
+          "auxVotes": 698
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.0808,
+          "auxVotes": 683
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.0808,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.0808,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.0687,
+          "auxVotes": 10129
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.075,
+          "auxVotes": 1649
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.0808,
+          "auxVotes": 127
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.0808,
+          "auxVotes": 842
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0555,
+          "auxVotes": 5662
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0426,
+          "auxVotes": 2905
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.0808,
+          "auxVotes": 1498
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.0808,
+          "auxVotes": 1267
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.0808,
+          "auxVotes": 547
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.0808,
+          "auxVotes": 57
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.0808,
+          "auxVotes": 29
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.0808,
+          "auxVotes": 402
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.0808,
+          "auxVotes": 16
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0419,
+          "auxVotes": 2948
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.0808,
+          "auxVotes": 243
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.0808,
+          "auxVotes": 63
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.0808,
+          "auxVotes": 394
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.0808,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0714,
+          "auxVotes": 1731
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.0808,
+          "auxVotes": 370
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.0808,
+          "auxVotes": 80
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0702,
+          "auxVotes": 4477
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.0808,
+          "auxVotes": 457
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.0808,
+          "auxVotes": 48
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0667,
+          "auxVotes": 1854
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.0808,
+          "auxVotes": 479
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.0808,
+          "auxVotes": 95
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.078,
+          "auxVotes": 7083
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0323,
+          "auxVotes": 3823
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0328,
+          "auxVotes": 3769
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.0771,
+          "auxVotes": 1603
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.0808,
+          "auxVotes": 343
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.0808,
+          "auxVotes": 113
+        }
+      ],
+      "needVotes": 90883,
+      "pctVotes": 0.1143,
+      "realNeedVotes": 64245,
+      "realPctVotes": 0.0808,
+      "totalVotes": 64237,
+      "voteEach": 1530
+    }
+  },
+  {
+    "candidate": 4511,
+    "fullName": "RAIMUNDO GOMES DE MATOS",
+    "urnaName": "RAIMUNDO MATOS",
+    "party": "PSDB",
+    "state": "CE",
+    "impeachment": true,
+    "votes": 95145,
+    "pct": 2.18,
+    "individual": false,
+    "quoc": 0.48,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 2,
+      "parties": [
+        "PMDB",
+        "PSC",
+        "PR",
+        "PRP",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1555,
+          "urnaName": "MAURO BENEVIDES",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 60201,
+          "pct": 0.1969,
+          "auxVotes": 15622
+        },
+        {
+          "candidate": 1530,
+          "urnaName": "MARIO FEITOZA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 56162,
+          "pct": 0.2111,
+          "auxVotes": 14574
+        },
+        {
+          "candidate": 1577,
+          "urnaName": "DR. JAZIEL",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 53561,
+          "pct": 0.2213,
+          "auxVotes": 13899
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 33237,
+          "pct": 0.078,
+          "auxVotes": 8625
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "DADINHA ROBERTO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 3805,
+          "pct": 0.2595,
+          "auxVotes": 987
+        },
+        {
+          "candidate": 1599,
+          "urnaName": "ZE GERARDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 1117,
+          "pct": 0.2595,
+          "auxVotes": 290
+        },
+        {
+          "candidate": 1522,
+          "urnaName": "MAURO MACEDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 389,
+          "pct": 0.2595,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 1510,
+          "urnaName": "CARLONE",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 288,
+          "pct": 0.2595,
+          "auxVotes": 75
+        },
+        {
+          "candidate": 1509,
+          "urnaName": "VALSELENA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 118,
+          "pct": 0.2595,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 1529,
+          "urnaName": "SUELY NOGUEIRA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 27,
+          "pct": 0.2595,
+          "auxVotes": 7
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "CE",
+          "votes": 4070,
+          "pct": 0.2595,
+          "auxVotes": 1056
+        },
+        {
+          "candidate": 2000,
+          "urnaName": "MAGNO LIMA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2839,
+          "pct": 0.2595,
+          "auxVotes": 737
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "MARCELO THELA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2250,
+          "pct": 0.2595,
+          "auxVotes": 584
+        },
+        {
+          "candidate": 2080,
+          "urnaName": "SANDRO SILVA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 718,
+          "pct": 0.2595,
+          "auxVotes": 186
+        },
+        {
+          "candidate": 2057,
+          "urnaName": "TERESINHA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 595,
+          "pct": 0.2595,
+          "auxVotes": 154
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "JESSICA FREITAS",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 585,
+          "pct": 0.2595,
+          "auxVotes": 152
+        },
+        {
+          "candidate": 2019,
+          "urnaName": "HERLANO SABOIA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 485,
+          "pct": 0.2595,
+          "auxVotes": 126
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "CE",
+          "votes": 19794,
+          "pct": 0.1309,
+          "auxVotes": 5137
+        },
+        {
+          "candidate": 2226,
+          "urnaName": "PROF. ENILSON",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2422,
+          "pct": 0.2595,
+          "auxVotes": 629
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "JORGE RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2189,
+          "pct": 0.2595,
+          "auxVotes": 568
+        },
+        {
+          "candidate": 2244,
+          "urnaName": "AGENTE MARCIO BATISTA",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2147,
+          "pct": 0.2595,
+          "auxVotes": 557
+        },
+        {
+          "candidate": 2202,
+          "urnaName": "CHICLETE",
+          "party": "PR",
+          "state": "CE",
+          "votes": 985,
+          "pct": 0.2595,
+          "auxVotes": 256
+        },
+        {
+          "candidate": 2291,
+          "urnaName": "CABO LOBO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 764,
+          "pct": 0.2595,
+          "auxVotes": 198
+        },
+        {
+          "candidate": 2225,
+          "urnaName": "IRMA FATIMA RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 213,
+          "pct": 0.2595,
+          "auxVotes": 55
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "DUTE",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 4754,
+          "pct": 0.2595,
+          "auxVotes": 1234
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "CE",
+          "votes": 2985,
+          "pct": 0.2595,
+          "auxVotes": 775
+        },
+        {
+          "candidate": 4478,
+          "urnaName": "MARLIM DO ARATURI",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 501,
+          "pct": 0.2595,
+          "auxVotes": 130
+        },
+        {
+          "candidate": 4412,
+          "urnaName": "SERGIO FERNANDES",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 350,
+          "pct": 0.2595,
+          "auxVotes": 91
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 70964,
+          "pct": 0.2203,
+          "auxVotes": 18415
+        },
+        {
+          "candidate": 4510,
+          "urnaName": "MAYRA PINHEIRO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 25835,
+          "pct": 0.1003,
+          "auxVotes": 6704
+        },
+        {
+          "candidate": 4565,
+          "urnaName": "ELIETE SAMPAIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1598,
+          "pct": 0.2595,
+          "auxVotes": 415
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "VIVIANNE CERQUEIRA",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1265,
+          "pct": 0.2595,
+          "auxVotes": 328
+        },
+        {
+          "candidate": 4599,
+          "urnaName": "ALMINO MENEZES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1095,
+          "pct": 0.2595,
+          "auxVotes": 284
+        },
+        {
+          "candidate": 4512,
+          "urnaName": "BONAPARTE",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 445,
+          "pct": 0.2595,
+          "auxVotes": 115
+        },
+        {
+          "candidate": 4501,
+          "urnaName": "DR. PAULO SERGIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 345,
+          "pct": 0.2595,
+          "auxVotes": 90
+        },
+        {
+          "candidate": 4574,
+          "urnaName": "DARLAN ABRANTES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 295,
+          "pct": 0.2595,
+          "auxVotes": 77
+        }
+      ],
+      "needVotes": 103472,
+      "pctVotes": 0.2879,
+      "realNeedVotes": 93272,
+      "realPctVotes": 0.2595,
+      "totalVotes": 93264,
+      "voteEach": 2591
+    }
+  },
+  {
+    "candidate": 1333,
+    "fullName": "JOSE AIRTON FELIX CIRILO DA SILVA",
+    "urnaName": "JOSE AIRTON",
+    "party": "PT",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 94056,
+    "pct": 2.15,
+    "individual": false,
+    "quoc": 0.47,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.093,
+          "auxVotes": 833
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.093,
+          "auxVotes": 137
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.093,
+          "auxVotes": 91
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0371,
+          "auxVotes": 4406
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0474,
+          "auxVotes": 3451
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.093,
+          "auxVotes": 803
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.093,
+          "auxVotes": 786
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.093,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.093,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.0928,
+          "auxVotes": 11638,
+          "canVotes": 11658
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.0862,
+          "auxVotes": 1898
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.093,
+          "auxVotes": 146
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.093,
+          "auxVotes": 969
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0639,
+          "auxVotes": 6517
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.049,
+          "auxVotes": 3344
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.093,
+          "auxVotes": 1724
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.093,
+          "auxVotes": 1458
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.093,
+          "auxVotes": 630
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.093,
+          "auxVotes": 66
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.093,
+          "auxVotes": 33
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.093,
+          "auxVotes": 463
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.093,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0482,
+          "auxVotes": 3393
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.093,
+          "auxVotes": 279
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.093,
+          "auxVotes": 72
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.093,
+          "auxVotes": 453
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.093,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0822,
+          "auxVotes": 1992
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.093,
+          "auxVotes": 425
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.093,
+          "auxVotes": 92
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0808,
+          "auxVotes": 5152
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.093,
+          "auxVotes": 527
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.093,
+          "auxVotes": 55
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0767,
+          "auxVotes": 2134
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.093,
+          "auxVotes": 551
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.093,
+          "auxVotes": 109
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.0897,
+          "auxVotes": 8153
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0372,
+          "auxVotes": 4401
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0377,
+          "auxVotes": 4338
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.0887,
+          "auxVotes": 1845
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.093,
+          "auxVotes": 394
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.093,
+          "auxVotes": 130
+        }
+      ],
+      "needVotes": 104561,
+      "pctVotes": 0.1315,
+      "realNeedVotes": 73914,
+      "realPctVotes": 0.093,
+      "totalVotes": 73914,
+      "voteEach": 1760
+    }
+  },
+  {
+    "candidate": 1590,
+    "fullName": "VITOR PEREIRA VALIM",
+    "urnaName": "VITOR VALIM",
+    "party": "PMDB",
+    "state": "CE",
+    "impeachment": true,
+    "votes": 92499,
+    "pct": 2.12,
+    "individual": false,
+    "quoc": 0.47,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 2,
+      "parties": [
+        "PMDB",
+        "PSC",
+        "PR",
+        "PRP",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1555,
+          "urnaName": "MAURO BENEVIDES",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 60201,
+          "pct": 0.202,
+          "auxVotes": 16026
+        },
+        {
+          "candidate": 1530,
+          "urnaName": "MARIO FEITOZA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 56162,
+          "pct": 0.2165,
+          "auxVotes": 14950
+        },
+        {
+          "candidate": 1577,
+          "urnaName": "DR. JAZIEL",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 53561,
+          "pct": 0.227,
+          "auxVotes": 14258
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 33237,
+          "pct": 0.0799,
+          "auxVotes": 8848
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "DADINHA ROBERTO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 3805,
+          "pct": 0.2662,
+          "auxVotes": 1013
+        },
+        {
+          "candidate": 1599,
+          "urnaName": "ZE GERARDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 1117,
+          "pct": 0.2662,
+          "auxVotes": 297
+        },
+        {
+          "candidate": 1522,
+          "urnaName": "MAURO MACEDO",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 389,
+          "pct": 0.2662,
+          "auxVotes": 104
+        },
+        {
+          "candidate": 1510,
+          "urnaName": "CARLONE",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 288,
+          "pct": 0.2662,
+          "auxVotes": 77
+        },
+        {
+          "candidate": 1509,
+          "urnaName": "VALSELENA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 118,
+          "pct": 0.2662,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 1529,
+          "urnaName": "SUELY NOGUEIRA",
+          "party": "PMDB",
+          "state": "CE",
+          "votes": 27,
+          "pct": 0.2662,
+          "auxVotes": 7
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "CE",
+          "votes": 4070,
+          "pct": 0.2662,
+          "auxVotes": 1083
+        },
+        {
+          "candidate": 2000,
+          "urnaName": "MAGNO LIMA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2839,
+          "pct": 0.2662,
+          "auxVotes": 756
+        },
+        {
+          "candidate": 2014,
+          "urnaName": "MARCELO THELA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 2250,
+          "pct": 0.2662,
+          "auxVotes": 599
+        },
+        {
+          "candidate": 2080,
+          "urnaName": "SANDRO SILVA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 718,
+          "pct": 0.2662,
+          "auxVotes": 191
+        },
+        {
+          "candidate": 2057,
+          "urnaName": "TERESINHA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 595,
+          "pct": 0.2662,
+          "auxVotes": 158
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "JESSICA FREITAS",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 585,
+          "pct": 0.2662,
+          "auxVotes": 156
+        },
+        {
+          "candidate": 2019,
+          "urnaName": "HERLANO SABOIA",
+          "party": "PSC",
+          "state": "CE",
+          "votes": 485,
+          "pct": 0.2662,
+          "auxVotes": 129
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "CE",
+          "votes": 19794,
+          "pct": 0.1342,
+          "auxVotes": 5269
+        },
+        {
+          "candidate": 2226,
+          "urnaName": "PROF. ENILSON",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2422,
+          "pct": 0.2662,
+          "auxVotes": 645
+        },
+        {
+          "candidate": 2277,
+          "urnaName": "JORGE RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2189,
+          "pct": 0.2662,
+          "auxVotes": 583
+        },
+        {
+          "candidate": 2244,
+          "urnaName": "AGENTE MARCIO BATISTA",
+          "party": "PR",
+          "state": "CE",
+          "votes": 2147,
+          "pct": 0.2662,
+          "auxVotes": 572
+        },
+        {
+          "candidate": 2202,
+          "urnaName": "CHICLETE",
+          "party": "PR",
+          "state": "CE",
+          "votes": 985,
+          "pct": 0.2662,
+          "auxVotes": 262
+        },
+        {
+          "candidate": 2291,
+          "urnaName": "CABO LOBO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 764,
+          "pct": 0.2662,
+          "auxVotes": 203
+        },
+        {
+          "candidate": 2225,
+          "urnaName": "IRMA FATIMA RIBEIRO",
+          "party": "PR",
+          "state": "CE",
+          "votes": 213,
+          "pct": 0.2662,
+          "auxVotes": 57
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "DUTE",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 4754,
+          "pct": 0.2662,
+          "auxVotes": 1266
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "CE",
+          "votes": 2985,
+          "pct": 0.2662,
+          "auxVotes": 795
+        },
+        {
+          "candidate": 4478,
+          "urnaName": "MARLIM DO ARATURI",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 501,
+          "pct": 0.2662,
+          "auxVotes": 133
+        },
+        {
+          "candidate": 4412,
+          "urnaName": "SERGIO FERNANDES",
+          "party": "PRP",
+          "state": "CE",
+          "votes": 350,
+          "pct": 0.2662,
+          "auxVotes": 93
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 70964,
+          "pct": 0.266,
+          "auxVotes": 18877,
+          "canVotes": 18891
+        },
+        {
+          "candidate": 4510,
+          "urnaName": "MAYRA PINHEIRO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 25835,
+          "pct": 0.1028,
+          "auxVotes": 6877
+        },
+        {
+          "candidate": 4565,
+          "urnaName": "ELIETE SAMPAIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1598,
+          "pct": 0.2662,
+          "auxVotes": 425
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "VIVIANNE CERQUEIRA",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1265,
+          "pct": 0.2662,
+          "auxVotes": 337
+        },
+        {
+          "candidate": 4599,
+          "urnaName": "ALMINO MENEZES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 1095,
+          "pct": 0.2662,
+          "auxVotes": 291
+        },
+        {
+          "candidate": 4512,
+          "urnaName": "BONAPARTE",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 445,
+          "pct": 0.2662,
+          "auxVotes": 118
+        },
+        {
+          "candidate": 4501,
+          "urnaName": "DR. PAULO SERGIO",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 345,
+          "pct": 0.2662,
+          "auxVotes": 92
+        },
+        {
+          "candidate": 4574,
+          "urnaName": "DARLAN ABRANTES",
+          "party": "PSDB",
+          "state": "CE",
+          "votes": 295,
+          "pct": 0.2662,
+          "auxVotes": 79
+        }
+      ],
+      "needVotes": 106118,
+      "pctVotes": 0.2953,
+      "realNeedVotes": 95657,
+      "realPctVotes": 0.2662,
+      "totalVotes": 95657,
+      "voteEach": 2657
+    }
+  },
+  {
+    "candidate": 9099,
+    "fullName": "JOSE LEONIDAS DE MENEZES CRISTINO",
+    "urnaName": "LEONIDAS CRISTINO",
+    "party": "PROS",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 91085,
+    "pct": 2.08,
+    "individual": false,
+    "quoc": 0.46,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.0956,
+          "auxVotes": 856
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.0956,
+          "auxVotes": 141
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.0956,
+          "auxVotes": 94
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0382,
+          "auxVotes": 4529
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0488,
+          "auxVotes": 3547
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.0956,
+          "auxVotes": 825
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.0956,
+          "auxVotes": 808
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.0956,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.0956,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.0813,
+          "auxVotes": 11984
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.0887,
+          "auxVotes": 1951
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.0956,
+          "auxVotes": 150
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.0956,
+          "auxVotes": 996
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0657,
+          "auxVotes": 6700
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0503,
+          "auxVotes": 3437
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.0956,
+          "auxVotes": 1772
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.0956,
+          "auxVotes": 1499
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.0956,
+          "auxVotes": 648
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.0956,
+          "auxVotes": 68
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.0956,
+          "auxVotes": 34
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.0956,
+          "auxVotes": 476
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.0956,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0496,
+          "auxVotes": 3488
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.0956,
+          "auxVotes": 287
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.0956,
+          "auxVotes": 74
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.0956,
+          "auxVotes": 466
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.0956,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0845,
+          "auxVotes": 2048
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.0956,
+          "auxVotes": 437
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.0956,
+          "auxVotes": 94
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0831,
+          "auxVotes": 5297
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.0956,
+          "auxVotes": 541
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.0956,
+          "auxVotes": 57
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0789,
+          "auxVotes": 2194
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.0956,
+          "auxVotes": 566
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.0956,
+          "auxVotes": 112
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.0923,
+          "auxVotes": 8381
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0383,
+          "auxVotes": 4524
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0388,
+          "auxVotes": 4460
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.0912,
+          "auxVotes": 1896
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.0956,
+          "auxVotes": 405
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.0956,
+          "auxVotes": 133
+        }
+      ],
+      "needVotes": 107532,
+      "pctVotes": 0.1353,
+      "realNeedVotes": 76015,
+      "realPctVotes": 0.0956,
+      "totalVotes": 76001,
+      "voteEach": 1810
+    }
+  },
+  {
+    "candidate": 1451,
+    "fullName": "JOSE ARNON CRUZ BEZERRA DE MENEZES",
+    "urnaName": "ARNON BEZERRA",
+    "party": "PTB",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 84474,
+    "pct": 1.93,
+    "individual": false,
+    "quoc": 0.43,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.1015,
+          "auxVotes": 909
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.1015,
+          "auxVotes": 150
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.1015,
+          "auxVotes": 99
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0405,
+          "auxVotes": 4809
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0518,
+          "auxVotes": 3766
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.1015,
+          "auxVotes": 876
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.1015,
+          "auxVotes": 858
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.1015,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.1015,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.1015,
+          "auxVotes": 12722,
+          "canVotes": 12724
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.0941,
+          "auxVotes": 2072
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.1015,
+          "auxVotes": 159
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.1015,
+          "auxVotes": 1057
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0697,
+          "auxVotes": 7113
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0534,
+          "auxVotes": 3649
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.1015,
+          "auxVotes": 1881
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.1015,
+          "auxVotes": 1591
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.1015,
+          "auxVotes": 688
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.1015,
+          "auxVotes": 72
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.1015,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.1015,
+          "auxVotes": 505
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.1015,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0526,
+          "auxVotes": 3704
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.1015,
+          "auxVotes": 305
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.1015,
+          "auxVotes": 79
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.1015,
+          "auxVotes": 495
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.1015,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0897,
+          "auxVotes": 2174
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.1015,
+          "auxVotes": 464
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.1015,
+          "auxVotes": 100
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0882,
+          "auxVotes": 5623
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.1015,
+          "auxVotes": 575
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.1015,
+          "auxVotes": 60
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0837,
+          "auxVotes": 2329
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.1015,
+          "auxVotes": 601
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.1015,
+          "auxVotes": 119
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.098,
+          "auxVotes": 8898
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0406,
+          "auxVotes": 4803
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0412,
+          "auxVotes": 4735
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.0968,
+          "auxVotes": 2013
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.1015,
+          "auxVotes": 430
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.1015,
+          "auxVotes": 141
+        }
+      ],
+      "needVotes": 114143,
+      "pctVotes": 0.1436,
+      "realNeedVotes": 80688,
+      "realPctVotes": 0.1015,
+      "totalVotes": 80688,
+      "voteEach": 1921
+    }
+  },
+  {
+    "candidate": 6565,
+    "fullName": "FRANCISCO LOPES DA SILVA",
+    "urnaName": "CHICO LOPES",
+    "party": "PCdoB",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 80578,
+    "pct": 1.84,
+    "individual": false,
+    "quoc": 0.41,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.105,
+          "auxVotes": 940
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.105,
+          "auxVotes": 155
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.105,
+          "auxVotes": 103
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0419,
+          "auxVotes": 4975
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0535,
+          "auxVotes": 3896
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.105,
+          "auxVotes": 907
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.105,
+          "auxVotes": 888
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.105,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.105,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.1047,
+          "auxVotes": 13129,
+          "canVotes": 13163
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.0973,
+          "auxVotes": 2143
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.105,
+          "auxVotes": 165
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.105,
+          "auxVotes": 1094
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0721,
+          "auxVotes": 7358
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0553,
+          "auxVotes": 3775
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.105,
+          "auxVotes": 1946
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.105,
+          "auxVotes": 1646
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.105,
+          "auxVotes": 711
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.105,
+          "auxVotes": 75
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.105,
+          "auxVotes": 38
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.105,
+          "auxVotes": 523
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.105,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0545,
+          "auxVotes": 3831
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.105,
+          "auxVotes": 315
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.105,
+          "auxVotes": 82
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.105,
+          "auxVotes": 512
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.105,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.0928,
+          "auxVotes": 2249
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.105,
+          "auxVotes": 480
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.105,
+          "auxVotes": 104
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0912,
+          "auxVotes": 5817
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.105,
+          "auxVotes": 595
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.105,
+          "auxVotes": 62
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0866,
+          "auxVotes": 2410
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.105,
+          "auxVotes": 622
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.105,
+          "auxVotes": 123
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.1013,
+          "auxVotes": 9205
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.042,
+          "auxVotes": 4968
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0426,
+          "auxVotes": 4898
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.1002,
+          "auxVotes": 2083
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.105,
+          "auxVotes": 445
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.105,
+          "auxVotes": 146
+        }
+      ],
+      "needVotes": 118039,
+      "pctVotes": 0.1485,
+      "realNeedVotes": 83442,
+      "realPctVotes": 0.105,
+      "totalVotes": 83442,
+      "voteEach": 1987
+    }
+  },
+  {
+    "candidate": 9055,
+    "fullName": "VICENTE FERREIRA DE ARRUDA COELHO",
+    "urnaName": "VICENTE ARRUDA",
+    "party": "PROS",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 70768,
+    "pct": 1.62,
+    "individual": false,
+    "quoc": 0.36,
+    "status": {
+      "geral": "sup"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.1137,
+          "auxVotes": 1018
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.1137,
+          "auxVotes": 168
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.1137,
+          "auxVotes": 111
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.0454,
+          "auxVotes": 5387
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.058,
+          "auxVotes": 4219
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.1137,
+          "auxVotes": 982
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.1137,
+          "auxVotes": 961
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.1137,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.1137,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.1136,
+          "auxVotes": 14239,
+          "canVotes": 14253
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.1054,
+          "auxVotes": 2321
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.1137,
+          "auxVotes": 178
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.1137,
+          "auxVotes": 1184
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0781,
+          "auxVotes": 7968
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0599,
+          "auxVotes": 4088
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.1137,
+          "auxVotes": 2107
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.1137,
+          "auxVotes": 1782
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.1137,
+          "auxVotes": 770
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.1137,
+          "auxVotes": 81
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.1137,
+          "auxVotes": 41
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.1137,
+          "auxVotes": 566
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.1137,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.059,
+          "auxVotes": 4149
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.1137,
+          "auxVotes": 342
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.1137,
+          "auxVotes": 89
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.1137,
+          "auxVotes": 554
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.1137,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.1005,
+          "auxVotes": 2436
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.1137,
+          "auxVotes": 520
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.1137,
+          "auxVotes": 112
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.0988,
+          "auxVotes": 6299
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.1137,
+          "auxVotes": 644
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.1137,
+          "auxVotes": 67
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.0938,
+          "auxVotes": 2609
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.1137,
+          "auxVotes": 674
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.1137,
+          "auxVotes": 133
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.1097,
+          "auxVotes": 9968
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0455,
+          "auxVotes": 5380
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0461,
+          "auxVotes": 5304
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.1085,
+          "auxVotes": 2255
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.1137,
+          "auxVotes": 482
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.1137,
+          "auxVotes": 158
+        }
+      ],
+      "needVotes": 127849,
+      "pctVotes": 0.1608,
+      "realNeedVotes": 90377,
+      "realPctVotes": 0.1137,
+      "totalVotes": 90377,
+      "voteEach": 2152
+    }
+  },
+  {
+    "candidate": 9011,
+    "fullName": "FRANCISCO ARIOSTO HOLANDA",
+    "urnaName": "ARIOSTO HOLANDA",
+    "party": "PROS",
+    "state": "CE",
+    "impeachment": false,
+    "votes": 60669,
+    "pct": 1.39,
+    "individual": false,
+    "quoc": 0.31,
+    "status": {
+      "geral": "sup"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PRB",
+        "PP",
+        "PDT",
+        "PT",
+        "PTB",
+        "PSL",
+        "PHS",
+        "PSD",
+        "PCdoB",
+        "SD",
+        "PROS"
+      ],
+      "others": [
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "CE",
+          "votes": 8956,
+          "pct": 0.1226,
+          "auxVotes": 1098
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "PAULO TEIXEIRA",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 1478,
+          "pct": 0.1226,
+          "auxVotes": 181
+        },
+        {
+          "candidate": 1090,
+          "urnaName": "NINA CARVALHO",
+          "party": "PRB",
+          "state": "CE",
+          "votes": 979,
+          "pct": 0.1226,
+          "auxVotes": 120
+        },
+        {
+          "candidate": 1133,
+          "urnaName": "PAULO HENRIQUE LUSTOSA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 47377,
+          "pct": 0.049,
+          "auxVotes": 5808
+        },
+        {
+          "candidate": 1113,
+          "urnaName": "EUGENIO RABELO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 37106,
+          "pct": 0.0626,
+          "auxVotes": 4549
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "CE",
+          "votes": 8634,
+          "pct": 0.1226,
+          "auxVotes": 1059
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "CHAGAS MACEDO",
+          "party": "PP",
+          "state": "CE",
+          "votes": 8453,
+          "pct": 0.1226,
+          "auxVotes": 1036
+        },
+        {
+          "candidate": 1140,
+          "urnaName": "SANDRA NOGUEIRA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 23,
+          "pct": 0.1226,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 1188,
+          "urnaName": "FRANCISCA FROTA",
+          "party": "PP",
+          "state": "CE",
+          "votes": 18,
+          "pct": 0.1226,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "ANDRE FIGUEIREDO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 125360,
+          "pct": 0.1044,
+          "auxVotes": 15369
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "CE",
+          "votes": 20412,
+          "pct": 0.1138,
+          "auxVotes": 2503
+        },
+        {
+          "candidate": 1222,
+          "urnaName": "JUNIOR REGO",
+          "party": "PDT",
+          "state": "CE",
+          "votes": 1567,
+          "pct": 0.1226,
+          "auxVotes": 192
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "JOSE GUIMARAES",
+          "party": "PT",
+          "state": "CE",
+          "votes": 10415,
+          "pct": 0.1226,
+          "auxVotes": 1277
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "CE",
+          "votes": 70080,
+          "pct": 0.0843,
+          "auxVotes": 8592
+        },
+        {
+          "candidate": 1312,
+          "urnaName": "EUDES XAVIER",
+          "party": "PT",
+          "state": "CE",
+          "votes": 35952,
+          "pct": 0.0646,
+          "auxVotes": 4408
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "DEODATO RAMALHO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 18535,
+          "pct": 0.1226,
+          "auxVotes": 2272
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "ACRISIO SENA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 15676,
+          "pct": 0.1226,
+          "auxVotes": 1922
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "CHICO DO POSTO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 6774,
+          "pct": 0.1226,
+          "auxVotes": 830
+        },
+        {
+          "candidate": 1351,
+          "urnaName": "ALBA CRISTINA",
+          "party": "PT",
+          "state": "CE",
+          "votes": 711,
+          "pct": 0.1226,
+          "auxVotes": 87
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "CELIA ROMERO",
+          "party": "PT",
+          "state": "CE",
+          "votes": 359,
+          "pct": 0.1226,
+          "auxVotes": 44
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "CE",
+          "votes": 4979,
+          "pct": 0.1226,
+          "auxVotes": 610
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "CONCEICAO FRANKLIN",
+          "party": "PTB",
+          "state": "CE",
+          "votes": 202,
+          "pct": 0.1226,
+          "auxVotes": 25
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "NORMANDO",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 36488,
+          "pct": 0.0636,
+          "auxVotes": 4473
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "CE",
+          "votes": 3004,
+          "pct": 0.1226,
+          "auxVotes": 368
+        },
+        {
+          "candidate": 1722,
+          "urnaName": "YASMIN SANTOS",
+          "party": "PSL",
+          "state": "CE",
+          "votes": 779,
+          "pct": 0.1226,
+          "auxVotes": 96
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "CE",
+          "votes": 4874,
+          "pct": 0.1226,
+          "auxVotes": 598
+        },
+        {
+          "candidate": 3171,
+          "urnaName": "MACACO TIAO MAGALHAES",
+          "party": "PHS",
+          "state": "CE",
+          "votes": 30,
+          "pct": 0.1226,
+          "auxVotes": 4
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ALMIRCY PINTO",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 21421,
+          "pct": 0.1084,
+          "auxVotes": 2626
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "CE",
+          "votes": 4574,
+          "pct": 0.1226,
+          "auxVotes": 561
+        },
+        {
+          "candidate": 5556,
+          "urnaName": "RADIALISTA VALMIR SANTOS",
+          "party": "PSD",
+          "state": "CE",
+          "votes": 986,
+          "pct": 0.1226,
+          "auxVotes": 121
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "INACIO ARRUDA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 55403,
+          "pct": 0.1066,
+          "auxVotes": 6792
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 5662,
+          "pct": 0.1226,
+          "auxVotes": 694
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "TIBINHA",
+          "party": "PCdoB",
+          "state": "CE",
+          "votes": 593,
+          "pct": 0.1226,
+          "auxVotes": 73
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "GENECIAS NORONHA",
+          "party": "SD",
+          "state": "CE",
+          "votes": 22950,
+          "pct": 0.1012,
+          "auxVotes": 2814
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "CE",
+          "votes": 5924,
+          "pct": 0.1226,
+          "auxVotes": 726
+        },
+        {
+          "candidate": 7778,
+          "urnaName": "MARCAO",
+          "party": "SD",
+          "state": "CE",
+          "votes": 1173,
+          "pct": 0.1226,
+          "auxVotes": 144
+        },
+        {
+          "candidate": 9000,
+          "urnaName": "BALMAN",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 87666,
+          "pct": 0.1185,
+          "auxVotes": 10748
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "CE",
+          "votes": 47318,
+          "pct": 0.0491,
+          "auxVotes": 5801
+        },
+        {
+          "candidate": 9044,
+          "urnaName": "NENEM DO CAZUZA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 46649,
+          "pct": 0.0498,
+          "auxVotes": 5719
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "EDSON SILVA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 19837,
+          "pct": 0.1171,
+          "auxVotes": 2432
+        },
+        {
+          "candidate": 9022,
+          "urnaName": "RITA GOMES",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 4240,
+          "pct": 0.1226,
+          "auxVotes": 520
+        },
+        {
+          "candidate": 9033,
+          "urnaName": "PROFESSORA LAUDECY FERREIRA",
+          "party": "PROS",
+          "state": "CE",
+          "votes": 1394,
+          "pct": 0.1226,
+          "auxVotes": 171
+        }
+      ],
+      "needVotes": 137948,
+      "pctVotes": 0.1735,
+      "realNeedVotes": 97516,
+      "realPctVotes": 0.1226,
+      "totalVotes": 97468,
+      "voteEach": 2322
+    }
+  }
+]

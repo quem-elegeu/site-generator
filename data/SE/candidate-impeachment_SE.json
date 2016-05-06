@@ -1,0 +1,2298 @@
+[
+  {
+    "candidate": 1414,
+    "fullName": "ADELSON BARRETO DOS SANTOS",
+    "urnaName": "ADELSON BARRETO",
+    "party": "PTB",
+    "state": "SE",
+    "impeachment": true,
+    "votes": 131236,
+    "pct": 12.46,
+    "individual": false,
+    "quoc": 1,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PP",
+        "PTB",
+        "PSL",
+        "PSC",
+        "PR",
+        "PPS",
+        "DEM",
+        "PHS",
+        "PTC",
+        "PV",
+        "PSDB",
+        "PEN",
+        "PTdoB",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1100,
+          "urnaName": "ZE NELSON PIRULITO",
+          "party": "PP",
+          "state": "SE",
+          "votes": 1874,
+          "pct": 0.0034,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "SE",
+          "votes": 1638,
+          "pct": 0.0034,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "ARACI NASCIMENTO",
+          "party": "PP",
+          "state": "SE",
+          "votes": 846,
+          "pct": 0.0034,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "SE",
+          "votes": 1877,
+          "pct": 0.0034,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "SE",
+          "votes": 1632,
+          "pct": 0.0034,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "KELLY DE ZE DE DONA",
+          "party": "PSL",
+          "state": "SE",
+          "votes": 112,
+          "pct": 0.0034,
+          "auxVotes": 0
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "SE",
+          "votes": 5493,
+          "pct": 0.002,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 2233,
+          "urnaName": "DANIELA FORTES",
+          "party": "PR",
+          "state": "SE",
+          "votes": 28516,
+          "pct": 0.0018,
+          "auxVotes": 52,
+          "canVotes": 97
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "SE",
+          "votes": 2034,
+          "pct": 0.0034,
+          "auxVotes": 7
+        },
+        {
+          "candidate": 2200,
+          "urnaName": "LARA MOURA",
+          "party": "PR",
+          "state": "SE",
+          "votes": 139,
+          "pct": 0.0034,
+          "auxVotes": 0
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "NILSON LIMA",
+          "party": "PPS",
+          "state": "SE",
+          "votes": 4548,
+          "pct": 0.0024,
+          "auxVotes": 15
+        },
+        {
+          "candidate": 2311,
+          "urnaName": "SAMARONE",
+          "party": "PPS",
+          "state": "SE",
+          "votes": 1710,
+          "pct": 0.0034,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "SE",
+          "votes": 791,
+          "pct": 0.0034,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 2510,
+          "urnaName": "MENDONCA PRADO",
+          "party": "DEM",
+          "state": "SE",
+          "votes": 44263,
+          "pct": 0.0012,
+          "auxVotes": 51,
+          "canVotes": 150
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "SE",
+          "votes": 10920,
+          "pct": 0.0028,
+          "auxVotes": 37
+        },
+        {
+          "candidate": 2500,
+          "urnaName": "DORA SANTANA",
+          "party": "DEM",
+          "state": "SE",
+          "votes": 532,
+          "pct": 0.0034,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "SE",
+          "votes": 531,
+          "pct": 0.0034,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "PROFESSORA AVILETE",
+          "party": "PHS",
+          "state": "SE",
+          "votes": 494,
+          "pct": 0.0034,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "SE",
+          "votes": 2235,
+          "pct": 0.0034,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 4343,
+          "urnaName": "TONHO LEITE",
+          "party": "PV",
+          "state": "SE",
+          "votes": 1014,
+          "pct": 0.0034,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 4344,
+          "urnaName": "MARIA LUCIA",
+          "party": "PV",
+          "state": "SE",
+          "votes": 608,
+          "pct": 0.0034,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "SE",
+          "votes": 347,
+          "pct": 0.0034,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 4545,
+          "urnaName": "ADIERSON MONTEIRO",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 28237,
+          "pct": 0.0018,
+          "auxVotes": 51,
+          "canVotes": 96
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "DR.SAMUEL CARVALHO",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 5791,
+          "pct": 0.0019,
+          "auxVotes": 20
+        },
+        {
+          "candidate": 4555,
+          "urnaName": "GRACE FRANCO",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 5135,
+          "pct": 0.0021,
+          "auxVotes": 17
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 4774,
+          "pct": 0.0023,
+          "auxVotes": 16
+        },
+        {
+          "candidate": 4500,
+          "urnaName": "ERICO MENEZES",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 3083,
+          "pct": 0.0034,
+          "auxVotes": 10
+        },
+        {
+          "candidate": 5110,
+          "urnaName": "JOINHA",
+          "party": "PEN",
+          "state": "SE",
+          "votes": 2503,
+          "pct": 0.0034,
+          "auxVotes": 9
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "SE",
+          "votes": 622,
+          "pct": 0.0034,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 5177,
+          "urnaName": "PASTORA GRACA",
+          "party": "PEN",
+          "state": "SE",
+          "votes": 161,
+          "pct": 0.0034,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "SE",
+          "votes": 659,
+          "pct": 0.0034,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "SE",
+          "votes": 999,
+          "pct": 0.0034,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 7700,
+          "urnaName": "AMERICO BARRETO",
+          "party": "SD",
+          "state": "SE",
+          "votes": 415,
+          "pct": 0.0034,
+          "auxVotes": 1
+        }
+      ],
+      "needVotes": 369,
+      "pctVotes": 0.0034,
+      "realNeedVotes": 369,
+      "realPctVotes": 0.0034,
+      "totalVotes": 369,
+      "voteEach": 11
+    }
+  },
+  {
+    "candidate": 7777,
+    "fullName": "LAÉRCIO JOSÉ DE OLIVEIRA",
+    "urnaName": "LAERCIO OLIVEIRA",
+    "party": "SD",
+    "state": "SE",
+    "impeachment": true,
+    "votes": 84198,
+    "pct": 8,
+    "individual": false,
+    "quoc": 0.64,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PP",
+        "PTB",
+        "PSL",
+        "PSC",
+        "PR",
+        "PPS",
+        "DEM",
+        "PHS",
+        "PTC",
+        "PV",
+        "PSDB",
+        "PEN",
+        "PTdoB",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1100,
+          "urnaName": "ZE NELSON PIRULITO",
+          "party": "PP",
+          "state": "SE",
+          "votes": 1874,
+          "pct": 0.4395,
+          "auxVotes": 824
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "SE",
+          "votes": 1638,
+          "pct": 0.4395,
+          "auxVotes": 720
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "ARACI NASCIMENTO",
+          "party": "PP",
+          "state": "SE",
+          "votes": 846,
+          "pct": 0.4395,
+          "auxVotes": 372
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "SE",
+          "votes": 1877,
+          "pct": 0.4395,
+          "auxVotes": 825
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "SE",
+          "votes": 1632,
+          "pct": 0.4395,
+          "auxVotes": 717
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "KELLY DE ZE DE DONA",
+          "party": "PSL",
+          "state": "SE",
+          "votes": 112,
+          "pct": 0.4395,
+          "auxVotes": 49
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "SE",
+          "votes": 5493,
+          "pct": 0.2616,
+          "auxVotes": 2414
+        },
+        {
+          "candidate": 2233,
+          "urnaName": "DANIELA FORTES",
+          "party": "PR",
+          "state": "SE",
+          "votes": 28516,
+          "pct": 0.2278,
+          "auxVotes": 6497,
+          "canVotes": 12533
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "SE",
+          "votes": 2034,
+          "pct": 0.4395,
+          "auxVotes": 894
+        },
+        {
+          "candidate": 2200,
+          "urnaName": "LARA MOURA",
+          "party": "PR",
+          "state": "SE",
+          "votes": 139,
+          "pct": 0.4395,
+          "auxVotes": 61
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "NILSON LIMA",
+          "party": "PPS",
+          "state": "SE",
+          "votes": 4548,
+          "pct": 0.316,
+          "auxVotes": 1999
+        },
+        {
+          "candidate": 2311,
+          "urnaName": "SAMARONE",
+          "party": "PPS",
+          "state": "SE",
+          "votes": 1710,
+          "pct": 0.4395,
+          "auxVotes": 752
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "SE",
+          "votes": 791,
+          "pct": 0.4395,
+          "auxVotes": 348
+        },
+        {
+          "candidate": 2510,
+          "urnaName": "MENDONCA PRADO",
+          "party": "DEM",
+          "state": "SE",
+          "votes": 44263,
+          "pct": 0.1468,
+          "auxVotes": 6497,
+          "canVotes": 19454
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "SE",
+          "votes": 10920,
+          "pct": 0.3623,
+          "auxVotes": 4799
+        },
+        {
+          "candidate": 2500,
+          "urnaName": "DORA SANTANA",
+          "party": "DEM",
+          "state": "SE",
+          "votes": 532,
+          "pct": 0.4395,
+          "auxVotes": 234
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "SE",
+          "votes": 531,
+          "pct": 0.4395,
+          "auxVotes": 233
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "PROFESSORA AVILETE",
+          "party": "PHS",
+          "state": "SE",
+          "votes": 494,
+          "pct": 0.4395,
+          "auxVotes": 217
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "SE",
+          "votes": 2235,
+          "pct": 0.4395,
+          "auxVotes": 982
+        },
+        {
+          "candidate": 4343,
+          "urnaName": "TONHO LEITE",
+          "party": "PV",
+          "state": "SE",
+          "votes": 1014,
+          "pct": 0.4395,
+          "auxVotes": 446
+        },
+        {
+          "candidate": 4344,
+          "urnaName": "MARIA LUCIA",
+          "party": "PV",
+          "state": "SE",
+          "votes": 608,
+          "pct": 0.4395,
+          "auxVotes": 267
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "SE",
+          "votes": 347,
+          "pct": 0.4395,
+          "auxVotes": 153
+        },
+        {
+          "candidate": 4545,
+          "urnaName": "ADIERSON MONTEIRO",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 28237,
+          "pct": 0.2301,
+          "auxVotes": 6497,
+          "canVotes": 12410
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "DR.SAMUEL CARVALHO",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 5791,
+          "pct": 0.2481,
+          "auxVotes": 2545
+        },
+        {
+          "candidate": 4555,
+          "urnaName": "GRACE FRANCO",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 5135,
+          "pct": 0.2798,
+          "auxVotes": 2257
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 4774,
+          "pct": 0.301,
+          "auxVotes": 2098
+        },
+        {
+          "candidate": 4500,
+          "urnaName": "ERICO MENEZES",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 3083,
+          "pct": 0.4395,
+          "auxVotes": 1355
+        },
+        {
+          "candidate": 5110,
+          "urnaName": "JOINHA",
+          "party": "PEN",
+          "state": "SE",
+          "votes": 2503,
+          "pct": 0.4395,
+          "auxVotes": 1100
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "SE",
+          "votes": 622,
+          "pct": 0.4395,
+          "auxVotes": 273
+        },
+        {
+          "candidate": 5177,
+          "urnaName": "PASTORA GRACA",
+          "party": "PEN",
+          "state": "SE",
+          "votes": 161,
+          "pct": 0.4395,
+          "auxVotes": 71
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "SE",
+          "votes": 659,
+          "pct": 0.4395,
+          "auxVotes": 290
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "SE",
+          "votes": 999,
+          "pct": 0.4395,
+          "auxVotes": 439
+        },
+        {
+          "candidate": 7700,
+          "urnaName": "AMERICO BARRETO",
+          "party": "SD",
+          "state": "SE",
+          "votes": 415,
+          "pct": 0.4395,
+          "auxVotes": 182
+        }
+      ],
+      "needVotes": 47407,
+      "pctVotes": 0.4395,
+      "realNeedVotes": 47407,
+      "realPctVotes": 0.4395,
+      "totalVotes": 47407,
+      "voteEach": 1437
+    }
+  },
+  {
+    "candidate": 5555,
+    "fullName": "FÁBIO CRUZ MITIDIERI",
+    "urnaName": "FABIO MITIDIERI",
+    "party": "PSD",
+    "state": "SE",
+    "impeachment": false,
+    "votes": 83401,
+    "pct": 7.92,
+    "individual": false,
+    "quoc": 0.63,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PT",
+        "PDT",
+        "PSB",
+        "PMDB",
+        "PCdoB",
+        "PRP",
+        "PROS",
+        "PSD",
+        "PRB",
+        "PSDC"
+      ],
+      "others": [
+        {
+          "candidate": 1313,
+          "urnaName": "MARCIO MACEDO",
+          "party": "PT",
+          "state": "SE",
+          "votes": 40814,
+          "pct": 0.1503,
+          "auxVotes": 6163
+        },
+        {
+          "candidate": 1390,
+          "urnaName": "IRAN BARBOSA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 36966,
+          "pct": 0.1163,
+          "auxVotes": 5582
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "SE",
+          "votes": 17578,
+          "pct": 0.0756,
+          "auxVotes": 2654
+        },
+        {
+          "candidate": 1330,
+          "urnaName": "DR EMERSON",
+          "party": "PT",
+          "state": "SE",
+          "votes": 9575,
+          "pct": 0.1388,
+          "auxVotes": 1446
+        },
+        {
+          "candidate": 1369,
+          "urnaName": "FATIMA ANDREA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 113,
+          "pct": 0.151,
+          "auxVotes": 17
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2688,
+          "pct": 0.151,
+          "auxVotes": 406
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "UCLESIO BARRETO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2250,
+          "pct": 0.151,
+          "auxVotes": 340
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TITO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 1621,
+          "pct": 0.151,
+          "auxVotes": 245
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "NEGUINHA",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 126,
+          "pct": 0.151,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "SE",
+          "votes": 3518,
+          "pct": 0.151,
+          "auxVotes": 531
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 9662,
+          "pct": 0.1375,
+          "auxVotes": 1459
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "CORONEL JULIO CESAR",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 1569,
+          "pct": 0.151,
+          "auxVotes": 237
+        },
+        {
+          "candidate": 1579,
+          "urnaName": "LARISSA",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 498,
+          "pct": 0.151,
+          "auxVotes": 75
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "EDVALDO NOGUEIRA",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 36570,
+          "pct": 0.1176,
+          "auxVotes": 5522
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 1157,
+          "pct": 0.151,
+          "auxVotes": 175
+        },
+        {
+          "candidate": 6599,
+          "urnaName": "VANESSA GOMES",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 13,
+          "pct": 0.151,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "SE",
+          "votes": 1328,
+          "pct": 0.151,
+          "auxVotes": 201
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "BOSCO COSTA",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 48050,
+          "pct": 0.1398,
+          "auxVotes": 7256
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "LUCIA DE VADO",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 2149,
+          "pct": 0.151,
+          "auxVotes": 324
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "SE",
+          "votes": 763,
+          "pct": 0.151,
+          "auxVotes": 115
+        },
+        {
+          "candidate": 5566,
+          "urnaName": "BETAO DO POVO",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 5551,
+          "pct": 0.151,
+          "auxVotes": 838
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "SE",
+          "votes": 2561,
+          "pct": 0.151,
+          "auxVotes": 387
+        },
+        {
+          "candidate": 5515,
+          "urnaName": "TO ESTRELA",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 1942,
+          "pct": 0.151,
+          "auxVotes": 293
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "SE",
+          "votes": 1527,
+          "pct": 0.151,
+          "auxVotes": 231
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "JOANA DARC",
+          "party": "PRB",
+          "state": "SE",
+          "votes": 85,
+          "pct": 0.151,
+          "auxVotes": 13
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "SE",
+          "votes": 97,
+          "pct": 0.151,
+          "auxVotes": 15
+        }
+      ],
+      "needVotes": 48204,
+      "pctVotes": 0.2107,
+      "realNeedVotes": 34557,
+      "realPctVotes": 0.151,
+      "totalVotes": 34546,
+      "voteEach": 1329
+    }
+  },
+  {
+    "candidate": 1515,
+    "fullName": "FÁBIO DE ALMEIDA REIS",
+    "urnaName": "FABIO REIS",
+    "party": "PMDB",
+    "state": "SE",
+    "impeachment": true,
+    "votes": 80895,
+    "pct": 7.68,
+    "individual": false,
+    "quoc": 0.61,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PT",
+        "PDT",
+        "PSB",
+        "PMDB",
+        "PCdoB",
+        "PRP",
+        "PROS",
+        "PSD",
+        "PRB",
+        "PSDC"
+      ],
+      "others": [
+        {
+          "candidate": 1313,
+          "urnaName": "MARCIO MACEDO",
+          "party": "PT",
+          "state": "SE",
+          "votes": 40814,
+          "pct": 0.1581,
+          "auxVotes": 6485
+        },
+        {
+          "candidate": 1390,
+          "urnaName": "IRAN BARBOSA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 36966,
+          "pct": 0.1223,
+          "auxVotes": 5874
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "SE",
+          "votes": 17578,
+          "pct": 0.0795,
+          "auxVotes": 2793
+        },
+        {
+          "candidate": 1330,
+          "urnaName": "DR EMERSON",
+          "party": "PT",
+          "state": "SE",
+          "votes": 9575,
+          "pct": 0.146,
+          "auxVotes": 1521
+        },
+        {
+          "candidate": 1369,
+          "urnaName": "FATIMA ANDREA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 113,
+          "pct": 0.1589,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2688,
+          "pct": 0.1589,
+          "auxVotes": 427
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "UCLESIO BARRETO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2250,
+          "pct": 0.1589,
+          "auxVotes": 358
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TITO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 1621,
+          "pct": 0.1589,
+          "auxVotes": 258
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "NEGUINHA",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 126,
+          "pct": 0.1589,
+          "auxVotes": 20
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "SE",
+          "votes": 3518,
+          "pct": 0.1589,
+          "auxVotes": 559
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 9662,
+          "pct": 0.1447,
+          "auxVotes": 1535
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "CORONEL JULIO CESAR",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 1569,
+          "pct": 0.1589,
+          "auxVotes": 249
+        },
+        {
+          "candidate": 1579,
+          "urnaName": "LARISSA",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 498,
+          "pct": 0.1589,
+          "auxVotes": 79
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "EDVALDO NOGUEIRA",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 36570,
+          "pct": 0.1237,
+          "auxVotes": 5811
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 1157,
+          "pct": 0.1589,
+          "auxVotes": 184
+        },
+        {
+          "candidate": 6599,
+          "urnaName": "VANESSA GOMES",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 13,
+          "pct": 0.1589,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "SE",
+          "votes": 1328,
+          "pct": 0.1589,
+          "auxVotes": 211
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "BOSCO COSTA",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 48050,
+          "pct": 0.147,
+          "auxVotes": 7635
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "LUCIA DE VADO",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 2149,
+          "pct": 0.1589,
+          "auxVotes": 341
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "SE",
+          "votes": 763,
+          "pct": 0.1589,
+          "auxVotes": 121
+        },
+        {
+          "candidate": 5566,
+          "urnaName": "BETAO DO POVO",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 5551,
+          "pct": 0.1589,
+          "auxVotes": 882
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "SE",
+          "votes": 2561,
+          "pct": 0.1589,
+          "auxVotes": 407
+        },
+        {
+          "candidate": 5515,
+          "urnaName": "TO ESTRELA",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 1942,
+          "pct": 0.1589,
+          "auxVotes": 309
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "SE",
+          "votes": 1527,
+          "pct": 0.1589,
+          "auxVotes": 243
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "JOANA DARC",
+          "party": "PRB",
+          "state": "SE",
+          "votes": 85,
+          "pct": 0.1589,
+          "auxVotes": 14
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "SE",
+          "votes": 97,
+          "pct": 0.1589,
+          "auxVotes": 15
+        }
+      ],
+      "needVotes": 50710,
+      "pctVotes": 0.2217,
+      "realNeedVotes": 36353,
+      "realPctVotes": 0.1589,
+      "totalVotes": 36351,
+      "voteEach": 1398
+    }
+  },
+  {
+    "candidate": 2000,
+    "fullName": "ANDRE LUIS DANTAS FERREIRA",
+    "urnaName": "ANDRE MOURA",
+    "party": "PSC",
+    "state": "SE",
+    "impeachment": true,
+    "votes": 71523,
+    "pct": 6.79,
+    "individual": false,
+    "quoc": 0.54,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PP",
+        "PTB",
+        "PSL",
+        "PSC",
+        "PR",
+        "PPS",
+        "DEM",
+        "PHS",
+        "PTC",
+        "PV",
+        "PSDB",
+        "PEN",
+        "PTdoB",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1100,
+          "urnaName": "ZE NELSON PIRULITO",
+          "party": "PP",
+          "state": "SE",
+          "votes": 1874,
+          "pct": 0.557,
+          "auxVotes": 1044
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "SE",
+          "votes": 1638,
+          "pct": 0.557,
+          "auxVotes": 912
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "ARACI NASCIMENTO",
+          "party": "PP",
+          "state": "SE",
+          "votes": 846,
+          "pct": 0.557,
+          "auxVotes": 471
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "SE",
+          "votes": 1877,
+          "pct": 0.557,
+          "auxVotes": 1045
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "SE",
+          "votes": 1632,
+          "pct": 0.557,
+          "auxVotes": 909
+        },
+        {
+          "candidate": 1717,
+          "urnaName": "KELLY DE ZE DE DONA",
+          "party": "PSL",
+          "state": "SE",
+          "votes": 112,
+          "pct": 0.557,
+          "auxVotes": 62
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "SE",
+          "votes": 5493,
+          "pct": 0.3315,
+          "auxVotes": 3060
+        },
+        {
+          "candidate": 2233,
+          "urnaName": "DANIELA FORTES",
+          "party": "PR",
+          "state": "SE",
+          "votes": 28516,
+          "pct": 0.2888,
+          "auxVotes": 8236,
+          "canVotes": 15883
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "SE",
+          "votes": 2034,
+          "pct": 0.557,
+          "auxVotes": 1133
+        },
+        {
+          "candidate": 2200,
+          "urnaName": "LARA MOURA",
+          "party": "PR",
+          "state": "SE",
+          "votes": 139,
+          "pct": 0.557,
+          "auxVotes": 77
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "NILSON LIMA",
+          "party": "PPS",
+          "state": "SE",
+          "votes": 4548,
+          "pct": 0.4004,
+          "auxVotes": 2533
+        },
+        {
+          "candidate": 2311,
+          "urnaName": "SAMARONE",
+          "party": "PPS",
+          "state": "SE",
+          "votes": 1710,
+          "pct": 0.557,
+          "auxVotes": 952
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "SE",
+          "votes": 791,
+          "pct": 0.557,
+          "auxVotes": 441
+        },
+        {
+          "candidate": 2510,
+          "urnaName": "MENDONCA PRADO",
+          "party": "DEM",
+          "state": "SE",
+          "votes": 44263,
+          "pct": 0.186,
+          "auxVotes": 8235,
+          "canVotes": 24654
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "SE",
+          "votes": 10920,
+          "pct": 0.4592,
+          "auxVotes": 6082
+        },
+        {
+          "candidate": 2500,
+          "urnaName": "DORA SANTANA",
+          "party": "DEM",
+          "state": "SE",
+          "votes": 532,
+          "pct": 0.557,
+          "auxVotes": 296
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "SE",
+          "votes": 531,
+          "pct": 0.557,
+          "auxVotes": 296
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "PROFESSORA AVILETE",
+          "party": "PHS",
+          "state": "SE",
+          "votes": 494,
+          "pct": 0.557,
+          "auxVotes": 275
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "SE",
+          "votes": 2235,
+          "pct": 0.557,
+          "auxVotes": 1245
+        },
+        {
+          "candidate": 4343,
+          "urnaName": "TONHO LEITE",
+          "party": "PV",
+          "state": "SE",
+          "votes": 1014,
+          "pct": 0.557,
+          "auxVotes": 565
+        },
+        {
+          "candidate": 4344,
+          "urnaName": "MARIA LUCIA",
+          "party": "PV",
+          "state": "SE",
+          "votes": 608,
+          "pct": 0.557,
+          "auxVotes": 339
+        },
+        {
+          "candidate": 43,
+          "party": "PV",
+          "state": "SE",
+          "votes": 347,
+          "pct": 0.557,
+          "auxVotes": 193
+        },
+        {
+          "candidate": 4545,
+          "urnaName": "ADIERSON MONTEIRO",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 28237,
+          "pct": 0.2916,
+          "auxVotes": 8235,
+          "canVotes": 15728
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "DR.SAMUEL CARVALHO",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 5791,
+          "pct": 0.3145,
+          "auxVotes": 3226
+        },
+        {
+          "candidate": 4555,
+          "urnaName": "GRACE FRANCO",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 5135,
+          "pct": 0.3546,
+          "auxVotes": 2860
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 4774,
+          "pct": 0.3814,
+          "auxVotes": 2659
+        },
+        {
+          "candidate": 4500,
+          "urnaName": "ERICO MENEZES",
+          "party": "PSDB",
+          "state": "SE",
+          "votes": 3083,
+          "pct": 0.557,
+          "auxVotes": 1717
+        },
+        {
+          "candidate": 5110,
+          "urnaName": "JOINHA",
+          "party": "PEN",
+          "state": "SE",
+          "votes": 2503,
+          "pct": 0.557,
+          "auxVotes": 1394
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "SE",
+          "votes": 622,
+          "pct": 0.557,
+          "auxVotes": 346
+        },
+        {
+          "candidate": 5177,
+          "urnaName": "PASTORA GRACA",
+          "party": "PEN",
+          "state": "SE",
+          "votes": 161,
+          "pct": 0.557,
+          "auxVotes": 90
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "SE",
+          "votes": 659,
+          "pct": 0.557,
+          "auxVotes": 367
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "SE",
+          "votes": 999,
+          "pct": 0.557,
+          "auxVotes": 556
+        },
+        {
+          "candidate": 7700,
+          "urnaName": "AMERICO BARRETO",
+          "party": "SD",
+          "state": "SE",
+          "votes": 415,
+          "pct": 0.557,
+          "auxVotes": 231
+        }
+      ],
+      "needVotes": 60082,
+      "pctVotes": 0.557,
+      "realNeedVotes": 60082,
+      "realPctVotes": 0.557,
+      "totalVotes": 60082,
+      "voteEach": 1821
+    }
+  },
+  {
+    "candidate": 4040,
+    "fullName": "ANTONIO CARLOS VALADARES FILHO",
+    "urnaName": "VALADARES FILHO",
+    "party": "PSB",
+    "state": "SE",
+    "impeachment": true,
+    "votes": 68199,
+    "pct": 6.48,
+    "individual": false,
+    "quoc": 0.52,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PT",
+        "PDT",
+        "PSB",
+        "PMDB",
+        "PCdoB",
+        "PRP",
+        "PROS",
+        "PSD",
+        "PRB",
+        "PSDC"
+      ],
+      "others": [
+        {
+          "candidate": 1313,
+          "urnaName": "MARCIO MACEDO",
+          "party": "PT",
+          "state": "SE",
+          "votes": 40814,
+          "pct": 0.1977,
+          "auxVotes": 8110
+        },
+        {
+          "candidate": 1390,
+          "urnaName": "IRAN BARBOSA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 36966,
+          "pct": 0.153,
+          "auxVotes": 7345
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "SE",
+          "votes": 17578,
+          "pct": 0.0994,
+          "auxVotes": 3493
+        },
+        {
+          "candidate": 1330,
+          "urnaName": "DR EMERSON",
+          "party": "PT",
+          "state": "SE",
+          "votes": 9575,
+          "pct": 0.1826,
+          "auxVotes": 1903
+        },
+        {
+          "candidate": 1369,
+          "urnaName": "FATIMA ANDREA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 113,
+          "pct": 0.1987,
+          "auxVotes": 22
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2688,
+          "pct": 0.1987,
+          "auxVotes": 534
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "UCLESIO BARRETO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2250,
+          "pct": 0.1987,
+          "auxVotes": 447
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TITO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 1621,
+          "pct": 0.1987,
+          "auxVotes": 322
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "NEGUINHA",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 126,
+          "pct": 0.1987,
+          "auxVotes": 25
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "SE",
+          "votes": 3518,
+          "pct": 0.1987,
+          "auxVotes": 699
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 9662,
+          "pct": 0.1809,
+          "auxVotes": 1920
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "CORONEL JULIO CESAR",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 1569,
+          "pct": 0.1987,
+          "auxVotes": 312
+        },
+        {
+          "candidate": 1579,
+          "urnaName": "LARISSA",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 498,
+          "pct": 0.1987,
+          "auxVotes": 99
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "EDVALDO NOGUEIRA",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 36570,
+          "pct": 0.1546,
+          "auxVotes": 7266
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 1157,
+          "pct": 0.1987,
+          "auxVotes": 230
+        },
+        {
+          "candidate": 6599,
+          "urnaName": "VANESSA GOMES",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 13,
+          "pct": 0.1987,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "SE",
+          "votes": 1328,
+          "pct": 0.1987,
+          "auxVotes": 264
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "BOSCO COSTA",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 48050,
+          "pct": 0.1986,
+          "auxVotes": 9545,
+          "canVotes": 9548
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "LUCIA DE VADO",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 2149,
+          "pct": 0.1987,
+          "auxVotes": 427
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "SE",
+          "votes": 763,
+          "pct": 0.1987,
+          "auxVotes": 152
+        },
+        {
+          "candidate": 5566,
+          "urnaName": "BETAO DO POVO",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 5551,
+          "pct": 0.1987,
+          "auxVotes": 1103
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "SE",
+          "votes": 2561,
+          "pct": 0.1987,
+          "auxVotes": 509
+        },
+        {
+          "candidate": 5515,
+          "urnaName": "TO ESTRELA",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 1942,
+          "pct": 0.1987,
+          "auxVotes": 386
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "SE",
+          "votes": 1527,
+          "pct": 0.1987,
+          "auxVotes": 303
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "JOANA DARC",
+          "party": "PRB",
+          "state": "SE",
+          "votes": 85,
+          "pct": 0.1987,
+          "auxVotes": 17
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "SE",
+          "votes": 97,
+          "pct": 0.1987,
+          "auxVotes": 19
+        }
+      ],
+      "needVotes": 63406,
+      "pctVotes": 0.2772,
+      "realNeedVotes": 45455,
+      "realPctVotes": 0.1987,
+      "totalVotes": 45455,
+      "voteEach": 1748
+    }
+  },
+  {
+    "candidate": 1010,
+    "fullName": "JONY MARCOS DE SOUZA ARAÚJO",
+    "urnaName": "PASTOR JONY",
+    "party": "PRB",
+    "state": "SE",
+    "impeachment": true,
+    "votes": 53455,
+    "pct": 5.08,
+    "individual": false,
+    "quoc": 0.41,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PT",
+        "PDT",
+        "PSB",
+        "PMDB",
+        "PCdoB",
+        "PRP",
+        "PROS",
+        "PSD",
+        "PRB",
+        "PSDC"
+      ],
+      "others": [
+        {
+          "candidate": 1313,
+          "urnaName": "MARCIO MACEDO",
+          "party": "PT",
+          "state": "SE",
+          "votes": 40814,
+          "pct": 0.2436,
+          "auxVotes": 9995
+        },
+        {
+          "candidate": 1390,
+          "urnaName": "IRAN BARBOSA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 36966,
+          "pct": 0.1886,
+          "auxVotes": 9053
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "SE",
+          "votes": 17578,
+          "pct": 0.1226,
+          "auxVotes": 4305
+        },
+        {
+          "candidate": 1330,
+          "urnaName": "DR EMERSON",
+          "party": "PT",
+          "state": "SE",
+          "votes": 9575,
+          "pct": 0.2251,
+          "auxVotes": 2345
+        },
+        {
+          "candidate": 1369,
+          "urnaName": "FATIMA ANDREA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 113,
+          "pct": 0.2449,
+          "auxVotes": 28
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2688,
+          "pct": 0.2449,
+          "auxVotes": 658
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "UCLESIO BARRETO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2250,
+          "pct": 0.2449,
+          "auxVotes": 551
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TITO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 1621,
+          "pct": 0.2449,
+          "auxVotes": 397
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "NEGUINHA",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 126,
+          "pct": 0.2449,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "SE",
+          "votes": 3518,
+          "pct": 0.2449,
+          "auxVotes": 862
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 9662,
+          "pct": 0.223,
+          "auxVotes": 2366
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "CORONEL JULIO CESAR",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 1569,
+          "pct": 0.2449,
+          "auxVotes": 384
+        },
+        {
+          "candidate": 1579,
+          "urnaName": "LARISSA",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 498,
+          "pct": 0.2449,
+          "auxVotes": 122
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "EDVALDO NOGUEIRA",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 36570,
+          "pct": 0.1906,
+          "auxVotes": 8956
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 1157,
+          "pct": 0.2449,
+          "auxVotes": 283
+        },
+        {
+          "candidate": 6599,
+          "urnaName": "VANESSA GOMES",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 13,
+          "pct": 0.2449,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "SE",
+          "votes": 1328,
+          "pct": 0.2449,
+          "auxVotes": 325
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "BOSCO COSTA",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 48050,
+          "pct": 0.2265,
+          "auxVotes": 11767
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "LUCIA DE VADO",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 2149,
+          "pct": 0.2449,
+          "auxVotes": 526
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "SE",
+          "votes": 763,
+          "pct": 0.2449,
+          "auxVotes": 187
+        },
+        {
+          "candidate": 5566,
+          "urnaName": "BETAO DO POVO",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 5551,
+          "pct": 0.2449,
+          "auxVotes": 1359
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "SE",
+          "votes": 2561,
+          "pct": 0.2449,
+          "auxVotes": 627
+        },
+        {
+          "candidate": 5515,
+          "urnaName": "TO ESTRELA",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 1942,
+          "pct": 0.2449,
+          "auxVotes": 476
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "SE",
+          "votes": 1527,
+          "pct": 0.2449,
+          "auxVotes": 374
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "JOANA DARC",
+          "party": "PRB",
+          "state": "SE",
+          "votes": 85,
+          "pct": 0.2449,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "SE",
+          "votes": 97,
+          "pct": 0.2449,
+          "auxVotes": 24
+        }
+      ],
+      "needVotes": 78150,
+      "pctVotes": 0.3416,
+      "realNeedVotes": 56025,
+      "realPctVotes": 0.2449,
+      "totalVotes": 56025,
+      "voteEach": 2155
+    }
+  },
+  {
+    "candidate": 1311,
+    "fullName": "JOÃO SOMARIVA DANIEL",
+    "urnaName": "JOAO DANIEL",
+    "party": "PT",
+    "state": "SE",
+    "impeachment": false,
+    "votes": 52959,
+    "pct": 5.03,
+    "individual": false,
+    "quoc": 0.4,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PT",
+        "PDT",
+        "PSB",
+        "PMDB",
+        "PCdoB",
+        "PRP",
+        "PROS",
+        "PSD",
+        "PRB",
+        "PSDC"
+      ],
+      "others": [
+        {
+          "candidate": 1313,
+          "urnaName": "MARCIO MACEDO",
+          "party": "PT",
+          "state": "SE",
+          "votes": 40814,
+          "pct": 0.2451,
+          "auxVotes": 10061
+        },
+        {
+          "candidate": 1390,
+          "urnaName": "IRAN BARBOSA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 36966,
+          "pct": 0.1897,
+          "auxVotes": 9112
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "SE",
+          "votes": 17578,
+          "pct": 0.1234,
+          "auxVotes": 4333
+        },
+        {
+          "candidate": 1330,
+          "urnaName": "DR EMERSON",
+          "party": "PT",
+          "state": "SE",
+          "votes": 9575,
+          "pct": 0.2265,
+          "auxVotes": 2360
+        },
+        {
+          "candidate": 1369,
+          "urnaName": "FATIMA ANDREA",
+          "party": "PT",
+          "state": "SE",
+          "votes": 113,
+          "pct": 0.2465,
+          "auxVotes": 28
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2688,
+          "pct": 0.2465,
+          "auxVotes": 663
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "UCLESIO BARRETO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 2250,
+          "pct": 0.2465,
+          "auxVotes": 555
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TITO",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 1621,
+          "pct": 0.2465,
+          "auxVotes": 400
+        },
+        {
+          "candidate": 1211,
+          "urnaName": "NEGUINHA",
+          "party": "PDT",
+          "state": "SE",
+          "votes": 126,
+          "pct": 0.2465,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "SE",
+          "votes": 3518,
+          "pct": 0.2465,
+          "auxVotes": 867
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 9662,
+          "pct": 0.2245,
+          "auxVotes": 2382
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "CORONEL JULIO CESAR",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 1569,
+          "pct": 0.2465,
+          "auxVotes": 387
+        },
+        {
+          "candidate": 1579,
+          "urnaName": "LARISSA",
+          "party": "PMDB",
+          "state": "SE",
+          "votes": 498,
+          "pct": 0.2465,
+          "auxVotes": 123
+        },
+        {
+          "candidate": 6510,
+          "urnaName": "EDVALDO NOGUEIRA",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 36570,
+          "pct": 0.1918,
+          "auxVotes": 9015
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 1157,
+          "pct": 0.2465,
+          "auxVotes": 285
+        },
+        {
+          "candidate": 6599,
+          "urnaName": "VANESSA GOMES",
+          "party": "PCdoB",
+          "state": "SE",
+          "votes": 13,
+          "pct": 0.2465,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "SE",
+          "votes": 1328,
+          "pct": 0.2465,
+          "auxVotes": 327
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "BOSCO COSTA",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 48050,
+          "pct": 0.2462,
+          "auxVotes": 11832,
+          "canVotes": 11844
+        },
+        {
+          "candidate": 9013,
+          "urnaName": "LUCIA DE VADO",
+          "party": "PROS",
+          "state": "SE",
+          "votes": 2149,
+          "pct": 0.2465,
+          "auxVotes": 530
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "SE",
+          "votes": 763,
+          "pct": 0.2465,
+          "auxVotes": 188
+        },
+        {
+          "candidate": 5566,
+          "urnaName": "BETAO DO POVO",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 5551,
+          "pct": 0.2465,
+          "auxVotes": 1368
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "SE",
+          "votes": 2561,
+          "pct": 0.2465,
+          "auxVotes": 631
+        },
+        {
+          "candidate": 5515,
+          "urnaName": "TO ESTRELA",
+          "party": "PSD",
+          "state": "SE",
+          "votes": 1942,
+          "pct": 0.2465,
+          "auxVotes": 479
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "SE",
+          "votes": 1527,
+          "pct": 0.2465,
+          "auxVotes": 376
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "JOANA DARC",
+          "party": "PRB",
+          "state": "SE",
+          "votes": 85,
+          "pct": 0.2465,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "SE",
+          "votes": 97,
+          "pct": 0.2465,
+          "auxVotes": 24
+        }
+      ],
+      "needVotes": 78646,
+      "pctVotes": 0.3438,
+      "realNeedVotes": 56381,
+      "realPctVotes": 0.2465,
+      "totalVotes": 56381,
+      "voteEach": 2169
+    }
+  }
+]

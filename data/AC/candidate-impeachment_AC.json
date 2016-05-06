@@ -1,0 +1,2219 @@
+[
+  {
+    "candidate": 1314,
+    "fullName": "RAIMUNDO ANGELIM VASCONCELOS",
+    "urnaName": "ANGELIM",
+    "party": "PT",
+    "state": "AC",
+    "impeachment": false,
+    "votes": 39844,
+    "pct": 9.98,
+    "individual": false,
+    "quoc": 0.8,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PEN",
+        "PROS",
+        "PDT",
+        "PTB",
+        "PSL",
+        "PTN",
+        "PSDC",
+        "PHS",
+        "PSB",
+        "PRP",
+        "PPL",
+        "PRB",
+        "PCdoB"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "IDESIO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 9896,
+          "pct": 0.0618,
+          "auxVotes": 790
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "AC",
+          "votes": 5308,
+          "pct": 0.0384,
+          "auxVotes": 424
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "ROSE COSTA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1913,
+          "pct": 0.0798,
+          "auxVotes": 153
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "MAJOR ARAUJO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1025,
+          "pct": 0.0798,
+          "auxVotes": 82
+        },
+        {
+          "candidate": 1311,
+          "urnaName": "LENILDA DE SOUZA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 139,
+          "pct": 0.0798,
+          "auxVotes": 11
+        },
+        {
+          "candidate": 1365,
+          "urnaName": "AURINETE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 135,
+          "pct": 0.0798,
+          "auxVotes": 11
+        },
+        {
+          "candidate": 1377,
+          "urnaName": "CILENE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 103,
+          "pct": 0.0798,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 1399,
+          "urnaName": "RAIZZA CARDOSO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.0798,
+          "auxVotes": 0
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "AC",
+          "votes": 310,
+          "pct": 0.0798,
+          "auxVotes": 25
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROBERTO DA PRINCESINHA",
+          "party": "PROS",
+          "state": "AC",
+          "votes": 1994,
+          "pct": 0.0798,
+          "auxVotes": 159
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "AC",
+          "votes": 140,
+          "pct": 0.0798,
+          "auxVotes": 11
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TCHE",
+          "party": "PDT",
+          "state": "AC",
+          "votes": 11397,
+          "pct": 0.0537,
+          "auxVotes": 909
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "AC",
+          "votes": 1629,
+          "pct": 0.0798,
+          "auxVotes": 130
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "REGINA LINO",
+          "party": "PTB",
+          "state": "AC",
+          "votes": 3842,
+          "pct": 0.0531,
+          "auxVotes": 307
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "AC",
+          "votes": 415,
+          "pct": 0.0798,
+          "auxVotes": 33
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "AC",
+          "votes": 113,
+          "pct": 0.0798,
+          "auxVotes": 9
+        },
+        {
+          "candidate": 1733,
+          "urnaName": "MARILEIDE SERAFIM",
+          "party": "PSL",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.0798,
+          "auxVotes": 0
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "JUAREZ PEDROSA",
+          "party": "PTN",
+          "state": "AC",
+          "votes": 515,
+          "pct": 0.0798,
+          "auxVotes": 41
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "AC",
+          "votes": 333,
+          "pct": 0.0798,
+          "auxVotes": 27
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "AFONSO",
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 3343,
+          "pct": 0.061,
+          "auxVotes": 267
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.0798,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GRINGO SOSTER",
+          "party": "PHS",
+          "state": "AC",
+          "votes": 5871,
+          "pct": 0.0347,
+          "auxVotes": 469
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.0798,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "AC",
+          "votes": 1491,
+          "pct": 0.0798,
+          "auxVotes": 119
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "RAIMUNDO VAZ",
+          "party": "PRP",
+          "state": "AC",
+          "votes": 11229,
+          "pct": 0.0545,
+          "auxVotes": 896
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "AC",
+          "votes": 734,
+          "pct": 0.0798,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 5432,
+          "urnaName": "KENNY LOVE",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 254,
+          "pct": 0.0798,
+          "auxVotes": 20
+        },
+        {
+          "candidate": 5431,
+          "urnaName": "MARIO PEIXEIRO",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 237,
+          "pct": 0.0798,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 54,
+          "party": "PPL",
+          "state": "AC",
+          "votes": 202,
+          "pct": 0.0798,
+          "auxVotes": 16
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "AC",
+          "votes": 602,
+          "pct": 0.0798,
+          "auxVotes": 48
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "MOISES DINIZ",
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 13738,
+          "pct": 0.0796,
+          "auxVotes": 1094,
+          "canVotes": 1096
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 4371,
+          "pct": 0.0467,
+          "auxVotes": 349
+        }
+      ],
+      "needVotes": 10056,
+      "pctVotes": 0.1228,
+      "realNeedVotes": 6532,
+      "realPctVotes": 0.0798,
+      "totalVotes": 6532,
+      "voteEach": 204
+    }
+  },
+  {
+    "candidate": 4040,
+    "fullName": "CARLOS CESAR CORREIA DE MESSIAS",
+    "urnaName": "CESAR MESSIAS",
+    "party": "PSB",
+    "state": "AC",
+    "impeachment": false,
+    "votes": 26448,
+    "pct": 6.63,
+    "individual": false,
+    "quoc": 0.53,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PEN",
+        "PROS",
+        "PDT",
+        "PTB",
+        "PSL",
+        "PTN",
+        "PSDC",
+        "PHS",
+        "PSB",
+        "PRP",
+        "PPL",
+        "PRB",
+        "PCdoB"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "IDESIO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 9896,
+          "pct": 0.1441,
+          "auxVotes": 1842
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "AC",
+          "votes": 5308,
+          "pct": 0.0897,
+          "auxVotes": 988
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "ROSE COSTA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1913,
+          "pct": 0.1861,
+          "auxVotes": 356
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "MAJOR ARAUJO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1025,
+          "pct": 0.1861,
+          "auxVotes": 191
+        },
+        {
+          "candidate": 1311,
+          "urnaName": "LENILDA DE SOUZA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 139,
+          "pct": 0.1861,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 1365,
+          "urnaName": "AURINETE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 135,
+          "pct": 0.1861,
+          "auxVotes": 25
+        },
+        {
+          "candidate": 1377,
+          "urnaName": "CILENE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 103,
+          "pct": 0.1861,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 1399,
+          "urnaName": "RAIZZA CARDOSO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.1861,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "AC",
+          "votes": 310,
+          "pct": 0.1861,
+          "auxVotes": 58
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROBERTO DA PRINCESINHA",
+          "party": "PROS",
+          "state": "AC",
+          "votes": 1994,
+          "pct": 0.1861,
+          "auxVotes": 371
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "AC",
+          "votes": 140,
+          "pct": 0.1861,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TCHE",
+          "party": "PDT",
+          "state": "AC",
+          "votes": 11397,
+          "pct": 0.1251,
+          "auxVotes": 2121
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "AC",
+          "votes": 1629,
+          "pct": 0.1861,
+          "auxVotes": 303
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "REGINA LINO",
+          "party": "PTB",
+          "state": "AC",
+          "votes": 3842,
+          "pct": 0.1239,
+          "auxVotes": 715
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "AC",
+          "votes": 415,
+          "pct": 0.1861,
+          "auxVotes": 77
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "AC",
+          "votes": 113,
+          "pct": 0.1861,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 1733,
+          "urnaName": "MARILEIDE SERAFIM",
+          "party": "PSL",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.1861,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "JUAREZ PEDROSA",
+          "party": "PTN",
+          "state": "AC",
+          "votes": 515,
+          "pct": 0.1861,
+          "auxVotes": 96
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "AC",
+          "votes": 333,
+          "pct": 0.1861,
+          "auxVotes": 62
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "AFONSO",
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 3343,
+          "pct": 0.1424,
+          "auxVotes": 622
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.1861,
+          "auxVotes": 54
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GRINGO SOSTER",
+          "party": "PHS",
+          "state": "AC",
+          "votes": 5871,
+          "pct": 0.0811,
+          "auxVotes": 1093
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.1861,
+          "auxVotes": 54
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "AC",
+          "votes": 1491,
+          "pct": 0.1861,
+          "auxVotes": 277
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "RAIMUNDO VAZ",
+          "party": "PRP",
+          "state": "AC",
+          "votes": 11229,
+          "pct": 0.127,
+          "auxVotes": 2090
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "AC",
+          "votes": 734,
+          "pct": 0.1861,
+          "auxVotes": 137
+        },
+        {
+          "candidate": 5432,
+          "urnaName": "KENNY LOVE",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 254,
+          "pct": 0.1861,
+          "auxVotes": 47
+        },
+        {
+          "candidate": 5431,
+          "urnaName": "MARIO PEIXEIRO",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 237,
+          "pct": 0.1861,
+          "auxVotes": 44
+        },
+        {
+          "candidate": 54,
+          "party": "PPL",
+          "state": "AC",
+          "votes": 202,
+          "pct": 0.1861,
+          "auxVotes": 38
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "AC",
+          "votes": 602,
+          "pct": 0.1861,
+          "auxVotes": 112
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "MOISES DINIZ",
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 13738,
+          "pct": 0.1859,
+          "auxVotes": 2554,
+          "canVotes": 2557
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 4371,
+          "pct": 0.1089,
+          "auxVotes": 813
+        }
+      ],
+      "needVotes": 23452,
+      "pctVotes": 0.2865,
+      "realNeedVotes": 15234,
+      "realPctVotes": 0.1861,
+      "totalVotes": 15234,
+      "voteEach": 476
+    }
+  },
+  {
+    "candidate": 4545,
+    "fullName": "WHERLES FERNANDES DA ROCHA",
+    "urnaName": "MAJOR ROCHA",
+    "party": "PSDB",
+    "state": "AC",
+    "impeachment": true,
+    "votes": 23466,
+    "pct": 5.88,
+    "individual": false,
+    "quoc": 0.47,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PP",
+        "PMDB",
+        "PSC",
+        "PR",
+        "PPS",
+        "PTC",
+        "PSDB",
+        "PSD",
+        "PTdoB",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1144,
+          "urnaName": "VANDA MILANI",
+          "party": "PP",
+          "state": "AC",
+          "votes": 13610,
+          "pct": 0.1278,
+          "auxVotes": 1740,
+          "canVotes": 6208
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "NETO RIBEIRO",
+          "party": "PP",
+          "state": "AC",
+          "votes": 6707,
+          "pct": 0.2594,
+          "auxVotes": 1740,
+          "canVotes": 3059
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "AC",
+          "votes": 5299,
+          "pct": 0.3284,
+          "auxVotes": 1740,
+          "canVotes": 2417
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "LEILANE RIBEIRO",
+          "party": "PP",
+          "state": "AC",
+          "votes": 2866,
+          "pct": 0.2976,
+          "auxVotes": 1307
+        },
+        {
+          "candidate": 1123,
+          "urnaName": "DR. RIBAMAR",
+          "party": "PP",
+          "state": "AC",
+          "votes": 2354,
+          "pct": 0.3624,
+          "auxVotes": 1074
+        },
+        {
+          "candidate": 1101,
+          "urnaName": "PENINHA",
+          "party": "PP",
+          "state": "AC",
+          "votes": 206,
+          "pct": 0.4561,
+          "auxVotes": 94
+        },
+        {
+          "candidate": 1112,
+          "urnaName": "RONIVON SANTIAGO",
+          "party": "PP",
+          "state": "AC",
+          "votes": 186,
+          "pct": 0.4561,
+          "auxVotes": 85
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "FAGNER SALES",
+          "party": "PMDB",
+          "state": "AC",
+          "votes": 20339,
+          "pct": 0.0855,
+          "auxVotes": 1740,
+          "canVotes": 9277
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "AC",
+          "votes": 1040,
+          "pct": 0.4561,
+          "auxVotes": 474
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "ANTONIA LUCIA",
+          "party": "PSC",
+          "state": "AC",
+          "votes": 12126,
+          "pct": 0.1435,
+          "auxVotes": 1740,
+          "canVotes": 5531
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "AC",
+          "votes": 195,
+          "pct": 0.4561,
+          "auxVotes": 89
+        },
+        {
+          "candidate": 2222,
+          "urnaName": "ILDERLEI CORDEIRO",
+          "party": "PR",
+          "state": "AC",
+          "votes": 13431,
+          "pct": 0.1296,
+          "auxVotes": 1740,
+          "canVotes": 6126
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "AC",
+          "votes": 522,
+          "pct": 0.4561,
+          "auxVotes": 238
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "CORONEL DEODATO",
+          "party": "PPS",
+          "state": "AC",
+          "votes": 3487,
+          "pct": 0.2446,
+          "auxVotes": 1590
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "AC",
+          "votes": 238,
+          "pct": 0.4561,
+          "auxVotes": 109
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "AC",
+          "votes": 94,
+          "pct": 0.4561,
+          "auxVotes": 43
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "DR. EDSON",
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 4518,
+          "pct": 0.3851,
+          "auxVotes": 1740,
+          "canVotes": 2061
+        },
+        {
+          "candidate": 4500,
+          "urnaName": "ZE VIEIRA",
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 4104,
+          "pct": 0.424,
+          "auxVotes": 1740,
+          "canVotes": 1872
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 3629,
+          "pct": 0.4533,
+          "auxVotes": 1655
+        },
+        {
+          "candidate": 4510,
+          "urnaName": "FRANCISCO NAZARENO",
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 924,
+          "pct": 0.4561,
+          "auxVotes": 421
+        },
+        {
+          "candidate": 4554,
+          "urnaName": "LUIZETE",
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 227,
+          "pct": 0.4561,
+          "auxVotes": 104
+        },
+        {
+          "candidate": 5533,
+          "urnaName": "MARFISA",
+          "party": "PSD",
+          "state": "AC",
+          "votes": 17300,
+          "pct": 0.1006,
+          "auxVotes": 1740,
+          "canVotes": 7891
+        },
+        {
+          "candidate": 5524,
+          "urnaName": "RUY BIRICO",
+          "party": "PSD",
+          "state": "AC",
+          "votes": 956,
+          "pct": 0.4561,
+          "auxVotes": 436
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "AC",
+          "votes": 583,
+          "pct": 0.4561,
+          "auxVotes": 266
+        },
+        {
+          "candidate": 5500,
+          "urnaName": "MARIAZINHA",
+          "party": "PSD",
+          "state": "AC",
+          "votes": 245,
+          "pct": 0.4561,
+          "auxVotes": 112
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ZE AUGUSTO",
+          "party": "PSD",
+          "state": "AC",
+          "votes": 205,
+          "pct": 0.4561,
+          "auxVotes": 94
+        },
+        {
+          "candidate": 7070,
+          "urnaName": "FRANCISCO",
+          "party": "PTdoB",
+          "state": "AC",
+          "votes": 1154,
+          "pct": 0.4561,
+          "auxVotes": 526
+        },
+        {
+          "candidate": 7088,
+          "urnaName": "MIRACY",
+          "party": "PTdoB",
+          "state": "AC",
+          "votes": 345,
+          "pct": 0.4561,
+          "auxVotes": 157
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "AC",
+          "votes": 56,
+          "pct": 0.4561,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "LUIZ ANUTE",
+          "party": "SD",
+          "state": "AC",
+          "votes": 4717,
+          "pct": 0.3689,
+          "auxVotes": 1740,
+          "canVotes": 2151
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "AC",
+          "votes": 299,
+          "pct": 0.4561,
+          "auxVotes": 136
+        }
+      ],
+      "needVotes": 26434,
+      "pctVotes": 0.4561,
+      "realNeedVotes": 26434,
+      "realPctVotes": 0.4561,
+      "totalVotes": 26436,
+      "voteEach": 853
+    }
+  },
+  {
+    "candidate": 1331,
+    "fullName": "LEONARDO CUNHA DE BRITO",
+    "urnaName": "LEO DO PT",
+    "party": "PT",
+    "state": "AC",
+    "impeachment": false,
+    "votes": 20876,
+    "pct": 5.23,
+    "individual": false,
+    "quoc": 0.42,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PEN",
+        "PROS",
+        "PDT",
+        "PTB",
+        "PSL",
+        "PTN",
+        "PSDC",
+        "PHS",
+        "PSB",
+        "PRP",
+        "PPL",
+        "PRB",
+        "PCdoB"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "IDESIO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 9896,
+          "pct": 0.1784,
+          "auxVotes": 2279
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "AC",
+          "votes": 5308,
+          "pct": 0.111,
+          "auxVotes": 1222
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "ROSE COSTA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1913,
+          "pct": 0.2303,
+          "auxVotes": 441
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "MAJOR ARAUJO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1025,
+          "pct": 0.2303,
+          "auxVotes": 236
+        },
+        {
+          "candidate": 1311,
+          "urnaName": "LENILDA DE SOUZA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 139,
+          "pct": 0.2303,
+          "auxVotes": 32
+        },
+        {
+          "candidate": 1365,
+          "urnaName": "AURINETE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 135,
+          "pct": 0.2303,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 1377,
+          "urnaName": "CILENE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 103,
+          "pct": 0.2303,
+          "auxVotes": 24
+        },
+        {
+          "candidate": 1399,
+          "urnaName": "RAIZZA CARDOSO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.2303,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "AC",
+          "votes": 310,
+          "pct": 0.2303,
+          "auxVotes": 71
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROBERTO DA PRINCESINHA",
+          "party": "PROS",
+          "state": "AC",
+          "votes": 1994,
+          "pct": 0.2303,
+          "auxVotes": 459
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "AC",
+          "votes": 140,
+          "pct": 0.2303,
+          "auxVotes": 32
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TCHE",
+          "party": "PDT",
+          "state": "AC",
+          "votes": 11397,
+          "pct": 0.1549,
+          "auxVotes": 2625
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "AC",
+          "votes": 1629,
+          "pct": 0.2303,
+          "auxVotes": 375
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "REGINA LINO",
+          "party": "PTB",
+          "state": "AC",
+          "votes": 3842,
+          "pct": 0.1533,
+          "auxVotes": 885
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "AC",
+          "votes": 415,
+          "pct": 0.2303,
+          "auxVotes": 96
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "AC",
+          "votes": 113,
+          "pct": 0.2303,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 1733,
+          "urnaName": "MARILEIDE SERAFIM",
+          "party": "PSL",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.2303,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "JUAREZ PEDROSA",
+          "party": "PTN",
+          "state": "AC",
+          "votes": 515,
+          "pct": 0.2303,
+          "auxVotes": 119
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "AC",
+          "votes": 333,
+          "pct": 0.2303,
+          "auxVotes": 77
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "AFONSO",
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 3343,
+          "pct": 0.1762,
+          "auxVotes": 770
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.2303,
+          "auxVotes": 67
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GRINGO SOSTER",
+          "party": "PHS",
+          "state": "AC",
+          "votes": 5871,
+          "pct": 0.1003,
+          "auxVotes": 1352
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.2303,
+          "auxVotes": 67
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "AC",
+          "votes": 1491,
+          "pct": 0.2303,
+          "auxVotes": 343
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "RAIMUNDO VAZ",
+          "party": "PRP",
+          "state": "AC",
+          "votes": 11229,
+          "pct": 0.1572,
+          "auxVotes": 2586
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "AC",
+          "votes": 734,
+          "pct": 0.2303,
+          "auxVotes": 169
+        },
+        {
+          "candidate": 5432,
+          "urnaName": "KENNY LOVE",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 254,
+          "pct": 0.2303,
+          "auxVotes": 58
+        },
+        {
+          "candidate": 5431,
+          "urnaName": "MARIO PEIXEIRO",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 237,
+          "pct": 0.2303,
+          "auxVotes": 55
+        },
+        {
+          "candidate": 54,
+          "party": "PPL",
+          "state": "AC",
+          "votes": 202,
+          "pct": 0.2303,
+          "auxVotes": 47
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "AC",
+          "votes": 602,
+          "pct": 0.2303,
+          "auxVotes": 139
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "MOISES DINIZ",
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 13738,
+          "pct": 0.2301,
+          "auxVotes": 3161,
+          "canVotes": 3164
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 4371,
+          "pct": 0.1348,
+          "auxVotes": 1007
+        }
+      ],
+      "needVotes": 29024,
+      "pctVotes": 0.3545,
+      "realNeedVotes": 18853,
+      "realPctVotes": 0.2303,
+      "totalVotes": 18853,
+      "voteEach": 589
+    }
+  },
+  {
+    "candidate": 1313,
+    "fullName": "SEBASTIÃO SIBÁ MACHADO OLIVEIRA",
+    "urnaName": "SIBA MACHADO",
+    "party": "PT",
+    "state": "AC",
+    "impeachment": false,
+    "votes": 18395,
+    "pct": 4.61,
+    "individual": false,
+    "quoc": 0.37,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PEN",
+        "PROS",
+        "PDT",
+        "PTB",
+        "PSL",
+        "PTN",
+        "PSDC",
+        "PHS",
+        "PSB",
+        "PRP",
+        "PPL",
+        "PRB",
+        "PCdoB"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "IDESIO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 9896,
+          "pct": 0.1937,
+          "auxVotes": 2473
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "AC",
+          "votes": 5308,
+          "pct": 0.1206,
+          "auxVotes": 1326
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "ROSE COSTA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1913,
+          "pct": 0.2499,
+          "auxVotes": 478
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "MAJOR ARAUJO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1025,
+          "pct": 0.2499,
+          "auxVotes": 256
+        },
+        {
+          "candidate": 1311,
+          "urnaName": "LENILDA DE SOUZA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 139,
+          "pct": 0.2499,
+          "auxVotes": 35
+        },
+        {
+          "candidate": 1365,
+          "urnaName": "AURINETE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 135,
+          "pct": 0.2499,
+          "auxVotes": 34
+        },
+        {
+          "candidate": 1377,
+          "urnaName": "CILENE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 103,
+          "pct": 0.2499,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 1399,
+          "urnaName": "RAIZZA CARDOSO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.2499,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "AC",
+          "votes": 310,
+          "pct": 0.2499,
+          "auxVotes": 77
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROBERTO DA PRINCESINHA",
+          "party": "PROS",
+          "state": "AC",
+          "votes": 1994,
+          "pct": 0.2499,
+          "auxVotes": 498
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "AC",
+          "votes": 140,
+          "pct": 0.2499,
+          "auxVotes": 35
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TCHE",
+          "party": "PDT",
+          "state": "AC",
+          "votes": 11397,
+          "pct": 0.1682,
+          "auxVotes": 2848
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "AC",
+          "votes": 1629,
+          "pct": 0.2499,
+          "auxVotes": 407
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "REGINA LINO",
+          "party": "PTB",
+          "state": "AC",
+          "votes": 3842,
+          "pct": 0.1666,
+          "auxVotes": 960
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "AC",
+          "votes": 415,
+          "pct": 0.2499,
+          "auxVotes": 104
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "AC",
+          "votes": 113,
+          "pct": 0.2499,
+          "auxVotes": 28
+        },
+        {
+          "candidate": 1733,
+          "urnaName": "MARILEIDE SERAFIM",
+          "party": "PSL",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.2499,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "JUAREZ PEDROSA",
+          "party": "PTN",
+          "state": "AC",
+          "votes": 515,
+          "pct": 0.2499,
+          "auxVotes": 129
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "AC",
+          "votes": 333,
+          "pct": 0.2499,
+          "auxVotes": 83
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "AFONSO",
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 3343,
+          "pct": 0.1914,
+          "auxVotes": 835
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.2499,
+          "auxVotes": 72
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GRINGO SOSTER",
+          "party": "PHS",
+          "state": "AC",
+          "votes": 5871,
+          "pct": 0.109,
+          "auxVotes": 1467
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.2499,
+          "auxVotes": 72
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "AC",
+          "votes": 1491,
+          "pct": 0.2499,
+          "auxVotes": 373
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "RAIMUNDO VAZ",
+          "party": "PRP",
+          "state": "AC",
+          "votes": 11229,
+          "pct": 0.1707,
+          "auxVotes": 2806
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "AC",
+          "votes": 734,
+          "pct": 0.2499,
+          "auxVotes": 183
+        },
+        {
+          "candidate": 5432,
+          "urnaName": "KENNY LOVE",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 254,
+          "pct": 0.2499,
+          "auxVotes": 63
+        },
+        {
+          "candidate": 5431,
+          "urnaName": "MARIO PEIXEIRO",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 237,
+          "pct": 0.2499,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 54,
+          "party": "PPL",
+          "state": "AC",
+          "votes": 202,
+          "pct": 0.2499,
+          "auxVotes": 50
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "AC",
+          "votes": 602,
+          "pct": 0.2499,
+          "auxVotes": 150
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "MOISES DINIZ",
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 13738,
+          "pct": 0.2106,
+          "auxVotes": 3433
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 4371,
+          "pct": 0.1464,
+          "auxVotes": 1092
+        }
+      ],
+      "needVotes": 31505,
+      "pctVotes": 0.3848,
+      "realNeedVotes": 20464,
+      "realPctVotes": 0.2499,
+      "totalVotes": 20454,
+      "voteEach": 640
+    }
+  },
+  {
+    "candidate": 1555,
+    "fullName": "FLAVIANO FLÁVIO BAPTISTA DE MELO",
+    "urnaName": "FLAVIANO MELO",
+    "party": "PMDB",
+    "state": "AC",
+    "impeachment": true,
+    "votes": 18372,
+    "pct": 4.6,
+    "individual": false,
+    "quoc": 0.37,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PP",
+        "PMDB",
+        "PSC",
+        "PR",
+        "PPS",
+        "PTC",
+        "PSDB",
+        "PSD",
+        "PTdoB",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1144,
+          "urnaName": "VANDA MILANI",
+          "party": "PP",
+          "state": "AC",
+          "votes": 13610,
+          "pct": 0.1525,
+          "auxVotes": 2076,
+          "canVotes": 7402
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "NETO RIBEIRO",
+          "party": "PP",
+          "state": "AC",
+          "votes": 6707,
+          "pct": 0.3095,
+          "auxVotes": 2076,
+          "canVotes": 3648
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "AC",
+          "votes": 5299,
+          "pct": 0.3918,
+          "auxVotes": 2076,
+          "canVotes": 2882
+        },
+        {
+          "candidate": 1111,
+          "urnaName": "LEILANE RIBEIRO",
+          "party": "PP",
+          "state": "AC",
+          "votes": 2866,
+          "pct": 0.3548,
+          "auxVotes": 1559
+        },
+        {
+          "candidate": 1123,
+          "urnaName": "DR. RIBAMAR",
+          "party": "PP",
+          "state": "AC",
+          "votes": 2354,
+          "pct": 0.432,
+          "auxVotes": 1280
+        },
+        {
+          "candidate": 1101,
+          "urnaName": "PENINHA",
+          "party": "PP",
+          "state": "AC",
+          "votes": 206,
+          "pct": 0.5439,
+          "auxVotes": 112
+        },
+        {
+          "candidate": 1112,
+          "urnaName": "RONIVON SANTIAGO",
+          "party": "PP",
+          "state": "AC",
+          "votes": 186,
+          "pct": 0.5439,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "FAGNER SALES",
+          "party": "PMDB",
+          "state": "AC",
+          "votes": 20339,
+          "pct": 0.102,
+          "auxVotes": 2075,
+          "canVotes": 11062
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "AC",
+          "votes": 1040,
+          "pct": 0.5439,
+          "auxVotes": 566
+        },
+        {
+          "candidate": 2020,
+          "urnaName": "ANTONIA LUCIA",
+          "party": "PSC",
+          "state": "AC",
+          "votes": 12126,
+          "pct": 0.1711,
+          "auxVotes": 2075,
+          "canVotes": 6595
+        },
+        {
+          "candidate": 20,
+          "party": "PSC",
+          "state": "AC",
+          "votes": 195,
+          "pct": 0.5439,
+          "auxVotes": 106
+        },
+        {
+          "candidate": 2222,
+          "urnaName": "ILDERLEI CORDEIRO",
+          "party": "PR",
+          "state": "AC",
+          "votes": 13431,
+          "pct": 0.1545,
+          "auxVotes": 2075,
+          "canVotes": 7305
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "AC",
+          "votes": 522,
+          "pct": 0.5439,
+          "auxVotes": 284
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "CORONEL DEODATO",
+          "party": "PPS",
+          "state": "AC",
+          "votes": 3487,
+          "pct": 0.2917,
+          "auxVotes": 1897
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "AC",
+          "votes": 238,
+          "pct": 0.5439,
+          "auxVotes": 129
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "AC",
+          "votes": 94,
+          "pct": 0.5439,
+          "auxVotes": 51
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "DR. EDSON",
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 4518,
+          "pct": 0.4593,
+          "auxVotes": 2075,
+          "canVotes": 2457
+        },
+        {
+          "candidate": 4500,
+          "urnaName": "ZE VIEIRA",
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 4104,
+          "pct": 0.5056,
+          "auxVotes": 2075,
+          "canVotes": 2232
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 3629,
+          "pct": 0.5406,
+          "auxVotes": 1974
+        },
+        {
+          "candidate": 4510,
+          "urnaName": "FRANCISCO NAZARENO",
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 924,
+          "pct": 0.5439,
+          "auxVotes": 503
+        },
+        {
+          "candidate": 4554,
+          "urnaName": "LUIZETE",
+          "party": "PSDB",
+          "state": "AC",
+          "votes": 227,
+          "pct": 0.5439,
+          "auxVotes": 123
+        },
+        {
+          "candidate": 5533,
+          "urnaName": "MARFISA",
+          "party": "PSD",
+          "state": "AC",
+          "votes": 17300,
+          "pct": 0.1199,
+          "auxVotes": 2075,
+          "canVotes": 9409
+        },
+        {
+          "candidate": 5524,
+          "urnaName": "RUY BIRICO",
+          "party": "PSD",
+          "state": "AC",
+          "votes": 956,
+          "pct": 0.5439,
+          "auxVotes": 520
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "AC",
+          "votes": 583,
+          "pct": 0.5439,
+          "auxVotes": 317
+        },
+        {
+          "candidate": 5500,
+          "urnaName": "MARIAZINHA",
+          "party": "PSD",
+          "state": "AC",
+          "votes": 245,
+          "pct": 0.5439,
+          "auxVotes": 133
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "ZE AUGUSTO",
+          "party": "PSD",
+          "state": "AC",
+          "votes": 205,
+          "pct": 0.5439,
+          "auxVotes": 111
+        },
+        {
+          "candidate": 7070,
+          "urnaName": "FRANCISCO",
+          "party": "PTdoB",
+          "state": "AC",
+          "votes": 1154,
+          "pct": 0.5439,
+          "auxVotes": 628
+        },
+        {
+          "candidate": 7088,
+          "urnaName": "MIRACY",
+          "party": "PTdoB",
+          "state": "AC",
+          "votes": 345,
+          "pct": 0.5439,
+          "auxVotes": 188
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "AC",
+          "votes": 56,
+          "pct": 0.5439,
+          "auxVotes": 30
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "LUIZ ANUTE",
+          "party": "SD",
+          "state": "AC",
+          "votes": 4717,
+          "pct": 0.4399,
+          "auxVotes": 2075,
+          "canVotes": 2566
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "AC",
+          "votes": 299,
+          "pct": 0.5439,
+          "auxVotes": 163
+        }
+      ],
+      "needVotes": 31528,
+      "pctVotes": 0.5439,
+      "realNeedVotes": 31528,
+      "realPctVotes": 0.5439,
+      "totalVotes": 31528,
+      "voteEach": 1017
+    }
+  },
+  {
+    "candidate": 1012,
+    "fullName": "ALAN RICK MIRANDA",
+    "urnaName": "ALAN RICK",
+    "party": "PRB",
+    "state": "AC",
+    "impeachment": true,
+    "votes": 17903,
+    "pct": 4.48,
+    "individual": false,
+    "quoc": 0.36,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PEN",
+        "PROS",
+        "PDT",
+        "PTB",
+        "PSL",
+        "PTN",
+        "PSDC",
+        "PHS",
+        "PSB",
+        "PRP",
+        "PPL",
+        "PRB",
+        "PCdoB"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "IDESIO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 9896,
+          "pct": 0.1967,
+          "auxVotes": 2512
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "AC",
+          "votes": 5308,
+          "pct": 0.1225,
+          "auxVotes": 1347
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "ROSE COSTA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1913,
+          "pct": 0.2538,
+          "auxVotes": 486
+        },
+        {
+          "candidate": 1310,
+          "urnaName": "MAJOR ARAUJO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 1025,
+          "pct": 0.2538,
+          "auxVotes": 260
+        },
+        {
+          "candidate": 1311,
+          "urnaName": "LENILDA DE SOUZA",
+          "party": "PT",
+          "state": "AC",
+          "votes": 139,
+          "pct": 0.2538,
+          "auxVotes": 35
+        },
+        {
+          "candidate": 1365,
+          "urnaName": "AURINETE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 135,
+          "pct": 0.2538,
+          "auxVotes": 34
+        },
+        {
+          "candidate": 1377,
+          "urnaName": "CILENE",
+          "party": "PT",
+          "state": "AC",
+          "votes": 103,
+          "pct": 0.2538,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 1399,
+          "urnaName": "RAIZZA CARDOSO",
+          "party": "PT",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.2538,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 51,
+          "party": "PEN",
+          "state": "AC",
+          "votes": 310,
+          "pct": 0.2538,
+          "auxVotes": 79
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROBERTO DA PRINCESINHA",
+          "party": "PROS",
+          "state": "AC",
+          "votes": 1994,
+          "pct": 0.2538,
+          "auxVotes": 506
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "AC",
+          "votes": 140,
+          "pct": 0.2538,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "TCHE",
+          "party": "PDT",
+          "state": "AC",
+          "votes": 11397,
+          "pct": 0.1708,
+          "auxVotes": 2893
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "AC",
+          "votes": 1629,
+          "pct": 0.2538,
+          "auxVotes": 413
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "REGINA LINO",
+          "party": "PTB",
+          "state": "AC",
+          "votes": 3842,
+          "pct": 0.1692,
+          "auxVotes": 975
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "AC",
+          "votes": 415,
+          "pct": 0.2538,
+          "auxVotes": 105
+        },
+        {
+          "candidate": 17,
+          "party": "PSL",
+          "state": "AC",
+          "votes": 113,
+          "pct": 0.2538,
+          "auxVotes": 29
+        },
+        {
+          "candidate": 1733,
+          "urnaName": "MARILEIDE SERAFIM",
+          "party": "PSL",
+          "state": "AC",
+          "votes": 5,
+          "pct": 0.2538,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "JUAREZ PEDROSA",
+          "party": "PTN",
+          "state": "AC",
+          "votes": 515,
+          "pct": 0.2538,
+          "auxVotes": 131
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "AC",
+          "votes": 333,
+          "pct": 0.2538,
+          "auxVotes": 85
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "AFONSO",
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 3343,
+          "pct": 0.1944,
+          "auxVotes": 848
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.2538,
+          "auxVotes": 73
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GRINGO SOSTER",
+          "party": "PHS",
+          "state": "AC",
+          "votes": 5871,
+          "pct": 0.1107,
+          "auxVotes": 1490
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "AC",
+          "votes": 289,
+          "pct": 0.2538,
+          "auxVotes": 73
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "AC",
+          "votes": 1491,
+          "pct": 0.2538,
+          "auxVotes": 378
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "RAIMUNDO VAZ",
+          "party": "PRP",
+          "state": "AC",
+          "votes": 11229,
+          "pct": 0.1734,
+          "auxVotes": 2850
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "AC",
+          "votes": 734,
+          "pct": 0.2538,
+          "auxVotes": 186
+        },
+        {
+          "candidate": 5432,
+          "urnaName": "KENNY LOVE",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 254,
+          "pct": 0.2538,
+          "auxVotes": 64
+        },
+        {
+          "candidate": 5431,
+          "urnaName": "MARIO PEIXEIRO",
+          "party": "PPL",
+          "state": "AC",
+          "votes": 237,
+          "pct": 0.2538,
+          "auxVotes": 60
+        },
+        {
+          "candidate": 54,
+          "party": "PPL",
+          "state": "AC",
+          "votes": 202,
+          "pct": 0.2538,
+          "auxVotes": 51
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "AC",
+          "votes": 602,
+          "pct": 0.2538,
+          "auxVotes": 153
+        },
+        {
+          "candidate": 6513,
+          "urnaName": "MOISES DINIZ",
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 13738,
+          "pct": 0.2139,
+          "auxVotes": 3487
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "AC",
+          "votes": 4371,
+          "pct": 0.1487,
+          "auxVotes": 1109
+        }
+      ],
+      "needVotes": 31997,
+      "pctVotes": 0.3908,
+      "realNeedVotes": 20784,
+      "realPctVotes": 0.2538,
+      "totalVotes": 20776,
+      "voteEach": 650
+    }
+  }
+]

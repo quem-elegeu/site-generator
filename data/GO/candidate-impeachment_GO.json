@@ -1,0 +1,4547 @@
+[
+  {
+    "candidate": 4500,
+    "fullName": "WALDIR SOARES DE OLIVEIRA",
+    "urnaName": "DELEGADO WALDIR",
+    "party": "PSDB",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 274625,
+    "pct": 9.04,
+    "individual": true,
+    "quoc": 1.54,
+    "status": {
+      "individual": "winner",
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": []
+    }
+  },
+  {
+    "candidate": 1510,
+    "fullName": "DANIEL ELIAS CARVALHO VILELA",
+    "urnaName": "DANIEL VILELA",
+    "party": "PMDB",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 179214,
+    "pct": 5.9,
+    "individual": true,
+    "quoc": 1,
+    "status": {
+      "individual": "winner",
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "DEM",
+        "SD",
+        "PCdoB",
+        "PRTB",
+        "PTN",
+        "PPL"
+      ],
+      "others": []
+    }
+  },
+  {
+    "candidate": 1212,
+    "fullName": "FLAVIA CARREIRO ALBUQUERQUE MORAIS",
+    "urnaName": "FLAVIA MORAIS",
+    "party": "PDT",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 159122,
+    "pct": 5.24,
+    "individual": false,
+    "quoc": 0.89,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.0195,
+          "auxVotes": 2091
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.009,
+          "auxVotes": 973
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.0091,
+          "auxVotes": 963
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.02,
+          "auxVotes": 437
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.0218,
+          "auxVotes": 120
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.0218,
+          "auxVotes": 93
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.0218,
+          "auxVotes": 32
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.0218,
+          "auxVotes": 14
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.0218,
+          "auxVotes": 10
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.0218,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.0218,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.0218,
+          "auxVotes": 4
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.0218,
+          "auxVotes": 1635
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.0218,
+          "auxVotes": 194
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.0218,
+          "auxVotes": 20
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.0218,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.0218,
+          "auxVotes": 85
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0161,
+          "auxVotes": 1566
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0179,
+          "auxVotes": 488
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.0218,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0157,
+          "auxVotes": 557
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.0218,
+          "auxVotes": 130
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.0218,
+          "auxVotes": 11
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.0218,
+          "auxVotes": 5
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.0218,
+          "auxVotes": 259
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.0218,
+          "auxVotes": 54
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.0159,
+          "auxVotes": 1587
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.0218,
+          "auxVotes": 30
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.0218,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.0218,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.0198,
+          "auxVotes": 1275
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.0218,
+          "auxVotes": 110
+        }
+      ],
+      "needVotes": 19583,
+      "pctVotes": 0.0334,
+      "realNeedVotes": 12806,
+      "realPctVotes": 0.0218,
+      "totalVotes": 12792,
+      "voteEach": 400
+    }
+  },
+  {
+    "candidate": 4545,
+    "fullName": "GIUSEPPE VECCI",
+    "urnaName": "GIUSEPPE VECCI",
+    "party": "PSDB",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 120283,
+    "pct": 3.96,
+    "individual": false,
+    "quoc": 0.67,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.0581,
+          "auxVotes": 6244
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0267,
+          "auxVotes": 2907
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.027,
+          "auxVotes": 2876
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.0596,
+          "auxVotes": 1304
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.0651,
+          "auxVotes": 358
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.0651,
+          "auxVotes": 278
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.0651,
+          "auxVotes": 94
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.0651,
+          "auxVotes": 43
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.0651,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.0651,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.0651,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.0651,
+          "auxVotes": 12
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.065,
+          "auxVotes": 4881
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.0651,
+          "auxVotes": 579
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.0651,
+          "auxVotes": 59
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.0651,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.0651,
+          "auxVotes": 252
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0481,
+          "auxVotes": 4676
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0533,
+          "auxVotes": 1458
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.0651,
+          "auxVotes": 56
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0468,
+          "auxVotes": 1662
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.0651,
+          "auxVotes": 387
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.0651,
+          "auxVotes": 34
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.0651,
+          "auxVotes": 14
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.0651,
+          "auxVotes": 775
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.0651,
+          "auxVotes": 162
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.0475,
+          "auxVotes": 4738
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.0651,
+          "auxVotes": 89
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.0651,
+          "auxVotes": 25
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.0651,
+          "auxVotes": 5
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.0591,
+          "auxVotes": 3806
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.0651,
+          "auxVotes": 329
+        }
+      ],
+      "needVotes": 58422,
+      "pctVotes": 0.0996,
+      "realNeedVotes": 38205,
+      "realPctVotes": 0.0651,
+      "totalVotes": 38193,
+      "voteEach": 1194
+    }
+  },
+  {
+    "candidate": 2222,
+    "fullName": "MAGDA MOFATTO HON",
+    "urnaName": "MAGDA MOFATTO",
+    "party": "PR",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 118458,
+    "pct": 3.9,
+    "individual": false,
+    "quoc": 0.66,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.0669,
+          "auxVotes": 6418,
+          "canVotes": 6446
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0276,
+          "auxVotes": 3001
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.0279,
+          "auxVotes": 2968
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.0614,
+          "auxVotes": 1346
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.0672,
+          "auxVotes": 370
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.0672,
+          "auxVotes": 286
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.0672,
+          "auxVotes": 97
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.0672,
+          "auxVotes": 44
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.0672,
+          "auxVotes": 32
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.0672,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.0672,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.0672,
+          "auxVotes": 13
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.067,
+          "auxVotes": 5039
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.0672,
+          "auxVotes": 598
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.0672,
+          "auxVotes": 61
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.0672,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.0672,
+          "auxVotes": 261
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0496,
+          "auxVotes": 4827
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.055,
+          "auxVotes": 1505
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.0672,
+          "auxVotes": 58
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0482,
+          "auxVotes": 1716
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.0672,
+          "auxVotes": 399
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.0672,
+          "auxVotes": 35
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.0672,
+          "auxVotes": 15
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.0672,
+          "auxVotes": 800
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.0672,
+          "auxVotes": 168
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.049,
+          "auxVotes": 4891
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.0672,
+          "auxVotes": 91
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.0672,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.0672,
+          "auxVotes": 5
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.061,
+          "auxVotes": 3929
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.0672,
+          "auxVotes": 339
+        }
+      ],
+      "needVotes": 60247,
+      "pctVotes": 0.1027,
+      "realNeedVotes": 39398,
+      "realPctVotes": 0.0672,
+      "totalVotes": 39398,
+      "voteEach": 1231
+    }
+  },
+  {
+    "candidate": 1313,
+    "fullName": "RUBENS OTONI GOMIDE",
+    "urnaName": "RUBENS OTONI",
+    "party": "PT",
+    "state": "GO",
+    "impeachment": false,
+    "votes": 115874,
+    "pct": 3.81,
+    "individual": false,
+    "quoc": 0.65,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 2,
+      "parties": [
+        "PT"
+      ],
+      "others": [
+        {
+          "candidate": 1310,
+          "urnaName": "PROFESSOR EDWARD MADUREIRA",
+          "party": "PT",
+          "state": "GO",
+          "votes": 58865,
+          "pct": 0.2376,
+          "auxVotes": 13988,
+          "canVotes": 58865
+        },
+        {
+          "candidate": 1314,
+          "urnaName": "OLAVO NOLETO",
+          "party": "PT",
+          "state": "GO",
+          "votes": 35923,
+          "pct": 0.3894,
+          "auxVotes": 13987,
+          "canVotes": 35923
+        },
+        {
+          "candidate": 1321,
+          "urnaName": "MAURO RUBEM",
+          "party": "PT",
+          "state": "GO",
+          "votes": 34218,
+          "pct": 0.4088,
+          "auxVotes": 13987,
+          "canVotes": 34218
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "GO",
+          "votes": 29139,
+          "pct": 0.48,
+          "auxVotes": 13987,
+          "canVotes": 29139
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "NAUDIA FAEDO",
+          "party": "PT",
+          "state": "GO",
+          "votes": 3152,
+          "pct": 1,
+          "auxVotes": 3152
+        },
+        {
+          "candidate": 1315,
+          "urnaName": "CARDOSINHO",
+          "party": "PT",
+          "state": "GO",
+          "votes": 2653,
+          "pct": 1,
+          "auxVotes": 2653
+        },
+        {
+          "candidate": 1323,
+          "urnaName": "PROFESSORA MARLENE",
+          "party": "PT",
+          "state": "GO",
+          "votes": 626,
+          "pct": 1,
+          "auxVotes": 626
+        },
+        {
+          "candidate": 1388,
+          "urnaName": "VALERIA FERREIRA",
+          "party": "PT",
+          "state": "GO",
+          "votes": 451,
+          "pct": 1,
+          "auxVotes": 451
+        }
+      ],
+      "needVotes": 62831,
+      "pctVotes": 1,
+      "realNeedVotes": 62831,
+      "realPctVotes": 1,
+      "totalVotes": 62831,
+      "voteEach": 7854
+    }
+  },
+  {
+    "candidate": 4599,
+    "fullName": "CÉLIO ANTÔNIO DA SILVEIRA",
+    "urnaName": "CELIO SILVEIRA",
+    "party": "PSDB",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 110992,
+    "pct": 3.65,
+    "individual": false,
+    "quoc": 0.62,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.0754,
+          "auxVotes": 7228,
+          "canVotes": 7242
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.031,
+          "auxVotes": 3371
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.0313,
+          "auxVotes": 3335
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.0691,
+          "auxVotes": 1512
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.0755,
+          "auxVotes": 415
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.0755,
+          "auxVotes": 322
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.0755,
+          "auxVotes": 109
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.0755,
+          "auxVotes": 50
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.0755,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.0755,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.0755,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.0755,
+          "auxVotes": 14
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.0753,
+          "auxVotes": 5661
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.0755,
+          "auxVotes": 672
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.0755,
+          "auxVotes": 68
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.0755,
+          "auxVotes": 20
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.0755,
+          "auxVotes": 293
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0558,
+          "auxVotes": 5423
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0618,
+          "auxVotes": 1691
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.0755,
+          "auxVotes": 65
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0542,
+          "auxVotes": 1928
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.0755,
+          "auxVotes": 449
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.0755,
+          "auxVotes": 40
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.0755,
+          "auxVotes": 16
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.0755,
+          "auxVotes": 899
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.0755,
+          "auxVotes": 188
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.055,
+          "auxVotes": 5495
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.0755,
+          "auxVotes": 103
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.0755,
+          "auxVotes": 29
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.0755,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.0685,
+          "auxVotes": 4414
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.0755,
+          "auxVotes": 381
+        }
+      ],
+      "needVotes": 67713,
+      "pctVotes": 0.1154,
+      "realNeedVotes": 44280,
+      "realPctVotes": 0.0755,
+      "totalVotes": 44280,
+      "voteEach": 1384
+    }
+  },
+  {
+    "candidate": 4555,
+    "fullName": "ALEXANDRE BALDY DE SANT'ANNA BRAGA",
+    "urnaName": "ALEXANDRE BALDY",
+    "party": "PSDB",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 107544,
+    "pct": 3.54,
+    "individual": false,
+    "quoc": 0.6,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.0707,
+          "auxVotes": 7606
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0326,
+          "auxVotes": 3541
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.0329,
+          "auxVotes": 3503
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.0726,
+          "auxVotes": 1589
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.0793,
+          "auxVotes": 436
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.0793,
+          "auxVotes": 338
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.0793,
+          "auxVotes": 115
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.0793,
+          "auxVotes": 52
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.0793,
+          "auxVotes": 37
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.0793,
+          "auxVotes": 28
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.0793,
+          "auxVotes": 22
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.0793,
+          "auxVotes": 15
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.0791,
+          "auxVotes": 5946
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.0793,
+          "auxVotes": 706
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.0793,
+          "auxVotes": 72
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.0793,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.0793,
+          "auxVotes": 307
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0586,
+          "auxVotes": 5696
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0649,
+          "auxVotes": 1776
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.0793,
+          "auxVotes": 68
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0569,
+          "auxVotes": 2025
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.0793,
+          "auxVotes": 471
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.0793,
+          "auxVotes": 42
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.0793,
+          "auxVotes": 17
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.0793,
+          "auxVotes": 944
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.0793,
+          "auxVotes": 198
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.0578,
+          "auxVotes": 5772
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.0793,
+          "auxVotes": 108
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.0793,
+          "auxVotes": 30
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.0793,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.072,
+          "auxVotes": 4636
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.0793,
+          "auxVotes": 400
+        }
+      ],
+      "needVotes": 71161,
+      "pctVotes": 0.1213,
+      "realNeedVotes": 46535,
+      "realPctVotes": 0.0793,
+      "totalVotes": 46523,
+      "voteEach": 1454
+    }
+  },
+  {
+    "candidate": 4565,
+    "fullName": "JOAO CAMPOS DE ARAUJO",
+    "urnaName": "JOAO CAMPOS",
+    "party": "PSDB",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 107344,
+    "pct": 3.53,
+    "individual": false,
+    "quoc": 0.6,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.071,
+          "auxVotes": 7626
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0327,
+          "auxVotes": 3550
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.033,
+          "auxVotes": 3512
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.0728,
+          "auxVotes": 1593
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.0795,
+          "auxVotes": 437
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.0795,
+          "auxVotes": 339
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.0795,
+          "auxVotes": 115
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.0795,
+          "auxVotes": 52
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.0795,
+          "auxVotes": 38
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.0795,
+          "auxVotes": 28
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.0795,
+          "auxVotes": 22
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.0795,
+          "auxVotes": 15
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.0794,
+          "auxVotes": 5961
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.0795,
+          "auxVotes": 708
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.0795,
+          "auxVotes": 72
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.0795,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.0795,
+          "auxVotes": 308
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0588,
+          "auxVotes": 5711
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0651,
+          "auxVotes": 1780
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.0795,
+          "auxVotes": 68
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0571,
+          "auxVotes": 2030
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.0795,
+          "auxVotes": 473
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.0795,
+          "auxVotes": 42
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.0795,
+          "auxVotes": 17
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.0795,
+          "auxVotes": 946
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.0795,
+          "auxVotes": 198
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.058,
+          "auxVotes": 5786
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.0795,
+          "auxVotes": 108
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.0795,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.0795,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.0722,
+          "auxVotes": 4648
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.0795,
+          "auxVotes": 401
+        }
+      ],
+      "needVotes": 71361,
+      "pctVotes": 0.1216,
+      "realNeedVotes": 46666,
+      "realPctVotes": 0.0795,
+      "totalVotes": 46642,
+      "voteEach": 1458
+    }
+  },
+  {
+    "candidate": 1414,
+    "fullName": "JOVAIR OLIVEIRA ARANTES",
+    "urnaName": "JOVAIR ARANTES",
+    "party": "PTB",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 92945,
+    "pct": 3.06,
+    "individual": false,
+    "quoc": 0.52,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.0955,
+          "auxVotes": 9164,
+          "canVotes": 9170
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0393,
+          "auxVotes": 4269
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.0397,
+          "auxVotes": 4223
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.0875,
+          "auxVotes": 1915
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.0956,
+          "auxVotes": 526
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.0956,
+          "auxVotes": 408
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.0956,
+          "auxVotes": 138
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.0956,
+          "auxVotes": 63
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.0956,
+          "auxVotes": 45
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.0956,
+          "auxVotes": 33
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.0956,
+          "auxVotes": 27
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.0956,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.0953,
+          "auxVotes": 7168
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.0956,
+          "auxVotes": 851
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.0956,
+          "auxVotes": 86
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.0956,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.0956,
+          "auxVotes": 371
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0706,
+          "auxVotes": 6867
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0783,
+          "auxVotes": 2141
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.0956,
+          "auxVotes": 82
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0687,
+          "auxVotes": 2441
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.0956,
+          "auxVotes": 568
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.0956,
+          "auxVotes": 50
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.0956,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.0956,
+          "auxVotes": 1138
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.0956,
+          "auxVotes": 239
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.0697,
+          "auxVotes": 6958
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.0956,
+          "auxVotes": 130
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.0956,
+          "auxVotes": 37
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.0956,
+          "auxVotes": 7
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.0868,
+          "auxVotes": 5589
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.0956,
+          "auxVotes": 483
+        }
+      ],
+      "needVotes": 85760,
+      "pctVotes": 0.1462,
+      "realNeedVotes": 56082,
+      "realPctVotes": 0.0956,
+      "totalVotes": 56082,
+      "voteEach": 1753
+    }
+  },
+  {
+    "candidate": 2345,
+    "fullName": "MARCOS ABRAO RORIZ SOARES DE CARVALHO",
+    "urnaName": "MARCOS ABRAO",
+    "party": "PPS",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 92347,
+    "pct": 3.04,
+    "individual": false,
+    "quoc": 0.52,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.0961,
+          "auxVotes": 9216,
+          "canVotes": 9237
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0395,
+          "auxVotes": 4300
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.04,
+          "auxVotes": 4254
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.0881,
+          "auxVotes": 1929
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.0963,
+          "auxVotes": 530
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.0963,
+          "auxVotes": 411
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.0963,
+          "auxVotes": 139
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.0963,
+          "auxVotes": 63
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.0963,
+          "auxVotes": 45
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.0963,
+          "auxVotes": 33
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.0963,
+          "auxVotes": 27
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.0963,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.096,
+          "auxVotes": 7221
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.0963,
+          "auxVotes": 857
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.0963,
+          "auxVotes": 87
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.0963,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.0963,
+          "auxVotes": 373
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0711,
+          "auxVotes": 6917
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0788,
+          "auxVotes": 2156
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.0963,
+          "auxVotes": 82
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0691,
+          "auxVotes": 2459
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.0963,
+          "auxVotes": 572
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.0963,
+          "auxVotes": 51
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.0963,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.0963,
+          "auxVotes": 1146
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.0963,
+          "auxVotes": 240
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.0702,
+          "auxVotes": 7009
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.0963,
+          "auxVotes": 131
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.0963,
+          "auxVotes": 37
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.0963,
+          "auxVotes": 7
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.0874,
+          "auxVotes": 5630
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.0963,
+          "auxVotes": 486
+        }
+      ],
+      "needVotes": 86358,
+      "pctVotes": 0.1472,
+      "realNeedVotes": 56473,
+      "realPctVotes": 0.0963,
+      "totalVotes": 56473,
+      "voteEach": 1765
+    }
+  },
+  {
+    "candidate": 5500,
+    "fullName": "HEULER ABREU CRUVINEL",
+    "urnaName": "HEULER CRUVINEL",
+    "party": "PSD",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 90877,
+    "pct": 2.99,
+    "individual": false,
+    "quoc": 0.51,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.0979,
+          "auxVotes": 9390,
+          "canVotes": 9391
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0402,
+          "auxVotes": 4372
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.0406,
+          "auxVotes": 4324
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.0896,
+          "auxVotes": 1961
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.0979,
+          "auxVotes": 538
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.0979,
+          "auxVotes": 417
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.0979,
+          "auxVotes": 142
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.0979,
+          "auxVotes": 64
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.0979,
+          "auxVotes": 46
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.0979,
+          "auxVotes": 34
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.0979,
+          "auxVotes": 27
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.0979,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.0977,
+          "auxVotes": 7341
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.0979,
+          "auxVotes": 871
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.0979,
+          "auxVotes": 89
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.0979,
+          "auxVotes": 26
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.0979,
+          "auxVotes": 380
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0723,
+          "auxVotes": 7032
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0802,
+          "auxVotes": 2192
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.0979,
+          "auxVotes": 84
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0703,
+          "auxVotes": 2500
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.0979,
+          "auxVotes": 582
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.0979,
+          "auxVotes": 52
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.0979,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.0979,
+          "auxVotes": 1165
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.0979,
+          "auxVotes": 244
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.0714,
+          "auxVotes": 7125
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.0979,
+          "auxVotes": 133
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.0979,
+          "auxVotes": 38
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.0979,
+          "auxVotes": 7
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.0889,
+          "auxVotes": 5724
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.0979,
+          "auxVotes": 494
+        }
+      ],
+      "needVotes": 87828,
+      "pctVotes": 0.1497,
+      "realNeedVotes": 57434,
+      "realPctVotes": 0.0979,
+      "totalVotes": 57434,
+      "voteEach": 1795
+    }
+  },
+  {
+    "candidate": 1105,
+    "fullName": "ROBERTO EGIDIO BALESTRA",
+    "urnaName": "ROBERTO BALESTRA",
+    "party": "PP",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 85534,
+    "pct": 2.82,
+    "individual": false,
+    "quoc": 0.48,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.0926,
+          "auxVotes": 9956
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0426,
+          "auxVotes": 4635
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.0431,
+          "auxVotes": 4585
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.095,
+          "auxVotes": 2079
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.1038,
+          "auxVotes": 571
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.1038,
+          "auxVotes": 442
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.1038,
+          "auxVotes": 150
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.1038,
+          "auxVotes": 68
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.1038,
+          "auxVotes": 49
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.1038,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.1038,
+          "auxVotes": 29
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.1038,
+          "auxVotes": 20
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.1036,
+          "auxVotes": 7783
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.1038,
+          "auxVotes": 924
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.1038,
+          "auxVotes": 94
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.1038,
+          "auxVotes": 28
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.1038,
+          "auxVotes": 402
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0767,
+          "auxVotes": 7456
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.085,
+          "auxVotes": 2324
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.1038,
+          "auxVotes": 89
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0746,
+          "auxVotes": 2651
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.1038,
+          "auxVotes": 617
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.1038,
+          "auxVotes": 55
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.1038,
+          "auxVotes": 22
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.1038,
+          "auxVotes": 1235
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.1038,
+          "auxVotes": 259
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.0757,
+          "auxVotes": 7555
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.1038,
+          "auxVotes": 141
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.1038,
+          "auxVotes": 40
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.1038,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.0943,
+          "auxVotes": 6069
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.1038,
+          "auxVotes": 524
+        }
+      ],
+      "needVotes": 93171,
+      "pctVotes": 0.1588,
+      "realNeedVotes": 60928,
+      "realPctVotes": 0.1038,
+      "totalVotes": 60896,
+      "voteEach": 1904
+    }
+  },
+  {
+    "candidate": 4578,
+    "fullName": "FÁBIO FERNANDES DE SOUSA",
+    "urnaName": "FABIO SOUSA",
+    "party": "PSDB",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 82204,
+    "pct": 2.71,
+    "individual": false,
+    "quoc": 0.46,
+    "status": {
+      "geral": "sup"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.1074,
+          "auxVotes": 10299,
+          "canVotes": 10321
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0442,
+          "auxVotes": 4805
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.0446,
+          "auxVotes": 4753
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.0984,
+          "auxVotes": 2156
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.1076,
+          "auxVotes": 592
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.1076,
+          "auxVotes": 459
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.1076,
+          "auxVotes": 156
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.1076,
+          "auxVotes": 71
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.1076,
+          "auxVotes": 51
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.1076,
+          "auxVotes": 37
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.1076,
+          "auxVotes": 30
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.1076,
+          "auxVotes": 20
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.1073,
+          "auxVotes": 8068
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.1076,
+          "auxVotes": 958
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.1076,
+          "auxVotes": 97
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.1076,
+          "auxVotes": 29
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.1076,
+          "auxVotes": 417
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0795,
+          "auxVotes": 7729
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0881,
+          "auxVotes": 2409
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.1076,
+          "auxVotes": 92
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0772,
+          "auxVotes": 2748
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.1076,
+          "auxVotes": 640
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.1076,
+          "auxVotes": 57
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.1076,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.1076,
+          "auxVotes": 1281
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.1076,
+          "auxVotes": 269
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.0784,
+          "auxVotes": 7831
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.1076,
+          "auxVotes": 146
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.1076,
+          "auxVotes": 41
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.1076,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.0976,
+          "auxVotes": 6291
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.1076,
+          "auxVotes": 543
+        }
+      ],
+      "needVotes": 96501,
+      "pctVotes": 0.1645,
+      "realNeedVotes": 63106,
+      "realPctVotes": 0.1076,
+      "totalVotes": 63106,
+      "voteEach": 1972
+    }
+  },
+  {
+    "candidate": 5545,
+    "fullName": "THIAGO MELLO PEIXOTO DA SILVEIRA",
+    "urnaName": "THIAGO PEIXOTO",
+    "party": "PSD",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 79666,
+    "pct": 2.62,
+    "individual": false,
+    "quoc": 0.45,
+    "status": {
+      "geral": "sup"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PSDB",
+        "PP",
+        "PR",
+        "PSD",
+        "PTB",
+        "PDT",
+        "PPS",
+        "PROS",
+        "PRB"
+      ],
+      "others": [
+        {
+          "candidate": 4500,
+          "urnaName": "DELEGADO WALDIR",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 95920,
+          "pct": 0.1103,
+          "auxVotes": 10584,
+          "canVotes": 10590
+        },
+        {
+          "candidate": 4567,
+          "urnaName": "FALEIROS",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44655,
+          "pct": 0.0453,
+          "auxVotes": 4930
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 44172,
+          "pct": 0.0458,
+          "auxVotes": 4877
+        },
+        {
+          "candidate": 4515,
+          "urnaName": "VALDIVINO DE OLIVEIRA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 20033,
+          "pct": 0.101,
+          "auxVotes": 2212
+        },
+        {
+          "candidate": 4590,
+          "urnaName": "CORONEL CLAUDIO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 5500,
+          "pct": 0.1104,
+          "auxVotes": 607
+        },
+        {
+          "candidate": 4550,
+          "urnaName": "GENIO EURIPEDES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 4263,
+          "pct": 0.1104,
+          "auxVotes": 471
+        },
+        {
+          "candidate": 4514,
+          "urnaName": "FRANCISCA FRANCISQUINHA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 1446,
+          "pct": 0.1104,
+          "auxVotes": 160
+        },
+        {
+          "candidate": 4570,
+          "urnaName": "CARMELITA GOMES",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 656,
+          "pct": 0.1104,
+          "auxVotes": 72
+        },
+        {
+          "candidate": 4525,
+          "urnaName": "TANIA MELO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 472,
+          "pct": 0.1104,
+          "auxVotes": 52
+        },
+        {
+          "candidate": 4551,
+          "urnaName": "VILMA NETTO",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 347,
+          "pct": 0.1104,
+          "auxVotes": 38
+        },
+        {
+          "candidate": 4540,
+          "urnaName": "MIRIAM ASSESSORA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 279,
+          "pct": 0.1104,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 4580,
+          "urnaName": "LUCIA LIMA",
+          "party": "PSDB",
+          "state": "GO",
+          "votes": 189,
+          "pct": 0.1104,
+          "auxVotes": 21
+        },
+        {
+          "candidate": 1122,
+          "urnaName": "SANDES JUNIOR",
+          "party": "PP",
+          "state": "GO",
+          "votes": 74980,
+          "pct": 0.1101,
+          "auxVotes": 8278
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "GO",
+          "votes": 8900,
+          "pct": 0.1104,
+          "auxVotes": 983
+        },
+        {
+          "candidate": 1118,
+          "urnaName": "APOSTOLO PEDRO SUITBERTO",
+          "party": "PP",
+          "state": "GO",
+          "votes": 904,
+          "pct": 0.1104,
+          "auxVotes": 100
+        },
+        {
+          "candidate": 1145,
+          "urnaName": "VALLESKA VEIGA",
+          "party": "PP",
+          "state": "GO",
+          "votes": 270,
+          "pct": 0.1104,
+          "auxVotes": 30
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "GO",
+          "votes": 3877,
+          "pct": 0.1104,
+          "auxVotes": 428
+        },
+        {
+          "candidate": 5555,
+          "urnaName": "JOSE MARIO SCHREINER",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 71832,
+          "pct": 0.0816,
+          "auxVotes": 7930
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "GO",
+          "votes": 22391,
+          "pct": 0.0904,
+          "auxVotes": 2472
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "CLEOVAN",
+          "party": "PSD",
+          "state": "GO",
+          "votes": 856,
+          "pct": 0.1104,
+          "auxVotes": 95
+        },
+        {
+          "candidate": 1445,
+          "urnaName": "FREI VALDAIR DE JESUS",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 25535,
+          "pct": 0.0793,
+          "auxVotes": 2819
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "GO",
+          "votes": 5944,
+          "pct": 0.1104,
+          "auxVotes": 656
+        },
+        {
+          "candidate": 1456,
+          "urnaName": "EDIEL FERNANDES",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 527,
+          "pct": 0.1104,
+          "auxVotes": 58
+        },
+        {
+          "candidate": 1422,
+          "urnaName": "NONATO VIEIRA FONTENELE",
+          "party": "PTB",
+          "state": "GO",
+          "votes": 216,
+          "pct": 0.1104,
+          "auxVotes": 24
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "GO",
+          "votes": 11902,
+          "pct": 0.1104,
+          "auxVotes": 1314
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "GO",
+          "votes": 2496,
+          "pct": 0.1104,
+          "auxVotes": 276
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "EURIPEDES JUNIOR",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 72781,
+          "pct": 0.0805,
+          "auxVotes": 8035
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "GO",
+          "votes": 1360,
+          "pct": 0.1104,
+          "auxVotes": 150
+        },
+        {
+          "candidate": 9045,
+          "urnaName": "GILBERTO FARIAS",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 384,
+          "pct": 0.1104,
+          "auxVotes": 42
+        },
+        {
+          "candidate": 9077,
+          "urnaName": "JOSE",
+          "party": "PROS",
+          "state": "GO",
+          "votes": 76,
+          "pct": 0.1104,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "GILVAN MAXIMO",
+          "party": "PRB",
+          "state": "GO",
+          "votes": 58466,
+          "pct": 0.1002,
+          "auxVotes": 6455
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "GO",
+          "votes": 5050,
+          "pct": 0.1104,
+          "auxVotes": 558
+        }
+      ],
+      "needVotes": 99039,
+      "pctVotes": 0.1688,
+      "realNeedVotes": 64766,
+      "realPctVotes": 0.1104,
+      "totalVotes": 64766,
+      "voteEach": 2024
+    }
+  },
+  {
+    "candidate": 7777,
+    "fullName": "LUCAS DE CASTRO SANTOS",
+    "urnaName": "LUCAS VERGILIO",
+    "party": "SD",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 78387,
+    "pct": 2.58,
+    "individual": false,
+    "quoc": 0.44,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "DEM",
+        "SD",
+        "PCdoB",
+        "PRTB",
+        "PTN",
+        "PPL"
+      ],
+      "others": [
+        {
+          "candidate": 1510,
+          "urnaName": "DANIEL VILELA",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 509,
+          "pct": 0.4989,
+          "auxVotes": 254
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "IRIS DE ARAUJO",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 66234,
+          "pct": 0.2782,
+          "auxVotes": 18423,
+          "canVotes": 33044
+        },
+        {
+          "candidate": 1525,
+          "urnaName": "PAULO DO VALE",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 41845,
+          "pct": 0.4403,
+          "auxVotes": 18423,
+          "canVotes": 20876
+        },
+        {
+          "candidate": 1514,
+          "urnaName": "JOSE RICO",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 26086,
+          "pct": 0.1326,
+          "auxVotes": 13014
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 21493,
+          "pct": 0.1609,
+          "auxVotes": 10723
+        },
+        {
+          "candidate": 1500,
+          "urnaName": "DR. ADELMO",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 1401,
+          "pct": 0.4989,
+          "auxVotes": 699
+        },
+        {
+          "candidate": 1520,
+          "urnaName": "WAGNER OLIVEIRA",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 850,
+          "pct": 0.4989,
+          "auxVotes": 424
+        },
+        {
+          "candidate": 1528,
+          "urnaName": "JOAO BATISTA QUEIROZ",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 453,
+          "pct": 0.4989,
+          "auxVotes": 226
+        },
+        {
+          "candidate": 1590,
+          "urnaName": "MAYRE DIAS",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 381,
+          "pct": 0.4989,
+          "auxVotes": 190
+        },
+        {
+          "candidate": 1566,
+          "urnaName": "DOMINGAS CARVALHO",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 199,
+          "pct": 0.4989,
+          "auxVotes": 99
+        },
+        {
+          "candidate": 1506,
+          "urnaName": "LUZ KALIL",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 129,
+          "pct": 0.4989,
+          "auxVotes": 64
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "GO",
+          "votes": 22543,
+          "pct": 0.1534,
+          "auxVotes": 11247
+        },
+        {
+          "candidate": 2512,
+          "urnaName": "THIAGO MATIAS",
+          "party": "DEM",
+          "state": "GO",
+          "votes": 5024,
+          "pct": 0.4989,
+          "auxVotes": 2506
+        },
+        {
+          "candidate": 2511,
+          "urnaName": "GILBERTO PATRICIO",
+          "party": "DEM",
+          "state": "GO",
+          "votes": 1185,
+          "pct": 0.4989,
+          "auxVotes": 591
+        },
+        {
+          "candidate": 2544,
+          "urnaName": "JAIR SERAFIM",
+          "party": "DEM",
+          "state": "GO",
+          "votes": 102,
+          "pct": 0.4989,
+          "auxVotes": 51
+        },
+        {
+          "candidate": 2522,
+          "urnaName": "MARIETA RAMIRO",
+          "party": "DEM",
+          "state": "GO",
+          "votes": 35,
+          "pct": 0.4989,
+          "auxVotes": 17
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "GO",
+          "votes": 2000,
+          "pct": 0.4989,
+          "auxVotes": 998
+        },
+        {
+          "candidate": 6565,
+          "urnaName": "TATIANA LEMOS",
+          "party": "PCdoB",
+          "state": "GO",
+          "votes": 34079,
+          "pct": 0.4344,
+          "auxVotes": 17002
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "GO",
+          "votes": 1515,
+          "pct": 0.4989,
+          "auxVotes": 756
+        },
+        {
+          "candidate": 2810,
+          "urnaName": "MATHIAS",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 1989,
+          "pct": 0.4989,
+          "auxVotes": 992
+        },
+        {
+          "candidate": 28,
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 1325,
+          "pct": 0.4989,
+          "auxVotes": 661
+        },
+        {
+          "candidate": 2888,
+          "urnaName": "ALEXANDRE MARTINS",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 968,
+          "pct": 0.4989,
+          "auxVotes": 483
+        },
+        {
+          "candidate": 2828,
+          "urnaName": "ORLANDO ALVES",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 567,
+          "pct": 0.4989,
+          "auxVotes": 283
+        },
+        {
+          "candidate": 2816,
+          "urnaName": "CELSO DE ALMEIDA",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 326,
+          "pct": 0.4989,
+          "auxVotes": 163
+        },
+        {
+          "candidate": 2871,
+          "urnaName": "JAIR MALA",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 213,
+          "pct": 0.4989,
+          "auxVotes": 106
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "GO",
+          "votes": 832,
+          "pct": 0.4989,
+          "auxVotes": 415
+        },
+        {
+          "candidate": 1971,
+          "urnaName": "MARCAO DO JARDIM CANEDO",
+          "party": "PTN",
+          "state": "GO",
+          "votes": 411,
+          "pct": 0.4989,
+          "auxVotes": 205
+        },
+        {
+          "candidate": 54,
+          "party": "PPL",
+          "state": "GO",
+          "votes": 2155,
+          "pct": 0.4989,
+          "auxVotes": 1075
+        },
+        {
+          "candidate": 5454,
+          "urnaName": "JUCILENE BARROS",
+          "party": "PPL",
+          "state": "GO",
+          "votes": 458,
+          "pct": 0.4989,
+          "auxVotes": 228
+        }
+      ],
+      "needVotes": 100318,
+      "pctVotes": 0.4989,
+      "realNeedVotes": 100318,
+      "realPctVotes": 0.4989,
+      "totalVotes": 100318,
+      "voteEach": 3459
+    }
+  },
+  {
+    "candidate": 1580,
+    "fullName": "PEDRO PINHEIRO CHAVES",
+    "urnaName": "PEDRO CHAVES",
+    "party": "PMDB",
+    "state": "GO",
+    "impeachment": true,
+    "votes": 77925,
+    "pct": 2.57,
+    "individual": false,
+    "quoc": 0.44,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "DEM",
+        "SD",
+        "PCdoB",
+        "PRTB",
+        "PTN",
+        "PPL"
+      ],
+      "others": [
+        {
+          "candidate": 1510,
+          "urnaName": "DANIEL VILELA",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 509,
+          "pct": 0.5011,
+          "auxVotes": 255
+        },
+        {
+          "candidate": 1515,
+          "urnaName": "IRIS DE ARAUJO",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 66234,
+          "pct": 0.2795,
+          "auxVotes": 18512,
+          "canVotes": 33190
+        },
+        {
+          "candidate": 1525,
+          "urnaName": "PAULO DO VALE",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 41845,
+          "pct": 0.4424,
+          "auxVotes": 18512,
+          "canVotes": 20969
+        },
+        {
+          "candidate": 1514,
+          "urnaName": "JOSE RICO",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 26086,
+          "pct": 0.1332,
+          "auxVotes": 13072
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 21493,
+          "pct": 0.1617,
+          "auxVotes": 10770
+        },
+        {
+          "candidate": 1500,
+          "urnaName": "DR. ADELMO",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 1401,
+          "pct": 0.5011,
+          "auxVotes": 702
+        },
+        {
+          "candidate": 1520,
+          "urnaName": "WAGNER OLIVEIRA",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 850,
+          "pct": 0.5011,
+          "auxVotes": 426
+        },
+        {
+          "candidate": 1528,
+          "urnaName": "JOAO BATISTA QUEIROZ",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 453,
+          "pct": 0.5011,
+          "auxVotes": 227
+        },
+        {
+          "candidate": 1590,
+          "urnaName": "MAYRE DIAS",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 381,
+          "pct": 0.5011,
+          "auxVotes": 191
+        },
+        {
+          "candidate": 1566,
+          "urnaName": "DOMINGAS CARVALHO",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 199,
+          "pct": 0.5011,
+          "auxVotes": 100
+        },
+        {
+          "candidate": 1506,
+          "urnaName": "LUZ KALIL",
+          "party": "PMDB",
+          "state": "GO",
+          "votes": 129,
+          "pct": 0.5011,
+          "auxVotes": 65
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "GO",
+          "votes": 22543,
+          "pct": 0.1541,
+          "auxVotes": 11296
+        },
+        {
+          "candidate": 2512,
+          "urnaName": "THIAGO MATIAS",
+          "party": "DEM",
+          "state": "GO",
+          "votes": 5024,
+          "pct": 0.5011,
+          "auxVotes": 2518
+        },
+        {
+          "candidate": 2511,
+          "urnaName": "GILBERTO PATRICIO",
+          "party": "DEM",
+          "state": "GO",
+          "votes": 1185,
+          "pct": 0.5011,
+          "auxVotes": 594
+        },
+        {
+          "candidate": 2544,
+          "urnaName": "JAIR SERAFIM",
+          "party": "DEM",
+          "state": "GO",
+          "votes": 102,
+          "pct": 0.5011,
+          "auxVotes": 51
+        },
+        {
+          "candidate": 2522,
+          "urnaName": "MARIETA RAMIRO",
+          "party": "DEM",
+          "state": "GO",
+          "votes": 35,
+          "pct": 0.5011,
+          "auxVotes": 18
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "GO",
+          "votes": 2000,
+          "pct": 0.5011,
+          "auxVotes": 1002
+        },
+        {
+          "candidate": 6565,
+          "urnaName": "TATIANA LEMOS",
+          "party": "PCdoB",
+          "state": "GO",
+          "votes": 34079,
+          "pct": 0.4364,
+          "auxVotes": 17077
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "GO",
+          "votes": 1515,
+          "pct": 0.5011,
+          "auxVotes": 759
+        },
+        {
+          "candidate": 2810,
+          "urnaName": "MATHIAS",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 1989,
+          "pct": 0.5011,
+          "auxVotes": 997
+        },
+        {
+          "candidate": 28,
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 1325,
+          "pct": 0.5011,
+          "auxVotes": 664
+        },
+        {
+          "candidate": 2888,
+          "urnaName": "ALEXANDRE MARTINS",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 968,
+          "pct": 0.5011,
+          "auxVotes": 485
+        },
+        {
+          "candidate": 2828,
+          "urnaName": "ORLANDO ALVES",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 567,
+          "pct": 0.5011,
+          "auxVotes": 284
+        },
+        {
+          "candidate": 2816,
+          "urnaName": "CELSO DE ALMEIDA",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 326,
+          "pct": 0.5011,
+          "auxVotes": 163
+        },
+        {
+          "candidate": 2871,
+          "urnaName": "JAIR MALA",
+          "party": "PRTB",
+          "state": "GO",
+          "votes": 213,
+          "pct": 0.5011,
+          "auxVotes": 107
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "GO",
+          "votes": 832,
+          "pct": 0.5011,
+          "auxVotes": 417
+        },
+        {
+          "candidate": 1971,
+          "urnaName": "MARCAO DO JARDIM CANEDO",
+          "party": "PTN",
+          "state": "GO",
+          "votes": 411,
+          "pct": 0.5011,
+          "auxVotes": 206
+        },
+        {
+          "candidate": 54,
+          "party": "PPL",
+          "state": "GO",
+          "votes": 2155,
+          "pct": 0.5011,
+          "auxVotes": 1080
+        },
+        {
+          "candidate": 5454,
+          "urnaName": "JUCILENE BARROS",
+          "party": "PPL",
+          "state": "GO",
+          "votes": 458,
+          "pct": 0.5011,
+          "auxVotes": 230
+        }
+      ],
+      "needVotes": 100780,
+      "pctVotes": 0.5011,
+      "realNeedVotes": 100780,
+      "realPctVotes": 0.5011,
+      "totalVotes": 100780,
+      "voteEach": 3475
+    }
+  }
+]

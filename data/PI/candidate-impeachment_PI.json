@@ -1,0 +1,3410 @@
+[
+  {
+    "candidate": 1311,
+    "fullName": "REJANE RIBEIRO SOUSA DIAS",
+    "urnaName": "REJANE DIAS",
+    "party": "PT",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 134157,
+    "pct": 7.73,
+    "individual": false,
+    "quoc": 0.77,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PP",
+        "PTB",
+        "PHS",
+        "PR",
+        "PROS",
+        "PRP",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "MERLONG SOLANO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 45824,
+          "pct": 0.0814,
+          "auxVotes": 5086
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "PI",
+          "votes": 28627,
+          "pct": 0.0331,
+          "auxVotes": 3178
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "PAIXAO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 10464,
+          "pct": 0.0906,
+          "auxVotes": 1162
+        },
+        {
+          "candidate": 1345,
+          "urnaName": "DUDU",
+          "party": "PT",
+          "state": "PI",
+          "votes": 7624,
+          "pct": 0.111,
+          "auxVotes": 846
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "ANA LETICIA",
+          "party": "PT",
+          "state": "PI",
+          "votes": 1075,
+          "pct": 0.111,
+          "auxVotes": 119
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "PI",
+          "votes": 6600,
+          "pct": 0.111,
+          "auxVotes": 733
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "PI",
+          "votes": 28505,
+          "pct": 0.0333,
+          "auxVotes": 3164
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "JOVE OLIVEIRA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 15664,
+          "pct": 0.0605,
+          "auxVotes": 1739
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "ELIANE",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 686,
+          "pct": 0.111,
+          "auxVotes": 76
+        },
+        {
+          "candidate": 1444,
+          "urnaName": "VALMIR PAZ",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 320,
+          "pct": 0.111,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 1416,
+          "urnaName": "RAIMUNDO PAQUETA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 298,
+          "pct": 0.111,
+          "auxVotes": 33
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GONCALINHO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 3340,
+          "pct": 0.111,
+          "auxVotes": 371
+        },
+        {
+          "candidate": 3100,
+          "urnaName": "SAMIO FALCAO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 2455,
+          "pct": 0.111,
+          "auxVotes": 273
+        },
+        {
+          "candidate": 3123,
+          "urnaName": "EDILSON ARAUJO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1752,
+          "pct": 0.111,
+          "auxVotes": 194
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1160,
+          "pct": 0.111,
+          "auxVotes": 129
+        },
+        {
+          "candidate": 3122,
+          "urnaName": "CASIK ROCHA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1141,
+          "pct": 0.111,
+          "auxVotes": 127
+        },
+        {
+          "candidate": 3199,
+          "urnaName": "HILTON NASCIMENTO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 209,
+          "pct": 0.111,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 3134,
+          "urnaName": "MARTA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 154,
+          "pct": 0.111,
+          "auxVotes": 17
+        },
+        {
+          "candidate": 3135,
+          "urnaName": "EVA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 32,
+          "pct": 0.111,
+          "auxVotes": 4
+        },
+        {
+          "candidate": 2222,
+          "urnaName": "SILAS FREIRE",
+          "party": "PR",
+          "state": "PI",
+          "votes": 75596,
+          "pct": 0.0892,
+          "auxVotes": 8391
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "PI",
+          "votes": 1180,
+          "pct": 0.111,
+          "auxVotes": 131
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROMILDO MAFRA",
+          "party": "PROS",
+          "state": "PI",
+          "votes": 1899,
+          "pct": 0.111,
+          "auxVotes": 211
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "PI",
+          "votes": 764,
+          "pct": 0.111,
+          "auxVotes": 85
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "PI",
+          "votes": 2120,
+          "pct": 0.111,
+          "auxVotes": 235
+        },
+        {
+          "candidate": 4400,
+          "urnaName": "HEITOR ALMONDES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 1912,
+          "pct": 0.111,
+          "auxVotes": 212
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "LAECIO BORGES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 979,
+          "pct": 0.111,
+          "auxVotes": 109
+        },
+        {
+          "candidate": 4411,
+          "urnaName": "NIXON DARIO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 453,
+          "pct": 0.111,
+          "auxVotes": 50
+        },
+        {
+          "candidate": 4433,
+          "urnaName": "GALEGO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 339,
+          "pct": 0.111,
+          "auxVotes": 38
+        },
+        {
+          "candidate": 4413,
+          "urnaName": "NAZAMARA",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 328,
+          "pct": 0.111,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "ROSARIA VITORINO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 313,
+          "pct": 0.111,
+          "auxVotes": 35
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "MAINHA",
+          "party": "SD",
+          "state": "PI",
+          "votes": 30419,
+          "pct": 0.0312,
+          "auxVotes": 3377
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "PI",
+          "votes": 856,
+          "pct": 0.111,
+          "auxVotes": 95
+        }
+      ],
+      "needVotes": 39467,
+      "pctVotes": 0.1445,
+      "realNeedVotes": 30330,
+      "realPctVotes": 0.111,
+      "totalVotes": 30315,
+      "voteEach": 948
+    }
+  },
+  {
+    "candidate": 4040,
+    "fullName": "ATILA FREITAS LIRA",
+    "urnaName": "ATILA LIRA",
+    "party": "PSB",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 129276,
+    "pct": 7.45,
+    "individual": false,
+    "quoc": 0.74,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "PTN",
+        "PTC",
+        "PDT",
+        "PSB",
+        "PSD",
+        "PRB",
+        "DEM",
+        "PSDC",
+        "PTdoB",
+        "PCdoB",
+        "PPS",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1511,
+          "urnaName": "MARLLOS SAMPAIO",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 77230,
+          "pct": 0.0988,
+          "auxVotes": 7630,
+          "canVotes": 9940
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 10723,
+          "pct": 0.1118,
+          "auxVotes": 1380
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "TOMAZ TEIXEIRA",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 1733,
+          "pct": 0.1287,
+          "auxVotes": 223
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "PI",
+          "votes": 531,
+          "pct": 0.1287,
+          "auxVotes": 68
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "DAVI SILVA",
+          "party": "PTN",
+          "state": "PI",
+          "votes": 46,
+          "pct": 0.1287,
+          "auxVotes": 6
+        },
+        {
+          "candidate": 3677,
+          "urnaName": "TOIM DUFRANGO",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1266,
+          "pct": 0.1287,
+          "auxVotes": 163
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1159,
+          "pct": 0.1287,
+          "auxVotes": 149
+        },
+        {
+          "candidate": 3699,
+          "urnaName": "MILTON",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 582,
+          "pct": 0.1287,
+          "auxVotes": 75
+        },
+        {
+          "candidate": 3636,
+          "urnaName": "THUYLA MARTINS",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 150,
+          "pct": 0.1287,
+          "auxVotes": 19
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "FLAVIO NOGUEIRA",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 88765,
+          "pct": 0.0859,
+          "auxVotes": 7629,
+          "canVotes": 11424
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "PI",
+          "votes": 8727,
+          "pct": 0.1287,
+          "auxVotes": 1123
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "JOSE REINALDO",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 2141,
+          "pct": 0.1287,
+          "auxVotes": 276
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "PI",
+          "votes": 23207,
+          "pct": 0.0517,
+          "auxVotes": 2987
+        },
+        {
+          "candidate": 4000,
+          "urnaName": "GERALDINHO",
+          "party": "PSB",
+          "state": "PI",
+          "votes": 2479,
+          "pct": 0.1287,
+          "auxVotes": 319
+        },
+        {
+          "candidate": 5500,
+          "urnaName": "HUGO NAPOLEAO",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 59977,
+          "pct": 0.1272,
+          "auxVotes": 7629,
+          "canVotes": 7719
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "PI",
+          "votes": 4792,
+          "pct": 0.1287,
+          "auxVotes": 617
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "MIRIAN DA AGENCIA",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 300,
+          "pct": 0.1287,
+          "auxVotes": 39
+        },
+        {
+          "candidate": 1000,
+          "urnaName": "IDONEIL MESQUITA",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 21553,
+          "pct": 0.0556,
+          "auxVotes": 2774
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1866,
+          "pct": 0.1287,
+          "auxVotes": 240
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "HILMAR DO FRIGORIFICO",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1483,
+          "pct": 0.1287,
+          "auxVotes": 191
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "CARLA SOARES",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1004,
+          "pct": 0.1287,
+          "auxVotes": 129
+        },
+        {
+          "candidate": 2580,
+          "urnaName": "ZEZE",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 894,
+          "pct": 0.1287,
+          "auxVotes": 115
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "PI",
+          "votes": 724,
+          "pct": 0.1287,
+          "auxVotes": 93
+        },
+        {
+          "candidate": 2533,
+          "urnaName": "CABO FILINTRO NETO",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 265,
+          "pct": 0.1287,
+          "auxVotes": 34
+        },
+        {
+          "candidate": 2532,
+          "urnaName": "RAIMUNDA",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 15,
+          "pct": 0.1287,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "EDINA CRUZ",
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 625,
+          "pct": 0.1287,
+          "auxVotes": 80
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 270,
+          "pct": 0.1287,
+          "auxVotes": 35
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 628,
+          "pct": 0.1287,
+          "auxVotes": 81
+        },
+        {
+          "candidate": 7085,
+          "urnaName": "PROFª CHEILA GOMES",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 472,
+          "pct": 0.1287,
+          "auxVotes": 61
+        },
+        {
+          "candidate": 7012,
+          "urnaName": "BELIZARIO NETO",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 404,
+          "pct": 0.1287,
+          "auxVotes": 52
+        },
+        {
+          "candidate": 6565,
+          "urnaName": "OSMAR JUNIOR",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 69705,
+          "pct": 0.1094,
+          "auxVotes": 7629,
+          "canVotes": 8971
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 2417,
+          "pct": 0.1287,
+          "auxVotes": 311
+        },
+        {
+          "candidate": 6578,
+          "urnaName": "DIANA REIS",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 9,
+          "pct": 0.1287,
+          "auxVotes": 1
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "CELSO HENRIQUE",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 2475,
+          "pct": 0.1287,
+          "auxVotes": 319
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "PI",
+          "votes": 961,
+          "pct": 0.1287,
+          "auxVotes": 124
+        },
+        {
+          "candidate": 2345,
+          "urnaName": "RAIMUNDINHA RISOLETA",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 934,
+          "pct": 0.1287,
+          "auxVotes": 120
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "PI",
+          "votes": 12623,
+          "pct": 0.095,
+          "auxVotes": 1625
+        }
+      ],
+      "needVotes": 44348,
+      "pctVotes": 0.1287,
+      "realNeedVotes": 44348,
+      "realPctVotes": 0.1287,
+      "totalVotes": 44348,
+      "voteEach": 1199
+    }
+  },
+  {
+    "candidate": 1111,
+    "fullName": "IRACEMA MARIA PORTELLA NUNES NOGUEIRA LIMA",
+    "urnaName": "IRACEMA PORTELLA",
+    "party": "PP",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 121121,
+    "pct": 6.98,
+    "individual": false,
+    "quoc": 0.7,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PP",
+        "PTB",
+        "PHS",
+        "PR",
+        "PROS",
+        "PRP",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "MERLONG SOLANO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 45824,
+          "pct": 0.1083,
+          "auxVotes": 6773
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "PI",
+          "votes": 28627,
+          "pct": 0.044,
+          "auxVotes": 4231
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "PAIXAO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 10464,
+          "pct": 0.1205,
+          "auxVotes": 1547
+        },
+        {
+          "candidate": 1345,
+          "urnaName": "DUDU",
+          "party": "PT",
+          "state": "PI",
+          "votes": 7624,
+          "pct": 0.1478,
+          "auxVotes": 1127
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "ANA LETICIA",
+          "party": "PT",
+          "state": "PI",
+          "votes": 1075,
+          "pct": 0.1478,
+          "auxVotes": 159
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "PI",
+          "votes": 6600,
+          "pct": 0.1478,
+          "auxVotes": 975
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "PI",
+          "votes": 28505,
+          "pct": 0.0442,
+          "auxVotes": 4213
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "JOVE OLIVEIRA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 15664,
+          "pct": 0.0805,
+          "auxVotes": 2315
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "ELIANE",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 686,
+          "pct": 0.1478,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 1444,
+          "urnaName": "VALMIR PAZ",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 320,
+          "pct": 0.1478,
+          "auxVotes": 47
+        },
+        {
+          "candidate": 1416,
+          "urnaName": "RAIMUNDO PAQUETA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 298,
+          "pct": 0.1478,
+          "auxVotes": 44
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GONCALINHO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 3340,
+          "pct": 0.1478,
+          "auxVotes": 494
+        },
+        {
+          "candidate": 3100,
+          "urnaName": "SAMIO FALCAO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 2455,
+          "pct": 0.1478,
+          "auxVotes": 363
+        },
+        {
+          "candidate": 3123,
+          "urnaName": "EDILSON ARAUJO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1752,
+          "pct": 0.1478,
+          "auxVotes": 259
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1160,
+          "pct": 0.1478,
+          "auxVotes": 171
+        },
+        {
+          "candidate": 3122,
+          "urnaName": "CASIK ROCHA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1141,
+          "pct": 0.1478,
+          "auxVotes": 169
+        },
+        {
+          "candidate": 3199,
+          "urnaName": "HILTON NASCIMENTO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 209,
+          "pct": 0.1478,
+          "auxVotes": 31
+        },
+        {
+          "candidate": 3134,
+          "urnaName": "MARTA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 154,
+          "pct": 0.1478,
+          "auxVotes": 23
+        },
+        {
+          "candidate": 3135,
+          "urnaName": "EVA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 32,
+          "pct": 0.1478,
+          "auxVotes": 5
+        },
+        {
+          "candidate": 2222,
+          "urnaName": "SILAS FREIRE",
+          "party": "PR",
+          "state": "PI",
+          "votes": 75596,
+          "pct": 0.1476,
+          "auxVotes": 11158,
+          "canVotes": 11173
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "PI",
+          "votes": 1180,
+          "pct": 0.1478,
+          "auxVotes": 174
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROMILDO MAFRA",
+          "party": "PROS",
+          "state": "PI",
+          "votes": 1899,
+          "pct": 0.1478,
+          "auxVotes": 281
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "PI",
+          "votes": 764,
+          "pct": 0.1478,
+          "auxVotes": 113
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "PI",
+          "votes": 2120,
+          "pct": 0.1478,
+          "auxVotes": 313
+        },
+        {
+          "candidate": 4400,
+          "urnaName": "HEITOR ALMONDES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 1912,
+          "pct": 0.1478,
+          "auxVotes": 283
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "LAECIO BORGES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 979,
+          "pct": 0.1478,
+          "auxVotes": 145
+        },
+        {
+          "candidate": 4411,
+          "urnaName": "NIXON DARIO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 453,
+          "pct": 0.1478,
+          "auxVotes": 67
+        },
+        {
+          "candidate": 4433,
+          "urnaName": "GALEGO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 339,
+          "pct": 0.1478,
+          "auxVotes": 50
+        },
+        {
+          "candidate": 4413,
+          "urnaName": "NAZAMARA",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 328,
+          "pct": 0.1478,
+          "auxVotes": 48
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "ROSARIA VITORINO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 313,
+          "pct": 0.1478,
+          "auxVotes": 46
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "MAINHA",
+          "party": "SD",
+          "state": "PI",
+          "votes": 30419,
+          "pct": 0.0415,
+          "auxVotes": 4496
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "PI",
+          "votes": 856,
+          "pct": 0.1478,
+          "auxVotes": 127
+        }
+      ],
+      "needVotes": 52503,
+      "pctVotes": 0.1923,
+      "realNeedVotes": 40348,
+      "realPctVotes": 0.1478,
+      "totalVotes": 40348,
+      "voteEach": 1261
+    }
+  },
+  {
+    "candidate": 1515,
+    "fullName": "MARCELO COSTA E CASTRO",
+    "urnaName": "MARCELO CASTRO",
+    "party": "PMDB",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 111132,
+    "pct": 6.4,
+    "individual": false,
+    "quoc": 0.64,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "PTN",
+        "PTC",
+        "PDT",
+        "PSB",
+        "PSD",
+        "PRB",
+        "DEM",
+        "PSDC",
+        "PTdoB",
+        "PCdoB",
+        "PPS",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1511,
+          "urnaName": "MARLLOS SAMPAIO",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 77230,
+          "pct": 0.1392,
+          "auxVotes": 10753,
+          "canVotes": 14002
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 10723,
+          "pct": 0.1575,
+          "auxVotes": 1944
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "TOMAZ TEIXEIRA",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 1733,
+          "pct": 0.1813,
+          "auxVotes": 314
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "PI",
+          "votes": 531,
+          "pct": 0.1813,
+          "auxVotes": 96
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "DAVI SILVA",
+          "party": "PTN",
+          "state": "PI",
+          "votes": 46,
+          "pct": 0.1813,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 3677,
+          "urnaName": "TOIM DUFRANGO",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1266,
+          "pct": 0.1813,
+          "auxVotes": 230
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1159,
+          "pct": 0.1813,
+          "auxVotes": 210
+        },
+        {
+          "candidate": 3699,
+          "urnaName": "MILTON",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 582,
+          "pct": 0.1813,
+          "auxVotes": 106
+        },
+        {
+          "candidate": 3636,
+          "urnaName": "THUYLA MARTINS",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 150,
+          "pct": 0.1813,
+          "auxVotes": 27
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "FLAVIO NOGUEIRA",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 88765,
+          "pct": 0.1211,
+          "auxVotes": 10753,
+          "canVotes": 16093
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "PI",
+          "votes": 8727,
+          "pct": 0.1813,
+          "auxVotes": 1582
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "JOSE REINALDO",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 2141,
+          "pct": 0.1813,
+          "auxVotes": 388
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "PI",
+          "votes": 23207,
+          "pct": 0.0728,
+          "auxVotes": 4207
+        },
+        {
+          "candidate": 4000,
+          "urnaName": "GERALDINHO",
+          "party": "PSB",
+          "state": "PI",
+          "votes": 2479,
+          "pct": 0.1813,
+          "auxVotes": 449
+        },
+        {
+          "candidate": 5500,
+          "urnaName": "HUGO NAPOLEAO",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 59977,
+          "pct": 0.1793,
+          "auxVotes": 10753,
+          "canVotes": 10874
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "PI",
+          "votes": 4792,
+          "pct": 0.1813,
+          "auxVotes": 869
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "MIRIAN DA AGENCIA",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 300,
+          "pct": 0.1813,
+          "auxVotes": 54
+        },
+        {
+          "candidate": 1000,
+          "urnaName": "IDONEIL MESQUITA",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 21553,
+          "pct": 0.0784,
+          "auxVotes": 3908
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1866,
+          "pct": 0.1813,
+          "auxVotes": 338
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "HILMAR DO FRIGORIFICO",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1483,
+          "pct": 0.1813,
+          "auxVotes": 269
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "CARLA SOARES",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1004,
+          "pct": 0.1813,
+          "auxVotes": 182
+        },
+        {
+          "candidate": 2580,
+          "urnaName": "ZEZE",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 894,
+          "pct": 0.1813,
+          "auxVotes": 162
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "PI",
+          "votes": 724,
+          "pct": 0.1813,
+          "auxVotes": 131
+        },
+        {
+          "candidate": 2533,
+          "urnaName": "CABO FILINTRO NETO",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 265,
+          "pct": 0.1813,
+          "auxVotes": 48
+        },
+        {
+          "candidate": 2532,
+          "urnaName": "RAIMUNDA",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 15,
+          "pct": 0.1813,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "EDINA CRUZ",
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 625,
+          "pct": 0.1813,
+          "auxVotes": 113
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 270,
+          "pct": 0.1813,
+          "auxVotes": 49
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 628,
+          "pct": 0.1813,
+          "auxVotes": 114
+        },
+        {
+          "candidate": 7085,
+          "urnaName": "PROFª CHEILA GOMES",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 472,
+          "pct": 0.1813,
+          "auxVotes": 86
+        },
+        {
+          "candidate": 7012,
+          "urnaName": "BELIZARIO NETO",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 404,
+          "pct": 0.1813,
+          "auxVotes": 73
+        },
+        {
+          "candidate": 6565,
+          "urnaName": "OSMAR JUNIOR",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 69705,
+          "pct": 0.1543,
+          "auxVotes": 10753,
+          "canVotes": 12638
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 2417,
+          "pct": 0.1813,
+          "auxVotes": 438
+        },
+        {
+          "candidate": 6578,
+          "urnaName": "DIANA REIS",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 9,
+          "pct": 0.1813,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "CELSO HENRIQUE",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 2475,
+          "pct": 0.1813,
+          "auxVotes": 449
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "PI",
+          "votes": 961,
+          "pct": 0.1813,
+          "auxVotes": 174
+        },
+        {
+          "candidate": 2345,
+          "urnaName": "RAIMUNDINHA RISOLETA",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 934,
+          "pct": 0.1813,
+          "auxVotes": 169
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "PI",
+          "votes": 12623,
+          "pct": 0.1338,
+          "auxVotes": 2289
+        }
+      ],
+      "needVotes": 62492,
+      "pctVotes": 0.1813,
+      "realNeedVotes": 62492,
+      "realPctVotes": 0.1813,
+      "totalVotes": 62493,
+      "voteEach": 1689
+    }
+  },
+  {
+    "candidate": 5555,
+    "fullName": "JULIO CESAR DE CARVALHO LIMA",
+    "urnaName": "JULIO CESAR",
+    "party": "PSD",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 99750,
+    "pct": 5.75,
+    "individual": false,
+    "quoc": 0.57,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "PTN",
+        "PTC",
+        "PDT",
+        "PSB",
+        "PSD",
+        "PRB",
+        "DEM",
+        "PSDC",
+        "PTdoB",
+        "PCdoB",
+        "PPS",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1511,
+          "urnaName": "MARLLOS SAMPAIO",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 77230,
+          "pct": 0.1646,
+          "auxVotes": 12712,
+          "canVotes": 16550
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 10723,
+          "pct": 0.1862,
+          "auxVotes": 2298
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "TOMAZ TEIXEIRA",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 1733,
+          "pct": 0.2143,
+          "auxVotes": 371
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "PI",
+          "votes": 531,
+          "pct": 0.2143,
+          "auxVotes": 114
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "DAVI SILVA",
+          "party": "PTN",
+          "state": "PI",
+          "votes": 46,
+          "pct": 0.2143,
+          "auxVotes": 10
+        },
+        {
+          "candidate": 3677,
+          "urnaName": "TOIM DUFRANGO",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1266,
+          "pct": 0.2143,
+          "auxVotes": 271
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1159,
+          "pct": 0.2143,
+          "auxVotes": 248
+        },
+        {
+          "candidate": 3699,
+          "urnaName": "MILTON",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 582,
+          "pct": 0.2143,
+          "auxVotes": 125
+        },
+        {
+          "candidate": 3636,
+          "urnaName": "THUYLA MARTINS",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 150,
+          "pct": 0.2143,
+          "auxVotes": 32
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "FLAVIO NOGUEIRA",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 88765,
+          "pct": 0.1432,
+          "auxVotes": 12712,
+          "canVotes": 19022
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "PI",
+          "votes": 8727,
+          "pct": 0.2143,
+          "auxVotes": 1870
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "JOSE REINALDO",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 2141,
+          "pct": 0.2143,
+          "auxVotes": 459
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "PI",
+          "votes": 23207,
+          "pct": 0.0861,
+          "auxVotes": 4973
+        },
+        {
+          "candidate": 4000,
+          "urnaName": "GERALDINHO",
+          "party": "PSB",
+          "state": "PI",
+          "votes": 2479,
+          "pct": 0.2143,
+          "auxVotes": 531
+        },
+        {
+          "candidate": 5500,
+          "urnaName": "HUGO NAPOLEAO",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 59977,
+          "pct": 0.2119,
+          "auxVotes": 12712,
+          "canVotes": 12853
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "PI",
+          "votes": 4792,
+          "pct": 0.2143,
+          "auxVotes": 1027
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "MIRIAN DA AGENCIA",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 300,
+          "pct": 0.2143,
+          "auxVotes": 64
+        },
+        {
+          "candidate": 1000,
+          "urnaName": "IDONEIL MESQUITA",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 21553,
+          "pct": 0.0927,
+          "auxVotes": 4619
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1866,
+          "pct": 0.2143,
+          "auxVotes": 400
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "HILMAR DO FRIGORIFICO",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1483,
+          "pct": 0.2143,
+          "auxVotes": 318
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "CARLA SOARES",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1004,
+          "pct": 0.2143,
+          "auxVotes": 215
+        },
+        {
+          "candidate": 2580,
+          "urnaName": "ZEZE",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 894,
+          "pct": 0.2143,
+          "auxVotes": 192
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "PI",
+          "votes": 724,
+          "pct": 0.2143,
+          "auxVotes": 155
+        },
+        {
+          "candidate": 2533,
+          "urnaName": "CABO FILINTRO NETO",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 265,
+          "pct": 0.2143,
+          "auxVotes": 57
+        },
+        {
+          "candidate": 2532,
+          "urnaName": "RAIMUNDA",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 15,
+          "pct": 0.2143,
+          "auxVotes": 3
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "EDINA CRUZ",
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 625,
+          "pct": 0.2143,
+          "auxVotes": 134
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 270,
+          "pct": 0.2143,
+          "auxVotes": 58
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 628,
+          "pct": 0.2143,
+          "auxVotes": 135
+        },
+        {
+          "candidate": 7085,
+          "urnaName": "PROFª CHEILA GOMES",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 472,
+          "pct": 0.2143,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 7012,
+          "urnaName": "BELIZARIO NETO",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 404,
+          "pct": 0.2143,
+          "auxVotes": 87
+        },
+        {
+          "candidate": 6565,
+          "urnaName": "OSMAR JUNIOR",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 69705,
+          "pct": 0.1824,
+          "auxVotes": 12712,
+          "canVotes": 14938
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 2417,
+          "pct": 0.2143,
+          "auxVotes": 518
+        },
+        {
+          "candidate": 6578,
+          "urnaName": "DIANA REIS",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 9,
+          "pct": 0.2143,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "CELSO HENRIQUE",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 2475,
+          "pct": 0.2143,
+          "auxVotes": 530
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "PI",
+          "votes": 961,
+          "pct": 0.2143,
+          "auxVotes": 206
+        },
+        {
+          "candidate": 2345,
+          "urnaName": "RAIMUNDINHA RISOLETA",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 934,
+          "pct": 0.2143,
+          "auxVotes": 200
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "PI",
+          "votes": 12623,
+          "pct": 0.1582,
+          "auxVotes": 2705
+        }
+      ],
+      "needVotes": 73874,
+      "pctVotes": 0.2143,
+      "realNeedVotes": 73874,
+      "realPctVotes": 0.2143,
+      "totalVotes": 73876,
+      "voteEach": 1997
+    }
+  },
+  {
+    "candidate": 1313,
+    "fullName": "FRANCISCO DE ASSIS CARVALHO GONÇALVES",
+    "urnaName": "ASSIS CARVALHO",
+    "party": "PT",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 94093,
+    "pct": 5.42,
+    "individual": false,
+    "quoc": 0.54,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PP",
+        "PTB",
+        "PHS",
+        "PR",
+        "PROS",
+        "PRP",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "MERLONG SOLANO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 45824,
+          "pct": 0.164,
+          "auxVotes": 10255
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "PI",
+          "votes": 28627,
+          "pct": 0.0667,
+          "auxVotes": 6407
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "PAIXAO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 10464,
+          "pct": 0.1825,
+          "auxVotes": 2342
+        },
+        {
+          "candidate": 1345,
+          "urnaName": "DUDU",
+          "party": "PT",
+          "state": "PI",
+          "votes": 7624,
+          "pct": 0.2238,
+          "auxVotes": 1706
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "ANA LETICIA",
+          "party": "PT",
+          "state": "PI",
+          "votes": 1075,
+          "pct": 0.2238,
+          "auxVotes": 241
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "PI",
+          "votes": 6600,
+          "pct": 0.2238,
+          "auxVotes": 1477
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "PI",
+          "votes": 28505,
+          "pct": 0.067,
+          "auxVotes": 6379
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "JOVE OLIVEIRA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 15664,
+          "pct": 0.1219,
+          "auxVotes": 3506
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "ELIANE",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 686,
+          "pct": 0.2238,
+          "auxVotes": 154
+        },
+        {
+          "candidate": 1444,
+          "urnaName": "VALMIR PAZ",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 320,
+          "pct": 0.2238,
+          "auxVotes": 72
+        },
+        {
+          "candidate": 1416,
+          "urnaName": "RAIMUNDO PAQUETA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 298,
+          "pct": 0.2238,
+          "auxVotes": 67
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GONCALINHO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 3340,
+          "pct": 0.2238,
+          "auxVotes": 747
+        },
+        {
+          "candidate": 3100,
+          "urnaName": "SAMIO FALCAO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 2455,
+          "pct": 0.2238,
+          "auxVotes": 549
+        },
+        {
+          "candidate": 3123,
+          "urnaName": "EDILSON ARAUJO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1752,
+          "pct": 0.2238,
+          "auxVotes": 392
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1160,
+          "pct": 0.2238,
+          "auxVotes": 260
+        },
+        {
+          "candidate": 3122,
+          "urnaName": "CASIK ROCHA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1141,
+          "pct": 0.2238,
+          "auxVotes": 255
+        },
+        {
+          "candidate": 3199,
+          "urnaName": "HILTON NASCIMENTO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 209,
+          "pct": 0.2238,
+          "auxVotes": 47
+        },
+        {
+          "candidate": 3134,
+          "urnaName": "MARTA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 154,
+          "pct": 0.2238,
+          "auxVotes": 34
+        },
+        {
+          "candidate": 3135,
+          "urnaName": "EVA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 32,
+          "pct": 0.2238,
+          "auxVotes": 7
+        },
+        {
+          "candidate": 2222,
+          "urnaName": "SILAS FREIRE",
+          "party": "PR",
+          "state": "PI",
+          "votes": 75596,
+          "pct": 0.1797,
+          "auxVotes": 16918
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "PI",
+          "votes": 1180,
+          "pct": 0.2238,
+          "auxVotes": 264
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROMILDO MAFRA",
+          "party": "PROS",
+          "state": "PI",
+          "votes": 1899,
+          "pct": 0.2238,
+          "auxVotes": 425
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "PI",
+          "votes": 764,
+          "pct": 0.2238,
+          "auxVotes": 171
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "PI",
+          "votes": 2120,
+          "pct": 0.2238,
+          "auxVotes": 474
+        },
+        {
+          "candidate": 4400,
+          "urnaName": "HEITOR ALMONDES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 1912,
+          "pct": 0.2238,
+          "auxVotes": 428
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "LAECIO BORGES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 979,
+          "pct": 0.2238,
+          "auxVotes": 219
+        },
+        {
+          "candidate": 4411,
+          "urnaName": "NIXON DARIO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 453,
+          "pct": 0.2238,
+          "auxVotes": 101
+        },
+        {
+          "candidate": 4433,
+          "urnaName": "GALEGO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 339,
+          "pct": 0.2238,
+          "auxVotes": 76
+        },
+        {
+          "candidate": 4413,
+          "urnaName": "NAZAMARA",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 328,
+          "pct": 0.2238,
+          "auxVotes": 73
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "ROSARIA VITORINO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 313,
+          "pct": 0.2238,
+          "auxVotes": 70
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "MAINHA",
+          "party": "SD",
+          "state": "PI",
+          "votes": 30419,
+          "pct": 0.0628,
+          "auxVotes": 6808
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "PI",
+          "votes": 856,
+          "pct": 0.2238,
+          "auxVotes": 192
+        }
+      ],
+      "needVotes": 79531,
+      "pctVotes": 0.2912,
+      "realNeedVotes": 61118,
+      "realPctVotes": 0.2238,
+      "totalVotes": 61116,
+      "voteEach": 1910
+    }
+  },
+  {
+    "candidate": 4041,
+    "fullName": "RODRIGO RODRIGUES DE SOUZA MARTINS",
+    "urnaName": "RODRIGO",
+    "party": "PSB",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 92349,
+    "pct": 5.32,
+    "individual": false,
+    "quoc": 0.53,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "PTN",
+        "PTC",
+        "PDT",
+        "PSB",
+        "PSD",
+        "PRB",
+        "DEM",
+        "PSDC",
+        "PTdoB",
+        "PCdoB",
+        "PPS",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1511,
+          "urnaName": "MARLLOS SAMPAIO",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 77230,
+          "pct": 0.1811,
+          "auxVotes": 13984,
+          "canVotes": 18211
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 10723,
+          "pct": 0.2049,
+          "auxVotes": 2528
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "TOMAZ TEIXEIRA",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 1733,
+          "pct": 0.2358,
+          "auxVotes": 409
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "PI",
+          "votes": 531,
+          "pct": 0.2358,
+          "auxVotes": 125
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "DAVI SILVA",
+          "party": "PTN",
+          "state": "PI",
+          "votes": 46,
+          "pct": 0.2358,
+          "auxVotes": 11
+        },
+        {
+          "candidate": 3677,
+          "urnaName": "TOIM DUFRANGO",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1266,
+          "pct": 0.2358,
+          "auxVotes": 299
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1159,
+          "pct": 0.2358,
+          "auxVotes": 273
+        },
+        {
+          "candidate": 3699,
+          "urnaName": "MILTON",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 582,
+          "pct": 0.2358,
+          "auxVotes": 137
+        },
+        {
+          "candidate": 3636,
+          "urnaName": "THUYLA MARTINS",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 150,
+          "pct": 0.2358,
+          "auxVotes": 35
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "FLAVIO NOGUEIRA",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 88765,
+          "pct": 0.1575,
+          "auxVotes": 13984,
+          "canVotes": 20931
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "PI",
+          "votes": 8727,
+          "pct": 0.2358,
+          "auxVotes": 2058
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "JOSE REINALDO",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 2141,
+          "pct": 0.2358,
+          "auxVotes": 505
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "PI",
+          "votes": 23207,
+          "pct": 0.0947,
+          "auxVotes": 5472
+        },
+        {
+          "candidate": 4000,
+          "urnaName": "GERALDINHO",
+          "party": "PSB",
+          "state": "PI",
+          "votes": 2479,
+          "pct": 0.2358,
+          "auxVotes": 585
+        },
+        {
+          "candidate": 5500,
+          "urnaName": "HUGO NAPOLEAO",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 59977,
+          "pct": 0.2332,
+          "auxVotes": 13984,
+          "canVotes": 14143
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "PI",
+          "votes": 4792,
+          "pct": 0.2358,
+          "auxVotes": 1130
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "MIRIAN DA AGENCIA",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 300,
+          "pct": 0.2358,
+          "auxVotes": 71
+        },
+        {
+          "candidate": 1000,
+          "urnaName": "IDONEIL MESQUITA",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 21553,
+          "pct": 0.1019,
+          "auxVotes": 5082
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1866,
+          "pct": 0.2358,
+          "auxVotes": 440
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "HILMAR DO FRIGORIFICO",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1483,
+          "pct": 0.2358,
+          "auxVotes": 350
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "CARLA SOARES",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1004,
+          "pct": 0.2358,
+          "auxVotes": 237
+        },
+        {
+          "candidate": 2580,
+          "urnaName": "ZEZE",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 894,
+          "pct": 0.2358,
+          "auxVotes": 211
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "PI",
+          "votes": 724,
+          "pct": 0.2358,
+          "auxVotes": 171
+        },
+        {
+          "candidate": 2533,
+          "urnaName": "CABO FILINTRO NETO",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 265,
+          "pct": 0.2358,
+          "auxVotes": 62
+        },
+        {
+          "candidate": 2532,
+          "urnaName": "RAIMUNDA",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 15,
+          "pct": 0.2358,
+          "auxVotes": 4
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "EDINA CRUZ",
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 625,
+          "pct": 0.2358,
+          "auxVotes": 147
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 270,
+          "pct": 0.2358,
+          "auxVotes": 64
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 628,
+          "pct": 0.2358,
+          "auxVotes": 148
+        },
+        {
+          "candidate": 7085,
+          "urnaName": "PROFª CHEILA GOMES",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 472,
+          "pct": 0.2358,
+          "auxVotes": 111
+        },
+        {
+          "candidate": 7012,
+          "urnaName": "BELIZARIO NETO",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 404,
+          "pct": 0.2358,
+          "auxVotes": 95
+        },
+        {
+          "candidate": 6565,
+          "urnaName": "OSMAR JUNIOR",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 69705,
+          "pct": 0.2006,
+          "auxVotes": 13984,
+          "canVotes": 16436
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 2417,
+          "pct": 0.2358,
+          "auxVotes": 570
+        },
+        {
+          "candidate": 6578,
+          "urnaName": "DIANA REIS",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 9,
+          "pct": 0.2358,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "CELSO HENRIQUE",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 2475,
+          "pct": 0.2358,
+          "auxVotes": 584
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "PI",
+          "votes": 961,
+          "pct": 0.2358,
+          "auxVotes": 227
+        },
+        {
+          "candidate": 2345,
+          "urnaName": "RAIMUNDINHA RISOLETA",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 934,
+          "pct": 0.2358,
+          "auxVotes": 220
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "PI",
+          "votes": 12623,
+          "pct": 0.174,
+          "auxVotes": 2977
+        }
+      ],
+      "needVotes": 81275,
+      "pctVotes": 0.2358,
+      "realNeedVotes": 81275,
+      "realPctVotes": 0.2358,
+      "totalVotes": 81276,
+      "voteEach": 2197
+    }
+  },
+  {
+    "candidate": 4036,
+    "fullName": "HERACLITO DE SOUSA FORTES",
+    "urnaName": "HERACLITO",
+    "party": "PSB",
+    "state": "PI",
+    "impeachment": true,
+    "votes": 90898,
+    "pct": 5.24,
+    "individual": false,
+    "quoc": 0.52,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 1,
+      "parties": [
+        "PMDB",
+        "PTN",
+        "PTC",
+        "PDT",
+        "PSB",
+        "PSD",
+        "PRB",
+        "DEM",
+        "PSDC",
+        "PTdoB",
+        "PCdoB",
+        "PPS",
+        "PSDB"
+      ],
+      "others": [
+        {
+          "candidate": 1511,
+          "urnaName": "MARLLOS SAMPAIO",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 77230,
+          "pct": 0.1843,
+          "auxVotes": 14234,
+          "canVotes": 18535
+        },
+        {
+          "candidate": 15,
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 10723,
+          "pct": 0.2085,
+          "auxVotes": 2574
+        },
+        {
+          "candidate": 1555,
+          "urnaName": "TOMAZ TEIXEIRA",
+          "party": "PMDB",
+          "state": "PI",
+          "votes": 1733,
+          "pct": 0.24,
+          "auxVotes": 416
+        },
+        {
+          "candidate": 19,
+          "party": "PTN",
+          "state": "PI",
+          "votes": 531,
+          "pct": 0.24,
+          "auxVotes": 127
+        },
+        {
+          "candidate": 1919,
+          "urnaName": "DAVI SILVA",
+          "party": "PTN",
+          "state": "PI",
+          "votes": 46,
+          "pct": 0.24,
+          "auxVotes": 11
+        },
+        {
+          "candidate": 3677,
+          "urnaName": "TOIM DUFRANGO",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1266,
+          "pct": 0.24,
+          "auxVotes": 304
+        },
+        {
+          "candidate": 36,
+          "party": "PTC",
+          "state": "PI",
+          "votes": 1159,
+          "pct": 0.24,
+          "auxVotes": 278
+        },
+        {
+          "candidate": 3699,
+          "urnaName": "MILTON",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 582,
+          "pct": 0.24,
+          "auxVotes": 140
+        },
+        {
+          "candidate": 3636,
+          "urnaName": "THUYLA MARTINS",
+          "party": "PTC",
+          "state": "PI",
+          "votes": 150,
+          "pct": 0.24,
+          "auxVotes": 36
+        },
+        {
+          "candidate": 1212,
+          "urnaName": "FLAVIO NOGUEIRA",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 88765,
+          "pct": 0.1603,
+          "auxVotes": 14233,
+          "canVotes": 21304
+        },
+        {
+          "candidate": 12,
+          "party": "PDT",
+          "state": "PI",
+          "votes": 8727,
+          "pct": 0.24,
+          "auxVotes": 2094
+        },
+        {
+          "candidate": 1234,
+          "urnaName": "JOSE REINALDO",
+          "party": "PDT",
+          "state": "PI",
+          "votes": 2141,
+          "pct": 0.24,
+          "auxVotes": 514
+        },
+        {
+          "candidate": 40,
+          "party": "PSB",
+          "state": "PI",
+          "votes": 23207,
+          "pct": 0.0964,
+          "auxVotes": 5570
+        },
+        {
+          "candidate": 4000,
+          "urnaName": "GERALDINHO",
+          "party": "PSB",
+          "state": "PI",
+          "votes": 2479,
+          "pct": 0.24,
+          "auxVotes": 595
+        },
+        {
+          "candidate": 5500,
+          "urnaName": "HUGO NAPOLEAO",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 59977,
+          "pct": 0.2373,
+          "auxVotes": 14233,
+          "canVotes": 14394
+        },
+        {
+          "candidate": 55,
+          "party": "PSD",
+          "state": "PI",
+          "votes": 4792,
+          "pct": 0.24,
+          "auxVotes": 1150
+        },
+        {
+          "candidate": 5522,
+          "urnaName": "MIRIAN DA AGENCIA",
+          "party": "PSD",
+          "state": "PI",
+          "votes": 300,
+          "pct": 0.24,
+          "auxVotes": 72
+        },
+        {
+          "candidate": 1000,
+          "urnaName": "IDONEIL MESQUITA",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 21553,
+          "pct": 0.1037,
+          "auxVotes": 5173
+        },
+        {
+          "candidate": 10,
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1866,
+          "pct": 0.24,
+          "auxVotes": 448
+        },
+        {
+          "candidate": 1011,
+          "urnaName": "HILMAR DO FRIGORIFICO",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1483,
+          "pct": 0.24,
+          "auxVotes": 356
+        },
+        {
+          "candidate": 1010,
+          "urnaName": "CARLA SOARES",
+          "party": "PRB",
+          "state": "PI",
+          "votes": 1004,
+          "pct": 0.24,
+          "auxVotes": 241
+        },
+        {
+          "candidate": 2580,
+          "urnaName": "ZEZE",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 894,
+          "pct": 0.24,
+          "auxVotes": 215
+        },
+        {
+          "candidate": 25,
+          "party": "DEM",
+          "state": "PI",
+          "votes": 724,
+          "pct": 0.24,
+          "auxVotes": 174
+        },
+        {
+          "candidate": 2533,
+          "urnaName": "CABO FILINTRO NETO",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 265,
+          "pct": 0.24,
+          "auxVotes": 64
+        },
+        {
+          "candidate": 2532,
+          "urnaName": "RAIMUNDA",
+          "party": "DEM",
+          "state": "PI",
+          "votes": 15,
+          "pct": 0.24,
+          "auxVotes": 4
+        },
+        {
+          "candidate": 2727,
+          "urnaName": "EDINA CRUZ",
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 625,
+          "pct": 0.24,
+          "auxVotes": 150
+        },
+        {
+          "candidate": 27,
+          "party": "PSDC",
+          "state": "PI",
+          "votes": 270,
+          "pct": 0.24,
+          "auxVotes": 65
+        },
+        {
+          "candidate": 70,
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 628,
+          "pct": 0.24,
+          "auxVotes": 151
+        },
+        {
+          "candidate": 7085,
+          "urnaName": "PROFª CHEILA GOMES",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 472,
+          "pct": 0.24,
+          "auxVotes": 113
+        },
+        {
+          "candidate": 7012,
+          "urnaName": "BELIZARIO NETO",
+          "party": "PTdoB",
+          "state": "PI",
+          "votes": 404,
+          "pct": 0.24,
+          "auxVotes": 97
+        },
+        {
+          "candidate": 6565,
+          "urnaName": "OSMAR JUNIOR",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 69705,
+          "pct": 0.2042,
+          "auxVotes": 14233,
+          "canVotes": 16729
+        },
+        {
+          "candidate": 65,
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 2417,
+          "pct": 0.24,
+          "auxVotes": 580
+        },
+        {
+          "candidate": 6578,
+          "urnaName": "DIANA REIS",
+          "party": "PCdoB",
+          "state": "PI",
+          "votes": 9,
+          "pct": 0.24,
+          "auxVotes": 2
+        },
+        {
+          "candidate": 2323,
+          "urnaName": "CELSO HENRIQUE",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 2475,
+          "pct": 0.24,
+          "auxVotes": 594
+        },
+        {
+          "candidate": 23,
+          "party": "PPS",
+          "state": "PI",
+          "votes": 961,
+          "pct": 0.24,
+          "auxVotes": 231
+        },
+        {
+          "candidate": 2345,
+          "urnaName": "RAIMUNDINHA RISOLETA",
+          "party": "PPS",
+          "state": "PI",
+          "votes": 934,
+          "pct": 0.24,
+          "auxVotes": 224
+        },
+        {
+          "candidate": 45,
+          "party": "PSDB",
+          "state": "PI",
+          "votes": 12623,
+          "pct": 0.1771,
+          "auxVotes": 3030
+        }
+      ],
+      "needVotes": 82726,
+      "pctVotes": 0.24,
+      "realNeedVotes": 82726,
+      "realPctVotes": 0.24,
+      "totalVotes": 82726,
+      "voteEach": 2236
+    }
+  },
+  {
+    "candidate": 1410,
+    "fullName": "JOSÉ FRANCISCO PAES LANDIM",
+    "urnaName": "PAES LANDIM",
+    "party": "PTB",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 82549,
+    "pct": 4.75,
+    "individual": false,
+    "quoc": 0.48,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PP",
+        "PTB",
+        "PHS",
+        "PR",
+        "PROS",
+        "PRP",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "MERLONG SOLANO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 45824,
+          "pct": 0.1878,
+          "auxVotes": 11745
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "PI",
+          "votes": 28627,
+          "pct": 0.0764,
+          "auxVotes": 7337
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "PAIXAO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 10464,
+          "pct": 0.209,
+          "auxVotes": 2682
+        },
+        {
+          "candidate": 1345,
+          "urnaName": "DUDU",
+          "party": "PT",
+          "state": "PI",
+          "votes": 7624,
+          "pct": 0.2563,
+          "auxVotes": 1954
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "ANA LETICIA",
+          "party": "PT",
+          "state": "PI",
+          "votes": 1075,
+          "pct": 0.2563,
+          "auxVotes": 276
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "PI",
+          "votes": 6600,
+          "pct": 0.2563,
+          "auxVotes": 1692
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "PI",
+          "votes": 28505,
+          "pct": 0.0767,
+          "auxVotes": 7306
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "JOVE OLIVEIRA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 15664,
+          "pct": 0.1396,
+          "auxVotes": 4015
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "ELIANE",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 686,
+          "pct": 0.2563,
+          "auxVotes": 176
+        },
+        {
+          "candidate": 1444,
+          "urnaName": "VALMIR PAZ",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 320,
+          "pct": 0.2563,
+          "auxVotes": 82
+        },
+        {
+          "candidate": 1416,
+          "urnaName": "RAIMUNDO PAQUETA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 298,
+          "pct": 0.2563,
+          "auxVotes": 76
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GONCALINHO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 3340,
+          "pct": 0.2563,
+          "auxVotes": 856
+        },
+        {
+          "candidate": 3100,
+          "urnaName": "SAMIO FALCAO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 2455,
+          "pct": 0.2563,
+          "auxVotes": 629
+        },
+        {
+          "candidate": 3123,
+          "urnaName": "EDILSON ARAUJO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1752,
+          "pct": 0.2563,
+          "auxVotes": 449
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1160,
+          "pct": 0.2563,
+          "auxVotes": 297
+        },
+        {
+          "candidate": 3122,
+          "urnaName": "CASIK ROCHA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1141,
+          "pct": 0.2563,
+          "auxVotes": 292
+        },
+        {
+          "candidate": 3199,
+          "urnaName": "HILTON NASCIMENTO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 209,
+          "pct": 0.2563,
+          "auxVotes": 54
+        },
+        {
+          "candidate": 3134,
+          "urnaName": "MARTA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 154,
+          "pct": 0.2563,
+          "auxVotes": 39
+        },
+        {
+          "candidate": 3135,
+          "urnaName": "EVA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 32,
+          "pct": 0.2563,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 2222,
+          "urnaName": "SILAS FREIRE",
+          "party": "PR",
+          "state": "PI",
+          "votes": 75596,
+          "pct": 0.2563,
+          "auxVotes": 19373,
+          "canVotes": 19375
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "PI",
+          "votes": 1180,
+          "pct": 0.2563,
+          "auxVotes": 302
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROMILDO MAFRA",
+          "party": "PROS",
+          "state": "PI",
+          "votes": 1899,
+          "pct": 0.2563,
+          "auxVotes": 487
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "PI",
+          "votes": 764,
+          "pct": 0.2563,
+          "auxVotes": 196
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "PI",
+          "votes": 2120,
+          "pct": 0.2563,
+          "auxVotes": 543
+        },
+        {
+          "candidate": 4400,
+          "urnaName": "HEITOR ALMONDES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 1912,
+          "pct": 0.2563,
+          "auxVotes": 490
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "LAECIO BORGES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 979,
+          "pct": 0.2563,
+          "auxVotes": 251
+        },
+        {
+          "candidate": 4411,
+          "urnaName": "NIXON DARIO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 453,
+          "pct": 0.2563,
+          "auxVotes": 116
+        },
+        {
+          "candidate": 4433,
+          "urnaName": "GALEGO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 339,
+          "pct": 0.2563,
+          "auxVotes": 87
+        },
+        {
+          "candidate": 4413,
+          "urnaName": "NAZAMARA",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 328,
+          "pct": 0.2563,
+          "auxVotes": 84
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "ROSARIA VITORINO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 313,
+          "pct": 0.2563,
+          "auxVotes": 80
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "MAINHA",
+          "party": "SD",
+          "state": "PI",
+          "votes": 30419,
+          "pct": 0.0719,
+          "auxVotes": 7796
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "PI",
+          "votes": 856,
+          "pct": 0.2563,
+          "auxVotes": 219
+        }
+      ],
+      "needVotes": 91075,
+      "pctVotes": 0.3335,
+      "realNeedVotes": 69989,
+      "realPctVotes": 0.2563,
+      "totalVotes": 69989,
+      "voteEach": 2187
+    }
+  },
+  {
+    "candidate": 1490,
+    "fullName": "FÁBIO ABREU COSTA",
+    "urnaName": "CAPITAO FABIO ABREU",
+    "party": "PTB",
+    "state": "PI",
+    "impeachment": false,
+    "votes": 80839,
+    "pct": 4.66,
+    "individual": false,
+    "quoc": 0.47,
+    "status": {
+      "geral": "winner"
+    },
+    "group": {
+      "id": 0,
+      "parties": [
+        "PT",
+        "PP",
+        "PTB",
+        "PHS",
+        "PR",
+        "PROS",
+        "PRP",
+        "SD"
+      ],
+      "others": [
+        {
+          "candidate": 1333,
+          "urnaName": "MERLONG SOLANO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 45824,
+          "pct": 0.1914,
+          "auxVotes": 11965
+        },
+        {
+          "candidate": 13,
+          "party": "PT",
+          "state": "PI",
+          "votes": 28627,
+          "pct": 0.0778,
+          "auxVotes": 7475
+        },
+        {
+          "candidate": 1300,
+          "urnaName": "PAIXAO",
+          "party": "PT",
+          "state": "PI",
+          "votes": 10464,
+          "pct": 0.2129,
+          "auxVotes": 2732
+        },
+        {
+          "candidate": 1345,
+          "urnaName": "DUDU",
+          "party": "PT",
+          "state": "PI",
+          "votes": 7624,
+          "pct": 0.2611,
+          "auxVotes": 1991
+        },
+        {
+          "candidate": 1322,
+          "urnaName": "ANA LETICIA",
+          "party": "PT",
+          "state": "PI",
+          "votes": 1075,
+          "pct": 0.2611,
+          "auxVotes": 281
+        },
+        {
+          "candidate": 11,
+          "party": "PP",
+          "state": "PI",
+          "votes": 6600,
+          "pct": 0.2611,
+          "auxVotes": 1723
+        },
+        {
+          "candidate": 14,
+          "party": "PTB",
+          "state": "PI",
+          "votes": 28505,
+          "pct": 0.0782,
+          "auxVotes": 7443
+        },
+        {
+          "candidate": 1414,
+          "urnaName": "JOVE OLIVEIRA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 15664,
+          "pct": 0.1422,
+          "auxVotes": 4090
+        },
+        {
+          "candidate": 1400,
+          "urnaName": "ELIANE",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 686,
+          "pct": 0.2611,
+          "auxVotes": 179
+        },
+        {
+          "candidate": 1444,
+          "urnaName": "VALMIR PAZ",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 320,
+          "pct": 0.2611,
+          "auxVotes": 84
+        },
+        {
+          "candidate": 1416,
+          "urnaName": "RAIMUNDO PAQUETA",
+          "party": "PTB",
+          "state": "PI",
+          "votes": 298,
+          "pct": 0.2611,
+          "auxVotes": 78
+        },
+        {
+          "candidate": 3131,
+          "urnaName": "GONCALINHO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 3340,
+          "pct": 0.2611,
+          "auxVotes": 872
+        },
+        {
+          "candidate": 3100,
+          "urnaName": "SAMIO FALCAO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 2455,
+          "pct": 0.2611,
+          "auxVotes": 641
+        },
+        {
+          "candidate": 3123,
+          "urnaName": "EDILSON ARAUJO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1752,
+          "pct": 0.2611,
+          "auxVotes": 457
+        },
+        {
+          "candidate": 31,
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1160,
+          "pct": 0.2611,
+          "auxVotes": 303
+        },
+        {
+          "candidate": 3122,
+          "urnaName": "CASIK ROCHA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 1141,
+          "pct": 0.2611,
+          "auxVotes": 298
+        },
+        {
+          "candidate": 3199,
+          "urnaName": "HILTON NASCIMENTO",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 209,
+          "pct": 0.2611,
+          "auxVotes": 55
+        },
+        {
+          "candidate": 3134,
+          "urnaName": "MARTA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 154,
+          "pct": 0.2611,
+          "auxVotes": 40
+        },
+        {
+          "candidate": 3135,
+          "urnaName": "EVA",
+          "party": "PHS",
+          "state": "PI",
+          "votes": 32,
+          "pct": 0.2611,
+          "auxVotes": 8
+        },
+        {
+          "candidate": 2222,
+          "urnaName": "SILAS FREIRE",
+          "party": "PR",
+          "state": "PI",
+          "votes": 75596,
+          "pct": 0.2611,
+          "auxVotes": 19735,
+          "canVotes": 19738
+        },
+        {
+          "candidate": 22,
+          "party": "PR",
+          "state": "PI",
+          "votes": 1180,
+          "pct": 0.2611,
+          "auxVotes": 308
+        },
+        {
+          "candidate": 9090,
+          "urnaName": "ROMILDO MAFRA",
+          "party": "PROS",
+          "state": "PI",
+          "votes": 1899,
+          "pct": 0.2611,
+          "auxVotes": 496
+        },
+        {
+          "candidate": 90,
+          "party": "PROS",
+          "state": "PI",
+          "votes": 764,
+          "pct": 0.2611,
+          "auxVotes": 199
+        },
+        {
+          "candidate": 44,
+          "party": "PRP",
+          "state": "PI",
+          "votes": 2120,
+          "pct": 0.2611,
+          "auxVotes": 554
+        },
+        {
+          "candidate": 4400,
+          "urnaName": "HEITOR ALMONDES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 1912,
+          "pct": 0.2611,
+          "auxVotes": 499
+        },
+        {
+          "candidate": 4444,
+          "urnaName": "LAECIO BORGES",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 979,
+          "pct": 0.2611,
+          "auxVotes": 256
+        },
+        {
+          "candidate": 4411,
+          "urnaName": "NIXON DARIO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 453,
+          "pct": 0.2611,
+          "auxVotes": 118
+        },
+        {
+          "candidate": 4433,
+          "urnaName": "GALEGO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 339,
+          "pct": 0.2611,
+          "auxVotes": 89
+        },
+        {
+          "candidate": 4413,
+          "urnaName": "NAZAMARA",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 328,
+          "pct": 0.2611,
+          "auxVotes": 86
+        },
+        {
+          "candidate": 4455,
+          "urnaName": "ROSARIA VITORINO",
+          "party": "PRP",
+          "state": "PI",
+          "votes": 313,
+          "pct": 0.2611,
+          "auxVotes": 82
+        },
+        {
+          "candidate": 7777,
+          "urnaName": "MAINHA",
+          "party": "SD",
+          "state": "PI",
+          "votes": 30419,
+          "pct": 0.0732,
+          "auxVotes": 7942
+        },
+        {
+          "candidate": 77,
+          "party": "SD",
+          "state": "PI",
+          "votes": 856,
+          "pct": 0.2611,
+          "auxVotes": 224
+        }
+      ],
+      "needVotes": 92785,
+      "pctVotes": 0.3398,
+      "realNeedVotes": 71303,
+      "realPctVotes": 0.2611,
+      "totalVotes": 71303,
+      "voteEach": 2228
+    }
+  }
+]
