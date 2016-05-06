@@ -1,16 +1,8 @@
 'use strict';
 var fs = require('fs'),
-    path = require('path'),
-    request = require('request');
+    path = require('path');
 
-var download = function(uri, filename, callback){
-    request.head(uri, function(err, res){
-        console.log('content-type:', res.headers['content-type']);
-        console.log('content-length:', res.headers['content-length']);
-
-        request(uri).pipe(fs.createWriteStream(filename)).on('close', callback);
-    });
-};
+var download = require('./libs/download');
 
 // ################################
 // Download Brazilian States Flags
@@ -18,11 +10,18 @@ var download = function(uri, filename, callback){
 let states = require('../data/states'),
     statesAbbr = Object.keys(states);
 
+let promise = Promise.resolve();
 for (let i=0, len = statesAbbr.length; i<len; i++) {
     let abbr = statesAbbr[i],
         state = states[abbr],
         imgPath = path.join(process.cwd(), 'src', 'images', 'states', `${abbr}-512x512.png`);
-    download(state.image, imgPath, function () {
+    promise = promise.then(() => download(state.image, imgPath).then(() => {
         console.log('done', abbr);
-    });
+    }));
 }
+
+promise.then(() => {
+    console.log('end');
+}).catch(err => {
+    console.log(err.message, err.stack);
+});
