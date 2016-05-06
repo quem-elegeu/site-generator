@@ -11,7 +11,7 @@ var download = require('./libs/download-image');
 let states = require('../data/states'),
     statesAbbr = Object.keys(states);
 
-let promises = [];
+let promise = Promise.resolve();
 for (let i=0, len = statesAbbr.length; i<len; i++) {
     let abbr = statesAbbr[i],
         dataPath = path.join(process.cwd(), 'data', abbr, `candidates_${abbr}.json`),
@@ -50,16 +50,15 @@ for (let i=0, len = statesAbbr.length; i<len; i++) {
             continue;
         }
 
-        let promise = Promise.all(
+        promise = promise.then(() => Promise.all(
             files.map(f => download(f.url,  f.file))
         ).then(() => {
-            console.log('done', abbr, candidate.party, candidate.urnaName);
-        });
-        promises.push(promise);
+            console.log('done', abbr, candidate.party, candidate.urnaName, !!candidate.image);
+        }));
     }
 }
 
-Promise.all(promises).then(() => {
+promise.then(() => {
     console.log('end');
 }).catch(err => {
     console.log(err.message, err.stack);
