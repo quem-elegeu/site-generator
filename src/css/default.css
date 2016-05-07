@@ -20,8 +20,17 @@ body ul, body li {
     margin: 0;
     padding: 0;
 }
-
+/*.container-fluid {*/
+    /*background-color: #fff;*/
+/*}*/
 section {display: block;}
+.site-link {
+    padding: 8px 10px !important;
+}
+.site-logo {
+    border: 1px solid #fff;
+    padding: 1px;
+}
 .row {
     margin-right: -15px;
     margin-left: -15px;

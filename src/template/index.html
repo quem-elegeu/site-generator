@@ -9,10 +9,11 @@
     <link type="text/css" rel="stylesheet" href="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials-theme-flat.css" />
 
     <script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/jquery.jssocials/1.2.1/jssocials.min.js"></script>
 
     <script src="http://d3js.org/d3.v3.min.js"></script>
-    <link rel="stylesheet" href="css/default.css{{timeHash}}">
+    <script src="/js/biPartite-{{version}}.min.js"></script>
+    <link rel="stylesheet" href="/css/default-{{version}}.min.css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -23,137 +24,73 @@
 <body>
 {{> header}}
 {{> share}}
-<div class="container no-select" id="graficos">
-    <div class="row">
-        <div class="xcol-sm-6 xcol-lg-7">
-            <div class="panel panel-default">
-                <div class="panel-body">
 
-                    <div id="donuts" class="select-chart active">
-                        <div class="row col-sm-12 placeholders">
+<div class="container-fluid text-center" id="estados">
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <span id="states-list"></span>
+        </div>
+        <script src="/js/state-menu-{{version}}.min.js"></script>
+    </div>
+</div>
 
-                            <div class="col-xs-6 col-sm-4 panel panel-primary" style="border: 0;text-align: center;">
-                                <div class="panel-heading">
-                                    <h3 class="panel-title"><i class="fa fa-thumbs-down"></i> A Favor</h3>
-                                </div>
-                                <div id="chart-deputados-favor" class="chart-donut" style="margin-top: 5px;">
-                                    <svg id="graficoFavor" width="100" height="100"></svg>
-                                </div>
-                            </div>
-
-                            <div class="col-xs-6 col-sm-4 panel panel-yellow" style="border: 0;text-align: center;">
-                                <div class="panel-heading">
-                                    <h3 class="panel-title"><i class="fa fa-thumbs-down"></i> Indecisos</h3>
-                                </div>
-                                <div id="chart-deputados-idecisos" class="chart-donut" style="margin-top: 5px;">
-                                    <svg id="graficoIndeciso" width="100" height="100"></svg>
-                                </div>
-                            </div>
-
-                            <div class="col-xs-6 col-sm-4 panel panel-red" style="border: 0;text-align: center;">
-                                <div class="panel-heading">
-                                    <h3 class="panel-title"><i class="fa fa-thumbs-down"></i> Contra</h3>
-                                </div>
-                                <div id="chart-deputados-contra" class="chart-donut" style="margin-top: 5px;">
-                                    <svg id="graficoContra" width="100" height="100"></svg>
-                                </div>
-                            </div>
-<script src="js/liquidFillGauge.js{{timeHash}}"></script>
-<script>
-    var gauge1 = loadLiquidFillGauge("graficoFavor", {{favorPct}});
-    var config1 = liquidFillGaugeDefaultSettings();
-    config1.circleColor = "#D4AB6A";
-    config1.textColor = "#553300";
-    config1.waveTextColor = "#805615";
-    config1.waveColor = "#AA7D39";
-    var gauge2= loadLiquidFillGauge("graficoIndeciso", {{undecidedPct}}, config1);
-    var config2 = liquidFillGaugeDefaultSettings();
-    config2.circleColor = "#FF7777";
-    config2.textColor = "#FF4444";
-    config2.waveTextColor = "#FFAAAA";
-    config2.waveColor = "#FFDDDD";
-    var gauge3 = loadLiquidFillGauge("graficoContra", {{againstPct}}, config2);
-</script>
-                        </div>
-                        <div class="row">
-                            <div class="col-xs-12">
-                                <div class="legenda">
-                                    <i class="fa fa-circle favor"></i> A favor ({{favor.length}})
-                                    <i class="fa fa-circle indecisos"></i> Indecisos ({{undecided.length}})
-                                    <i class="fa fa-circle contra"></i> Contra ({{against.length}})
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+<div class="container-fluid text-center" id="graficos">
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <span id="quoeficientes"></span>
         </div>
     </div>
 </div>
 
-<div class="container-fluid" id="lista-favor-indeciso-contra">
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <h1 class="page-title">Lista de vereadores</h1>
-        </div>
-        <div class="panel-body container">
-            <div class="row">
-                <div class="col-sm-4">
-                    <a class="btn btn-block btn-primary btn-margin" rel="nofollow" href="mailto:?bcc={{favorEmails}}" target="_blank"><i class="fa fa-envelope"></i> Fale com os favoráveis</a>
+<script>
+    var state = 'SP';
+    var base = 'https://rawgit.com/quem-elegeu/site-generator/master/data/';
+    function getResume(state) {
+        state = state.trim().toUpperCase();
+        var url = base + state + '/resume_' + state + '.json?t=2016-04-24-03-18';
+        $.get(url, function (body) {
+            var res = 'string' === typeof body ? JSON.parse(body) : body;
+            var part = {},
+                resume = [] ;
+            res.forEach(function(r) {
+                var b = ['', r[1], r[2], 1];
+                b[0] = r[0].split(/\s*-\s*/)[0];
+                var key = b[0]+'<='+b[1];
+                if (!part[key]) {
+                    part[key] = resume.length;
+                    resume.push(b);
+                } else {
+                    var ref = resume[part[key]];
+                    ref[2] += b[2];
+                    ref[3]++;
+                }
+            });
+            resume = resume.sort(function(a, b) {
+                if (a[3] > b[3]) return 1;
+                else if (a[3] < b[3]) return -1;
+                else return 0;
+            }).map(function(r) {
+                r[0] += ' ( '+r[3]+' )'; return r;
+            });
+            var data = [{
+                data: bP.partData(resume, 2),
+                id: 'Candidates',
+                header: ["Eleitos", "Ajudou", "Deputados Federais "+state]
+            }];
+            d3.selectAll("svg").remove();
 
-                    <div class="panel panel-primary lista-vereadores favor">
-                        <div class="panel-heading">
-                            <h3 class="panel-title"><i class="fa fa-thumbs-up"></i> A favor da mobilidade</h3>
-                        </div>
-                        <div class="panel-body">
-                            <ul class="list-unstyled">
-                                {{#favor}}
-                                <li><a href="vereador/{{fileName}}.html"><b>{{fullName}}</b><span> - {{party}}</span></a></li>
-                                {{/favor}}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
+            var _width = width;
+            var _height = height + resume.length*10;
+            if (_height < 700) _height = 710;
+            var svg = d3.select("#quoeficientes")
+                    .append("svg").attr('width',_width).attr('height',(_height+margin.b+margin.t))
+                    .append("g").attr("transform","translate("+ margin.l+","+(margin.t)+")");
+            bP.draw(data, svg);
+        });
+    }
+    getResume(state);
+</script>
 
-                <div class="col-sm-4">
-                    <a class="btn btn-block btn-warning btn-margin" rel="nofollow" href="mailto:?bcc={{undecidedEmails}}" target="_blank"><i class="fa fa-envelope"></i> Fale com os indecisos</a>
-
-
-                    <div class="panel panel-yellow lista-vereadores">
-                        <div class="panel-heading">
-                            <h3 class="panel-title"><i class="fa fa-thumbs-down"></i> Indecisos</h3>
-                        </div>
-                        <div class="panel-body">
-                            <ul class="list-unstyled">
-                                {{#undecided}}
-                                <li><a href="vereador/{{fileName}}.html"><b>{{fullName}}</b><span> - {{party}}</span></a></li>
-                                {{/undecided}}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-sm-4">
-                    <a class="btn btn-block btn-danger btn-margin" rel="nofollow" href="mailto:?bcc={{againstEmails}}" target="_blank"><i class="fa fa-envelope"></i> Fale com os contrários</a>
-
-
-                    <div class="panel panel-red lista-vereadores contra">
-                        <div class="panel-heading">
-                            <h3 class="panel-title"><i class="fa fa-thumbs-down"></i> Contra a mobilidade</h3>
-                        </div>
-                        <div class="panel-body">
-                            <ul class="list-unstyled">
-                                {{#against}}
-                                <li><a href="vereador/{{fileName}}.html"><b>{{fullName}}</b><span> - {{party}}</span></a></li>
-                                {{/against}}
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
 <script>
 $(function () {
     $('.btn').on('click', function() {
@@ -161,7 +98,6 @@ $(function () {
     });
 });
 </script>
-</div>
 {{> footer}}
 </body>
 </html>
